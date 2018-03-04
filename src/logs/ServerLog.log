@@ -1,0 +1,30 @@
+=== Started 2018-02-11T01-29-25-224 ===
+[INFO ][01:29:25] 0 IP ban records loaded.
+[WARN ][01:29:25] User account "Local Administrator" disabled
+[WARN ][01:29:25] User account "Local Moderator" disabled
+[WARN ][01:29:25] User account "Local User" disabled
+[INFO ][01:29:25] 0 user records loaded.
+[INFO ][01:29:25] 419 bad words loaded
+[INFO ][01:29:25] [1m[32mMultiOgar-Edited 1.4.2[37m - An open source multi-protocol ogar server[0m
+[INFO ][01:29:25] WebSocket: ws
+[INFO ][01:29:25] Started stats server on port 1051
+[INFO ][01:29:25] Listening on port 8888
+[INFO ][01:29:25] Current game mode is Free For All
+[INFO ][01:29:25] Added 10 player bots
+[NONE ][01:29:30] CONNECTED    191.88.73.76:53311, origin: "http://localhost"
+[NONE ][01:29:43] >pl
+[NONE ][01:29:43] Current players: 26
+[NONE ][01:29:43] Do "playerlist m" or "pl m" to list minions
+[NONE ][01:29:43]  ID     | IP              | P | NICK                                                                                       | CELLS | SCORE  | POSITION    
+[NONE ][01:29:43] ----------------------------------------------------------------------------------------------------------------------------------------------------------
+[NONE ][01:29:43]       1 | [BOT]           | 0 | ༺𝓢ђσкεя༻一Ƒยภ✌                                                                             |     1 |   1204 | -3314,  4823
+[NONE ][01:29:43]       2 | [BOT]           | 0 | ƬψƬ ☢ ∂єνɨℓ✓                                                                               |     1 |   1235 | -5658,  2056
+[NONE ][01:29:43]       3 | [BOT]           | 0 | ƵŦ ★ Bαηєk                                                                                 |     1 |   1228 |  5730,  1661
+[NONE ][01:29:43]       4 | [BOT]           | 0 | Nαhz 🍬                                                                                    |     1 |   1228 |  -500, -5608
+[NONE ][01:29:43]       5 | [BOT]           | 0 | <kraken๖ۣۜΩυєєηⱣяιƨιɱ༻                                                                     |     1 |   1204 |  4079,  2981
+[NONE ][01:29:43]       6 | [BOT]           | 0 | 【≽ܫ≼】ᖫ✧ᗷØŁŦ✧ᖭ                                                                              |     1 |   1241 |  -799,  2891
+[NONE ][01:29:43]       7 | [BOT]           | 0 | ƬψƬ ☢ 𝓐ρiηiту                                                                             |     1 |   1228 | -4766, -4402
+[NONE ][01:29:43]       8 | [BOT]           | 0 | ƬψƬ ☢ 𝓣ℛ𝒪𝒳𝒳                                                                            |     1 |   1235 |  1366,  -713
+[NONE ][01:29:43]       9 | [BOT]           | 0 | ☃ ƬяᎥɔҠSpℓⓘƬ  ☃                                                                            |     1 |   1204 |   306,  -509
+[NONE ][01:29:43]      10 | [BOT]           | 0 | Simon㊗                                                                                     |     1 |   1204 | -6270,  -554
+[NONE ][01:29:43]      11 | 191.88.73.76    | 5 | Zapphire                                                                                   |     1 |     57 |  3964, -1940
