@@ -1,0 +1,20 @@
+[
+    { 
+        "ip":"", 
+        "password":"admin",
+        "role":"ADMIN",
+        "name":"Local Administrator" 
+    },
+    { 
+        "ip":"", 
+        "password":"",
+        "role":"MODER",
+        "name":"Local Moderator" 
+    },
+    { 
+        "ip":"", 
+        "password":"",
+        "role":"USER",
+        "name":"Local User" 
+    }
+]
