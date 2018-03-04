@@ -1,0 +1,43 @@
+=== Started 2018-02-18T18-34-15-439 ===
+[INFO ][18:34:15] 419 bad words loaded
+[WARN ][18:34:15] User account "Local Administrator" disabled
+[WARN ][18:34:15] User account "Local Moderator" disabled
+[WARN ][18:34:15] User account "Local User" disabled
+[INFO ][18:34:15] 0 user records loaded.
+[INFO ][18:34:15] 0 IP ban records loaded.
+[INFO ][18:34:15] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][18:34:15] WebSocket: ws
+[INFO ][18:34:15] Started stats server on port 9090
+[INFO ][18:34:15] Listening on port 8888
+[INFO ][18:34:15] Current game mode is Free For All
+[INFO ][18:34:15] Added 5 player bots
+[NONE ][18:34:15]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][18:34:16] CONNECTED 191.88.73.76:60662, origin: "http://zapphy.epizy.com"
+[NONE ][18:34:21] >pl
+[NONE ][18:34:21] 
+Current players: 21
+[NONE ][18:34:21] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:34:21]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:34:21] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:34:21]       1 | [BOT]           | ? |     1 |    892 |  5424,   714 | kiler                         
+[NONE ][18:34:21]       2 | [BOT]           | ? |     1 |    888 | -5932,  4036 | ᑎＡᖇᑌŦØ💨📹                    
+[NONE ][18:34:21]       3 | [BOT]           | ? |     1 |    894 |  6261, -2848 | ɨℜɛᾀŁ一℣Ʀ:快乐                   
+[NONE ][18:34:21]       4 | [BOT]           | ? |     1 |    894 | -4790,  4750 | Honeͥy Shwͣaͫrt               
+[NONE ][18:34:21]       5 | [BOT]           | ? |     1 |    892 |  1239, -3138 | ƵŦ= Ƶero Ŧalent               
+[NONE ][18:34:21]       6 | 191.88.73.76    | 6 |     1 |    890 | -6192, -3127 | Crystal                       
+[NONE ][18:34:24] >m 6 10000
+[NONE ][18:34:24] Set mass of Crystal to 10000.000
+[NONE ][18:34:50] >m 6 15000
+[NONE ][18:34:50] Set mass of Crystal to 15000.000
+[NONE ][18:35:52] >m 6 19000
+[NONE ][18:35:52] Set mass of Crystal to 19000.000
+[NONE ][18:36:12] >exit
+[WARN ][18:36:12] Closing server...
+[DEBUG][18:36:12] process.exit(1)
+=== Shutdown 2018-02-18T18-36-12-996 ===

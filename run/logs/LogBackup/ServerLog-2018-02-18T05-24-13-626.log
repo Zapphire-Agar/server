@@ -1,0 +1,235 @@
+=== Started 2018-02-18T00-14-28-366 ===
+[INFO ][00:14:28] 419 bad words loaded
+[WARN ][00:14:28] User account "Local Administrator" disabled
+[WARN ][00:14:28] User account "Local Moderator" disabled
+[WARN ][00:14:28] User account "Local User" disabled
+[INFO ][00:14:28] 0 user records loaded.
+[INFO ][00:14:28] 0 IP ban records loaded.
+[INFO ][00:14:28] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][00:14:28] WebSocket: ws
+[INFO ][00:14:28] Started stats server on port 9090
+[INFO ][00:14:28] Listening on port 8888
+[INFO ][00:14:28] Current game mode is Free For All
+[INFO ][00:14:28] Added 5 player bots
+[NONE ][00:14:28]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][00:14:29] CONNECTED 191.88.73.76:50002, origin: "http://localhost"
+[NONE ][00:14:34] DISCONNECTED 191.88.73.76:50002, code: 1006, reason: "", name: ""
+[NONE ][00:14:36] CONNECTED 191.88.73.76:50011, origin: "http://localhost"
+[NONE ][00:14:50] DISCONNECTED 191.88.73.76:50011, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][00:14:52] CONNECTED 191.88.73.76:50020, origin: "http://localhost"
+[NONE ][00:15:05] DISCONNECTED 191.88.73.76:50020, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:15:08] CONNECTED 191.88.73.76:50029, origin: "http://localhost"
+[NONE ][00:15:22] DISCONNECTED 191.88.73.76:50029, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:15:24] CONNECTED 191.88.73.76:50038, origin: "http://localhost"
+[NONE ][00:15:54] DISCONNECTED 191.88.73.76:50038, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:15:57] CONNECTED 191.88.73.76:50048, origin: "http://localhost"
+[NONE ][00:16:43] DISCONNECTED 191.88.73.76:50048, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:19:11] CONNECTED 191.88.73.76:50068, origin: "http://localhost"
+[NONE ][00:20:57] DISCONNECTED 191.88.73.76:50068, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:20:59] CONNECTED 191.88.73.76:50077, origin: "http://localhost"
+[NONE ][00:21:14] >ok
+[WARN ][00:21:14] Invalid Command!
+[NONE ][00:21:16] >pl
+[NONE ][00:21:16] 
+Current players: 21
+[NONE ][00:21:16] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:21:16]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:21:16] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:21:16]       1 | [BOT]           | ? |     2 |     67 |    92,  2349 | ฬợאģ🐉                        
+[NONE ][00:21:16]       2 | [BOT]           | ? |     1 |   3396 | -3509, -5166 | PRODOTA                       
+[NONE ][00:21:16]       3 | [BOT]           | ? |     1 |    220 | -5111,  6506 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:21:16]       4 | [BOT]           | ? |     8 |    874 |   241,   488 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:21:16]       5 | [BOT]           | ? |     7 |   3624 |  -598,   675 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:21:16]     118 | 191.88.73.76    | 6 |     1 |    590 | -5207,  5098 | Zapphire                      
+[NONE ][00:21:22] >m 118 12000
+[NONE ][00:21:22] Set mass of Zapphire to 12000.000
+[NONE ][00:22:27] DISCONNECTED 191.88.73.76:50077, code: 1006, reason: "", name: "Zapphire"
+[NONE ][00:22:29] CONNECTED 191.88.73.76:50091, origin: "http://localhost"
+[NONE ][00:22:45] DISCONNECTED 191.88.73.76:50091, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:22:49] CONNECTED 191.88.73.76:50100, origin: "http://localhost"
+[NONE ][00:23:09] DISCONNECTED 191.88.73.76:50100, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:24:40] CONNECTED 191.88.73.76:50152, origin: "http://localhost"
+[NONE ][00:24:58] DISCONNECTED 191.88.73.76:50152, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:25:01] CONNECTED 191.88.73.76:50163, origin: "http://localhost"
+[NONE ][00:25:16] >ok
+[WARN ][00:25:16] Invalid Command!
+[NONE ][00:25:17] >pl
+[NONE ][00:25:17] 
+Current players: 21
+[NONE ][00:25:17] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:25:17]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:25:17] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:25:17]       1 | [BOT]           | ? |     1 |    307 | -5729,  -317 | ฬợאģ🐉                        
+[NONE ][00:25:17]       2 | [BOT]           | ? |     1 |   4506 |  4176,  -812 | PRODOTA                       
+[NONE ][00:25:17]       3 | [BOT]           | ? |     5 |    139 |   657,   801 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:25:17]       4 | [BOT]           | ? |     2 |    911 |  1992,  1168 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:25:17]       5 | [BOT]           | ? |     4 |    123 |   -73,   624 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:25:17]     182 | 191.88.73.76    | 6 |     1 |    322 |   826, -5476 | Zapphire                      
+[NONE ][00:25:28] >m 182 10000
+[NONE ][00:25:28] Set mass of Zapphire to 10000.000
+[NONE ][00:25:59] DISCONNECTED 191.88.73.76:50163, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:26:01] CONNECTED 191.88.73.76:50172, origin: "http://localhost"
+[NONE ][00:26:19] DISCONNECTED 191.88.73.76:50172, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:26:30] CONNECTED 191.88.73.76:50185, origin: "http://localhost"
+[NONE ][00:26:34] >ok
+[WARN ][00:26:34] Invalid Command!
+[NONE ][00:26:35] >pl
+[NONE ][00:26:35] 
+Current players: 21
+[NONE ][00:26:35] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:26:35]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:26:35] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:26:35]       1 | [BOT]           | ? |     4 |    567 | -1009,    21 | ฬợאģ🐉                        
+[NONE ][00:26:35]       2 | [BOT]           | ? |     1 |  12583 |  1036, -4832 | PRODOTA                       
+[NONE ][00:26:35]       3 | [BOT]           | ? |     1 |    192 |  4696,  5180 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:26:35]       4 | [BOT]           | ? |     1 |    816 |  1639,  4876 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:26:35]       5 | [BOT]           | ? |     4 |    101 |   -68,   636 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:26:35]     214 | 191.88.73.76    | 6 |     1 |    900 | -1814, -3491 | Zapphire                      
+[NONE ][00:26:50] DISCONNECTED 191.88.73.76:50185, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:26:53] CONNECTED 191.88.73.76:50196, origin: "http://localhost"
+[NONE ][00:27:00] DISCONNECTED 191.88.73.76:50196, code: 1001, reason: "", name: ""
+[NONE ][00:27:02] CONNECTED 191.88.73.76:50202, origin: "http://localhost"
+[NONE ][00:27:15] DISCONNECTED 191.88.73.76:50202, code: 1006, reason: "", name: ""
+[NONE ][00:27:17] CONNECTED 191.88.73.76:50211, origin: "http://localhost"
+[NONE ][00:27:24] DISCONNECTED 191.88.73.76:50211, code: 1001, reason: "", name: ""
+[NONE ][00:27:26] CONNECTED 191.88.73.76:50218, origin: "http://localhost"
+[NONE ][00:27:54] >m 214 1
+[WARN ][00:27:54] That player ID is non-existant!
+[NONE ][00:28:01] >pl
+[NONE ][00:28:01] 
+Current players: 21
+[NONE ][00:28:01] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:28:01]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:28:01] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:28:01]       1 | [BOT]           | ? |     8 |    718 |  -344,   -79 | ฬợאģ🐉                        
+[NONE ][00:28:01]       2 | [BOT]           | ? |     1 |  11227 |  -263, -5390 | PRODOTA                       
+[NONE ][00:28:01]       3 | [BOT]           | ? |     4 |    690 |  1087,  1116 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:28:01]       4 | [BOT]           | ? |     2 |    710 |  2010,  3313 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:28:01]       5 | [BOT]           | ? |     1 |    116 |   902,  2664 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:28:01]     278 | 191.88.73.76    | 6 |     1 |    898 | -3151,  3349 | Zapphire                      
+[NONE ][00:28:07] >m 278 10000
+[NONE ][00:28:07] Set mass of Zapphire to 10000.000
+[NONE ][00:28:29] DISCONNECTED 191.88.73.76:50218, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:28:31] CONNECTED 191.88.73.76:50228, origin: "http://localhost"
+[NONE ][00:28:52] DISCONNECTED 191.88.73.76:50228, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:28:54] CONNECTED 191.88.73.76:50237, origin: "http://localhost"
+[NONE ][00:29:11] >pl
+[NONE ][00:29:11] 
+Current players: 21
+[NONE ][00:29:11] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:29:11]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:29:11] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:29:11]       1 | [BOT]           | ? |     9 |    941 |  -593,  -596 | ฬợאģ🐉                        
+[NONE ][00:29:11]       2 | [BOT]           | ? |     1 |   9494 |  1656, -3605 | PRODOTA                       
+[NONE ][00:29:11]       3 | [BOT]           | ? |     1 |    749 |  1814,  2909 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:29:11]       4 | [BOT]           | ? |     1 |    188 |  7002,  6423 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:29:11]       5 | [BOT]           | ? |     2 |    211 |  2434,   502 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:29:11]     310 | 191.88.73.76    | 6 |     1 |    131 | -1709, -4878 | Zapphire                      
+[NONE ][00:29:15] >m 310 6000
+[NONE ][00:29:15] Set mass of Zapphire to 6000.000
+[NONE ][00:29:23] >m 310 10000
+[NONE ][00:29:23] Set mass of Zapphire to 10000.000
+[NONE ][00:30:21] >m 310 10000
+[NONE ][00:30:21] Set mass of Zapphire to 10000.000
+[NONE ][00:31:00] DISCONNECTED 191.88.73.76:50237, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:31:02] CONNECTED 191.88.73.76:50246, origin: "http://localhost"
+[NONE ][00:31:07] >ok
+[WARN ][00:31:07] Invalid Command!
+[NONE ][00:31:07] >pl
+[NONE ][00:31:07] 
+Current players: 21
+[NONE ][00:31:07] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:31:07]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:31:07] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:31:07]       1 | [BOT]           | ? |     3 |   1151 | -1589, -2046 | ฬợאģ🐉                        
+[NONE ][00:31:07]       2 | [BOT]           | ? |     8 |   1755 |   184,  -204 | PRODOTA                       
+[NONE ][00:31:07]       3 | [BOT]           | ? |     2 |    164 |  -560,  2506 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:31:07]       4 | [BOT]           | ? |     1 |    133 |  7013,  6417 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:31:07]       5 | [BOT]           | ? |     5 |    674 |   100,   147 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:31:07]     326 | 191.88.73.76    | 6 |     1 |    818 |  5055,  3587 | Zapphire                      
+[NONE ][00:31:13] >m 326 10000
+[NONE ][00:31:13] Set mass of Zapphire to 10000.000
+[NONE ][00:32:03] >m 326 10000
+[NONE ][00:32:03] Set mass of Zapphire to 10000.000
+[NONE ][00:32:34] DISCONNECTED 191.88.73.76:50246, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:32:36] CONNECTED 191.88.73.76:50256, origin: "http://localhost"
+[NONE ][00:33:15] DISCONNECTED 191.88.73.76:50256, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:33:17] CONNECTED 191.88.73.76:50265, origin: "http://localhost"
+[NONE ][00:33:36] DISCONNECTED 191.88.73.76:50265, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:33:38] CONNECTED 191.88.73.76:50274, origin: "http://localhost"
+[NONE ][00:34:09] >pl
+[NONE ][00:34:09] 
+Current players: 21
+[NONE ][00:34:09] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:34:09]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:34:09] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:34:09]       1 | [BOT]           | ? |     6 |   1094 |   209, -1010 | ฬợאģ🐉                        
+[NONE ][00:34:09]       2 | [BOT]           | ? |    14 |   1470 |   432,   397 | PRODOTA                       
+[NONE ][00:34:09]       3 | [BOT]           | ? |     1 |    244 |  -271,  6357 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:34:09]       4 | [BOT]           | ? |     1 |     24 |  5090,  5773 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:34:09]       5 | [BOT]           | ? |     1 |   3526 |  3507, -3377 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:34:09]     374 | 191.88.73.76    | 6 |     1 |    894 | -2383,  5293 | Zapphire                      
+[NONE ][00:34:15] >m 374 4000
+[NONE ][00:34:15] Set mass of Zapphire to 4000.000
+[NONE ][00:34:21] >m 374 12000
+[NONE ][00:34:21] Set mass of Zapphire to 12000.000
+[NONE ][00:34:51] DISCONNECTED 191.88.73.76:50274, code: 1006, reason: "", name: "Zapphire"
+[NONE ][00:34:53] CONNECTED 191.88.73.76:50284, origin: "http://localhost"
+[NONE ][00:35:02] >m 374 12000
+[WARN ][00:35:02] That player ID is non-existant!
+[NONE ][00:35:03] >pl
+[NONE ][00:35:03] 
+Current players: 21
+[NONE ][00:35:03] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:35:03]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:35:03] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:35:03]       1 | [BOT]           | ? |     1 |   1003 |  2025, -6434 | ฬợאģ🐉                        
+[NONE ][00:35:03]       2 | [BOT]           | ? |     1 |    258 |  6990,  6021 | PRODOTA                       
+[NONE ][00:35:03]       3 | [BOT]           | ? |     2 |    346 |  3194,   -82 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:35:03]       4 | [BOT]           | ? |     1 |     81 |  6292,  -994 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:35:03]       5 | [BOT]           | ? |     1 |   3057 |  3463, -4516 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:35:03]     390 | 191.88.73.76    | 6 |     1 |    881 | -1086,  4489 | Zapphire                      
+[NONE ][00:35:30] >m 390 10000
+[NONE ][00:35:30] Set mass of Zapphire to 10000.000
+[NONE ][00:36:19] DISCONNECTED 191.88.73.76:50284, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:36:21] CONNECTED 191.88.73.76:50294, origin: "http://localhost"
+[NONE ][00:36:30] DISCONNECTED 191.88.73.76:50294, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:36:32] CONNECTED 191.88.73.76:50303, origin: "http://localhost"
+[NONE ][00:36:39] DISCONNECTED 191.88.73.76:50303, code: 1001, reason: "", name: ""
+[NONE ][00:36:51] CONNECTED 191.88.73.76:50311, origin: "http://localhost"
+[NONE ][00:36:56] >ok
+[WARN ][00:36:56] Invalid Command!
+[NONE ][00:37:01] >opl
+[WARN ][00:37:01] Invalid Command!
+[NONE ][00:37:02] >pl
+[NONE ][00:37:02] 
+Current players: 21
+[NONE ][00:37:02] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:37:02]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:37:02] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:37:02]       1 | [BOT]           | ? |     8 |    246 |  -232,  -679 | ฬợאģ🐉                        
+[NONE ][00:37:02]       2 | [BOT]           | ? |     8 |    450 |   475,   668 | PRODOTA                       
+[NONE ][00:37:02]       3 | [BOT]           | ? |    14 |    549 |   358,  -110 | 𐌕𐌀𐌊𐌄𐌕𐋏𐌄L               
+[NONE ][00:37:02]       4 | [BOT]           | ? |     2 |    991 | -2592, -2733 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][00:37:02]       5 | [BOT]           | ? |    13 |   3311 |    64,  -378 | Ƥяσχу❥一㋐🐉                    
+[NONE ][00:37:02]     438 | 191.88.73.76    | 6 |     1 |    882 | -2982,  3323 | Zapphire                      
+[NONE ][00:37:06] >m 438 10000
+[NONE ][00:37:06] Set mass of Zapphire to 10000.000
+[NONE ][00:38:52] DISCONNECTED 191.88.73.76:50311, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:38:54] CONNECTED 191.88.73.76:50322, origin: "http://localhost"
+[DEBUG][05:24:08] process.exit(1)
+=== Shutdown 2018-02-18T05-24-08-519 ===

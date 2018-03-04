@@ -1,0 +1,43 @@
+=== Started 2018-02-18T22-30-18-925 ===
+[INFO ][22:30:18] 419 bad words loaded
+[WARN ][22:30:18] User account "Local Administrator" disabled
+[WARN ][22:30:18] User account "Local Moderator" disabled
+[WARN ][22:30:18] User account "Local User" disabled
+[INFO ][22:30:18] 0 user records loaded.
+[INFO ][22:30:18] 0 IP ban records loaded.
+[INFO ][22:30:18] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][22:30:18] WebSocket: ws
+[INFO ][22:30:19] Started stats server on port 9090
+[INFO ][22:30:19] Listening on port 8888
+[INFO ][22:30:19] Current game mode is Free For All
+[INFO ][22:30:19] Added 5 player bots
+[NONE ][22:30:19]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][22:30:20] CONNECTED 191.88.73.76:65258, origin: "http://zapphy.epizy.com"
+[NONE ][22:30:20] CONNECTED 201.185.230.177:58684, origin: "http://zapphy.epizy.com"
+[NONE ][22:30:22] >pl
+[NONE ][22:30:22] 
+Current players: 37
+[NONE ][22:30:22] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][22:30:22]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][22:30:22] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][22:30:22]       1 | [BOT]           | ? |     1 |    893 |  5898,  1542 | ƬψƬ鿄VเƤᗴℝ                     
+[NONE ][22:30:22]       2 | [BOT]           | ? |     2 |    927 |  2871, -1354 | For The Team                  
+[NONE ][22:30:22]       3 | [BOT]           | ? |     8 |    999 |  -682,  -700 | Jason                         
+[NONE ][22:30:22]       4 | [BOT]           | ? |     2 |    929 | -2283,  2272 | あなたのお父さん                      
+[NONE ][22:30:22]       5 | [BOT]           | ? |     2 |    929 |   581,   -39 | SCRACK ' ˡºᵛᵉ➸❤               
+[NONE ][22:30:22]       6 | 191.88.73.76    | 6 |     1 |    902 | -6736, -1076 | Zap                           
+[NONE ][22:30:22]      22 | 201.185.230.177 | 6 |     1 |    897 |  2409,  1318 | [◊] ▬Eɴᴇʀɢʏ•                  
+[NONE ][22:30:29] >m 6 20000
+[NONE ][22:30:29] Set mass of Zap to 20000.000
+[NONE ][22:30:53] >m 22 20000
+[NONE ][22:30:53] Set mass of [◊] ▬Eɴᴇʀɢʏ• to 20000.000
+[NONE ][22:30:57] >m 6 20000
+[NONE ][22:30:57] Set mass of Zap to 20000.000
+[NONE ][22:32:42] DISCONNECTED 201.185.230.177:58684, code: 1001, reason: "", name: "[◊] ▬Eɴᴇʀɢʏ•"
+[NONE ][22:32:51] DISCONNECTED 191.88.73.76:65258, code: 1001, reason: "", name: "Zap"

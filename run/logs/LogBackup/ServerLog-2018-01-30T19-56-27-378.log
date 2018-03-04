@@ -1,0 +1,60 @@
+=== Started 2018-01-30T19-43-26-063 ===
+[INFO ][19:43:26] 419 bad words loaded
+[WARN ][19:43:26] User account "Local Administrator" disabled
+[WARN ][19:43:26] User account "Local Moderator" disabled
+[WARN ][19:43:26] User account "Local User" disabled
+[INFO ][19:43:26] 0 user records loaded.
+[INFO ][19:43:26] 0 IP ban records loaded.
+[INFO ][19:43:26] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:43:26] WebSocket: ws
+[INFO ][19:43:26] Started stats server on port 9090
+[INFO ][19:43:26] Listening on port 8888
+[INFO ][19:43:26] Current game mode is Free For All
+[INFO ][19:43:26] Added 15 player bots
+[NONE ][19:43:26]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][19:57:15] CONNECTED 127.0.0.1:50572, origin: "http://localhost"
+[NONE ][19:57:19] DISCONNECTED 127.0.0.1:50572, code: 1006, reason: "", name: ""
+[NONE ][19:57:21] CONNECTED 127.0.0.1:50579, origin: "http://localhost"
+[NONE ][19:57:23] DISCONNECTED 127.0.0.1:50579, code: 1006, reason: "", name: ""
+[NONE ][19:58:00] CONNECTED 127.0.0.1:50593, origin: "http://localhost"
+[NONE ][19:59:02] >pl
+[NONE ][19:59:02] 
+Current players: 26
+[NONE ][19:59:02] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:59:02]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:59:02] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:59:02]       1 | [BOT]           | ? |     1 |     83 | -1623,  6433 | ๖̶̶̶ۣۜƪıʇʌʇ๖ 洳ﺬ               
+[NONE ][19:59:02]       2 | [BOT]           | ? |     1 |    819 |  3218, -3062 | Řußïηh⊕🎅🎄                  
+[NONE ][19:59:02]       3 | [BOT]           | ? |     3 |    105 | -1211,  -117 | ₆₂₀ツ ƵluiqYT                  
+[NONE ][19:59:02]       4 | [BOT]           | ? |     4 |    129 |  1228,  1716 | Ninja N                       
+[NONE ][19:59:02]       5 | [BOT]           | ? |     3 |    177 |  2004, -1000 | ☛ℱΛɮ☣ ĞÃෆẸร☚                  
+[NONE ][19:59:02]       6 | [BOT]           | ? |     2 |    204 | -3430, -1771 | Sara                          
+[NONE ][19:59:02]       7 | [BOT]           | ? |     1 |     56 | -3553, -4523 | 要⚛素ζ͜͡✘ᴇ͢ηøη⁵⁴♥               
+[NONE ][19:59:02]       8 | [BOT]           | ? |     8 |    886 |   471,   708 | fat dog                       
+[NONE ][19:59:02]       9 | [BOT]           | ? |     2 |   5956 | -1060,   568 | x.X.x/\GHST>MWx               
+[NONE ][19:59:02]      10 | [BOT]           | ? |     5 |    119 |    31,  -249 | Help4Help                     
+[NONE ][19:59:02]      11 | [BOT]           | ? |    16 |   4279 |   -52,  -362 | 😈〖ＪＭ〗ĴĦΔ¥Đ€Ř                 
+[NONE ][19:59:02]      12 | [BOT]           | ? |     1 |    321 | -2963,  6296 | ๖ۣۜ㊗℣ƗŘǤØ༻一妥思                 
+[NONE ][19:59:02]      13 | [BOT]           | ? |     6 |    724 |   458,  1008 | ๖ۣƝ𝑒๏𝔃༻一𒅄                  
+[NONE ][19:59:02]      14 | [BOT]           | ? |     2 |     69 |  2949,  2306 | Ⱥ↻| 𝓢я𝓎ᶻᶻᶻ-✗                
+[NONE ][19:59:02]      15 | [BOT]           | ? |     1 |    599 |  2438, -6740 | 【Řβ】Řยßïηh⊕🔫                
+[NONE ][19:59:02]      38 | 127.0.0.1       | 6 |     1 |   1739 |  -242,   748 | trex                          
+[NONE ][19:59:05] >m 38 12000
+[NONE ][19:59:05] Set mass of trex to 12000.000
+[NONE ][20:02:10] >m 38 12000
+[NONE ][20:02:10] Set mass of An unnamed cell to 12000.000
+[NONE ][20:04:22] >m 38 16000
+[NONE ][20:04:22] Set mass of An unnamed cell to 16000.000
+[NONE ][20:05:18] >m 38 16000
+[NONE ][20:05:18] Set mass of An unnamed cell to 16000.000
+[NONE ][20:05:21] >m 38 22000
+[NONE ][20:05:21] Set mass of An unnamed cell to 22000.000
+[NONE ][20:07:18] DISCONNECTED 127.0.0.1:50593, code: 1001, reason: "", name: ""
+[NONE ][20:07:23] CONNECTED 127.0.0.1:50614, origin: "http://localhost"
+[DEBUG][20:08:26] process.exit(1)

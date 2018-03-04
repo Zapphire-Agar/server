@@ -1,0 +1,15 @@
+=== Started 2018-01-30T19-56-27-378 ===
+[INFO ][19:56:27] 419 bad words loaded
+[WARN ][19:56:27] User account "Local Administrator" disabled
+[WARN ][19:56:27] User account "Local Moderator" disabled
+[WARN ][19:56:27] User account "Local User" disabled
+[INFO ][19:56:27] 0 user records loaded.
+[INFO ][19:56:27] 0 IP ban records loaded.
+[INFO ][19:56:27] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:56:27] WebSocket: ws
+[ERROR][19:56:27] Stats Server: listen EADDRINUSE :::9090
+[ERROR][19:56:27] WebSocket: EADDRINUSE - listen EADDRINUSE 0.0.0.0:8888
+[ERROR][19:56:27] Server could not bind to port 8888!
+[ERROR][19:56:27] Please close out of Skype or change 'serverPort' in gameserver.ini to a different number.
+[DEBUG][19:56:27] process.exit(1)
+=== Shutdown 2018-01-30T19-56-27-532 ===

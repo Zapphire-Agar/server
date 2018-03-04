@@ -1,0 +1,104 @@
+=== Started 2018-02-20T17-58-17-819 ===
+[INFO ][17:58:17] 0 bad words loaded
+[WARN ][17:58:17] User account "Local Administrator" disabled
+[WARN ][17:58:17] User account "Local Moderator" disabled
+[WARN ][17:58:17] User account "Local User" disabled
+[INFO ][17:58:17] 0 user records loaded.
+[INFO ][17:58:17] 0 IP ban records loaded.
+[INFO ][17:58:17] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:58:17] WebSocket: ws
+[INFO ][17:58:17] Started stats server on port 9090
+[INFO ][17:58:17] Listening on port 8888
+[INFO ][17:58:17] Current game mode is Free For All
+[INFO ][17:58:17] Added 5 player bots
+[NONE ][17:58:17]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][17:58:19] CONNECTED 177.226.236.81:21342, origin: "http://zapphy.epizy.com"
+[NONE ][17:58:19] CONNECTED 191.88.73.76:51143, origin: "http://zapphy.epizy.com"
+[NONE ][17:58:19] CONNECTED 190.207.93.74:60860, origin: "http://zapphy.epizy.com"
+[NONE ][17:58:38] >kickbots
+[WARN ][17:58:38] Invalid Command!
+[NONE ][17:58:39] >kickbots
+[WARN ][17:58:39] Invalid Command!
+[NONE ][17:58:40] >kickbot
+[WARN ][17:58:40] Only 5 bots were kicked
+[NONE ][17:58:41] CONNECTED 190.201.3.211:50866, origin: "http://zapphy.epizy.com"
+[NONE ][17:58:53] CONNECTED 190.233.242.184:51889, origin: "http://zapphy.epizy.com"
+[NONE ][17:59:36] CONNECTED 190.152.207.234:3901, origin: "http://zapphy.epizy.com"
+[NONE ][17:59:49] >pl
+[NONE ][17:59:49] 
+Current players: 96
+[NONE ][17:59:49] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:59:49]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][17:59:49] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:59:49]       6 | 177.226.236.81  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][17:59:49]      22 | 191.88.73.76    | 6 |     1 |    435 |  -336,  4396 | Zap                           
+[NONE ][17:59:49]      38 | 190.207.93.74   | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][17:59:49]      54 | 190.201.3.211   | 6 |     8 |   2019 |   578,  -221 | An unnamed cell               
+[NONE ][17:59:49]      70 | 190.233.242.184 | 6 |     8 |  17811 |   -49,   156 | noob                          
+[NONE ][17:59:49]      86 | 190.152.207.234 | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][18:00:07] >reload
+[INFO ][18:00:07] 0 bad words loaded
+[WARN ][18:00:07] User account "Local Moderator" disabled
+[WARN ][18:00:07] User account "Local User" disabled
+[INFO ][18:00:07] 1 user records loaded.
+[INFO ][18:00:07] 0 IP ban records loaded.
+[NONE ][18:00:07] Reloaded files successfully
+[NONE ][18:00:13] LOGIN        191.88.73.76:51143 as "Local Administrator"
+[NONE ][18:03:30] DISCONNECTED 190.201.3.211:50866, code: 1001, reason: "", name: ""
+[NONE ][18:05:16] DISCONNECTED 190.233.242.184:51889, code: 1006, reason: "", name: "noob"
+[NONE ][18:05:21] CONNECTED 190.233.242.184:51904, origin: "http://zapphy.epizy.com"
+[NONE ][18:08:20] DISCONNECTED 190.152.207.234:3901, code: 1001, reason: "", name: ""
+[NONE ][18:08:45] DISCONNECTED 190.207.93.74:60860, code: 1000, reason: "", name: ""
+[NONE ][18:08:53] CONNECTED 190.207.93.74:61253, origin: "http://zapphy.epizy.com"
+[NONE ][18:13:14] CONNECTED 189.136.10.156:56177, origin: "http://zapphy.epizy.com"
+[NONE ][18:13:37] DISCONNECTED 189.136.10.156:56177, code: 1006, reason: "", name: ""
+[NONE ][18:15:56] DISCONNECTED 190.233.242.184:51904, code: 1001, reason: "", name: "noob"
+[NONE ][18:19:24] CONNECTED 190.167.205.229:54570, origin: "http://zapphy.epizy.com"
+[NONE ][18:19:57] DISCONNECTED 177.226.236.81:21342, code: 1001, reason: "", name: "atomic pop prro :v"
+[NONE ][18:21:00] CONNECTED 177.226.236.81:37780, origin: "http://zapphy.epizy.com"
+[NONE ][18:23:45] DISCONNECTED 191.88.73.76:51143, code: 1006, reason: "undefined", name: "Zap"
+[NONE ][18:23:45] DISCONNECTED 190.167.205.229:54570, code: 1006, reason: "undefined", name: "кгαтσs"
+[NONE ][18:23:48] DISCONNECTED 190.207.93.74:61253, code: 1006, reason: "undefined", name: ""
+[NONE ][18:23:49] DISCONNECTED 177.226.236.81:37780, code: 1006, reason: "undefined", name: "atomic pop prro :v"
+[NONE ][18:24:37] CONNECTED 191.88.73.76:51250, origin: "http://zapphy.epizy.com"
+[NONE ][18:24:40] >pl
+[NONE ][18:24:40] 
+Current players: 16
+[NONE ][18:24:40] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:24:40]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:24:40] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:24:40]     182 | 191.88.73.76    | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][18:24:41] >pl
+[NONE ][18:24:41] 
+Current players: 16
+[NONE ][18:24:41] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:24:41]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:24:41] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:24:41]     182 | 191.88.73.76    | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][18:24:43] CONNECTED 190.207.93.74:62704, origin: "http://zapphy.epizy.com"
+[NONE ][18:25:05] LOGIN        191.88.73.76:51250 as "Local Administrator"
+[NONE ][18:26:52] >pl
+[NONE ][18:26:52] 
+Current players: 32
+[NONE ][18:26:52] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:26:52]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:26:52] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:26:52]     182 | 191.88.73.76    | 6 |     1 |    274 | -4822,   106 | Zap                           
+[NONE ][18:26:52]     198 | 190.207.93.74   | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][18:26:56] >m 198 10000
+[WARN ][18:26:56] That player is either dead or not playing!
+[NONE ][18:27:20] >ka
+[NONE ][18:27:38] >ka
+[NONE ][18:27:59] >m 182 10000
+[NONE ][18:27:59] Set mass of Zap to 10000.000
+[DEBUG][18:28:17] process.exit(1)
+=== Shutdown 2018-02-20T18-28-17-966 ===

@@ -1,0 +1,78 @@
+=== Started 2018-02-20T18-58-19-572 ===
+[INFO ][18:58:19] 0 bad words loaded
+[WARN ][18:58:19] User account "Local Moderator" disabled
+[WARN ][18:58:19] User account "Local User" disabled
+[INFO ][18:58:19] 1 user records loaded.
+[INFO ][18:58:19] 0 IP ban records loaded.
+[INFO ][18:58:19] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][18:58:19] WebSocket: ws
+[INFO ][18:58:19] Started stats server on port 9090
+[INFO ][18:58:19] Listening on port 8888
+[INFO ][18:58:19] Current game mode is Free For All
+[INFO ][18:58:19] Added 5 player bots
+[NONE ][18:58:19]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][18:58:20] CONNECTED 191.88.73.76:51547, origin: "http://zapphy.epizy.com"
+[NONE ][18:58:20] CONNECTED 190.167.205.229:54695, origin: "http://zapphy.epizy.com"
+[NONE ][19:00:11] CONNECTED 186.101.231.216:55057, origin: "http://zapphy.epizy.com"
+[NONE ][19:02:04] DISCONNECTED 186.101.231.216:55057, code: 1006, reason: "", name: "[㊛] - An[?]um"
+[NONE ][19:02:23] CONNECTED 186.101.231.216:55175, origin: "http://zapphy.epizy.com"
+[NONE ][19:04:14] CONNECTED 190.147.170.107:49265, origin: "http://zapphy.epizy.com"
+[NONE ][19:04:23] >pl
+[NONE ][19:04:23] 
+Current players: 69
+[NONE ][19:04:23] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:04:23]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:04:23] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:04:23]       1 | [BOT]           | ? |     8 |    604 |   831,  -583 | ƤƘƑ ☯ÏⱮƤǾŞÏƁⱢɆ㊗               
+[NONE ][19:04:23]       2 | [BOT]           | ? |    11 |    387 |    16,  -354 | ℱяίǤϻαภ                       
+[NONE ][19:04:23]       3 | [BOT]           | ? |     4 |    125 |   390,   367 | I𝓃𝓈𝒾𝑔𝒽𝓉🐯               
+[NONE ][19:04:23]       4 | [BOT]           | ? |     2 |    237 |  2124, -3161 | EL BRAYAN                     
+[NONE ][19:04:23]       5 | [BOT]           | ? |     4 |    764 |   974,  1179 | ⚔ƁᙈββŁΣßΛĻŽ༻Ɣ                 
+[NONE ][19:04:23]       6 | 191.88.73.76    | 6 |     1 |   2576 |   152,  4862 | Zap                           
+[NONE ][19:04:23]      22 | 190.167.205.229 | 6 |     1 |   1146 |  3937,  1746 | кгαтσs                        
+[NONE ][19:04:23]      54 | 186.101.231.216 | 6 |     1 |    279 |  4272, -4093 | [㊛] - An[?]um                 
+[NONE ][19:04:23]      70 | 190.147.170.107 | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:04:27] >m 70 12000
+[WARN ][19:04:27] That player is either dead or not playing!
+[NONE ][19:04:37] >m 6 12000
+[NONE ][19:04:37] Set mass of Zap to 12000.000
+[NONE ][19:05:23] CONNECTED 181.199.38.178:35625, origin: "http://zapphy.epizy.com"
+[NONE ][19:07:31] DISCONNECTED 190.167.205.229:54695, code: 1001, reason: "", name: "кгαтσs"
+[NONE ][19:10:05] DISCONNECTED 181.199.38.178:35625, code: 1006, reason: "", name: "卍νι¢ισυѕ球隊"
+[NONE ][19:10:30] CONNECTED 181.199.38.178:58920, origin: "http://zapphy.epizy.com"
+[NONE ][19:12:06] DISCONNECTED 190.147.170.107:49265, code: 1001, reason: "", name: " nega🎈"
+[NONE ][19:12:13] DISCONNECTED 181.199.38.178:58920, code: 1000, reason: "", name: "Vicious"
+[NONE ][19:12:17] CONNECTED 181.199.38.178:18690, origin: "http://zapphy.epizy.com"
+[NONE ][19:16:52] DISCONNECTED 181.199.38.178:18690, code: 1001, reason: "", name: "Vicious"
+[NONE ][19:17:03] CONNECTED 181.199.38.178:51098, origin: "http://zapphy.epizy.com"
+[NONE ][19:17:34] CONNECTED 190.147.170.107:49315, origin: "http://zapphy.epizy.com"
+[NONE ][19:18:35] DISCONNECTED 181.199.38.178:51098, code: 1001, reason: "", name: "Vicious"
+[NONE ][19:18:36] >pl
+[NONE ][19:18:36] 
+Current players: 53
+[NONE ][19:18:36] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:18:36]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:18:36] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:18:36]       1 | [BOT]           | ? |     1 |     26 | -4223,  1023 | ƤƘƑ ☯ÏⱮƤǾŞÏƁⱢɆ㊗               
+[NONE ][19:18:36]       2 | [BOT]           | ? |     1 |    338 | -6628, -6928 | ℱяίǤϻαภ                       
+[NONE ][19:18:36]       3 | [BOT]           | ? |    16 |   3081 |  -237,   380 | I𝓃𝓈𝒾𝑔𝒽𝓉🐯               
+[NONE ][19:18:36]       4 | [BOT]           | ? |     2 |  25855 |  1109,  2129 | EL BRAYAN                     
+[NONE ][19:18:36]       5 | [BOT]           | ? |     7 |  43617 |    -1,  -359 | ⚔ƁᙈββŁΣßΛĻŽ༻Ɣ                 
+[NONE ][19:18:36]       6 | 191.88.73.76    | 6 |     1 |   2535 |  5433,  3529 | Zap                           
+[NONE ][19:18:36]      54 | 186.101.231.216 | 6 |     8 |  10226 |  -801,  -670 | [㊛] - An[?]um                 
+[NONE ][19:18:36]     150 | 190.147.170.107 | 6 |     1 |   2939 | -2199,   330 | nega🎈                        
+[NONE ][19:20:01] LOGIN        191.88.73.76:51547 as "Local Administrator"
+[NONE ][19:23:22] CONNECTED 181.199.38.178:65262, origin: "http://zapphy.epizy.com"
+[NONE ][19:26:04] CONNECTED 186.179.100.20:32181, origin: "http://zapphy.epizy.com"
+[NONE ][19:26:30] DISCONNECTED 181.199.38.178:65262, code: 1001, reason: "", name: ""
+[NONE ][19:26:58] DISCONNECTED 186.101.231.216:55175, code: 1001, reason: "", name: "[㊛] - An[?]um"
+[NONE ][19:27:13] CONNECTED 201.185.230.177:52431, origin: "http://zapphy.epizy.com"
+[DEBUG][19:28:19] process.exit(1)
+=== Shutdown 2018-02-20T19-28-19-762 ===

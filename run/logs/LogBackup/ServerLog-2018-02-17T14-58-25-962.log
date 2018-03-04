@@ -1,0 +1,54 @@
+=== Started 2018-02-17T14-55-45-200 ===
+[INFO ][14:55:45] 419 bad words loaded
+[WARN ][14:55:45] User account "Local Administrator" disabled
+[WARN ][14:55:45] User account "Local Moderator" disabled
+[WARN ][14:55:45] User account "Local User" disabled
+[INFO ][14:55:45] 0 user records loaded.
+[INFO ][14:55:45] 0 IP ban records loaded.
+[INFO ][14:55:45] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:55:45] WebSocket: ws
+[INFO ][14:55:45] Started stats server on port 9090
+[INFO ][14:55:45] Listening on port 8888
+[INFO ][14:55:45] Current game mode is Free For All
+[INFO ][14:55:45] Added 15 player bots
+[NONE ][14:55:45]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:55:46] CONNECTED 127.0.0.1:59999, origin: "http://localhost"
+[NONE ][14:55:56] >pl
+[NONE ][14:55:56] 
+Current players: 31
+[NONE ][14:55:56] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][14:55:56]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][14:55:56] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][14:55:56]       1 | [BOT]           | ? |     2 |    923 |  2921, -3468 | W-R-A-T-H----AA               
+[NONE ][14:55:56]       2 | [BOT]           | ? |     2 |    915 | -1125,  2881 | lollipop                      
+[NONE ][14:55:56]       3 | [BOT]           | ? |     1 |    895 |  2710,  5630 | [AG]AcadeGo                   
+[NONE ][14:55:56]       4 | [BOT]           | ? |     1 |    878 |  5435,  4890 | 𐌅𐌋𐌀𐌑𐌄༻▬タ鿆                
+[NONE ][14:55:56]       5 | [BOT]           | ? |     1 |    960 | -1809,  2978 | 私๖ۣۜƤяιχσя☫私                  
+[NONE ][14:55:56]       6 | [BOT]           | ? |     2 |    875 | -3483,   271 | ZeeTaa Fan                    
+[NONE ][14:55:56]       7 | [BOT]           | ? |     1 |    890 | -5110,  2578 | Q - Q                         
+[NONE ][14:55:56]       8 | [BOT]           | ? |     1 |    878 |  4896, -3844 | 𝐃𝐔𝐊𝐄                      
+[NONE ][14:55:56]       9 | [BOT]           | ? |     1 |    932 |  1558, -5471 | :D                            
+[NONE ][14:55:56]      10 | [BOT]           | ? |     1 |    892 |  4978, -5885 | #WeMissWunWun                 
+[NONE ][14:55:56]      11 | [BOT]           | ? |     2 |    908 | -3482,   -20 | DANDY                         
+[NONE ][14:55:56]      12 | [BOT]           | ? |     1 |    880 | -2841,  5393 | Jason YT                      
+[NONE ][14:55:56]      13 | [BOT]           | ? |     2 |    880 | -2910,   186 | ⚔ℓєη∂αяισ YT☠💖               
+[NONE ][14:55:56]      14 | [BOT]           | ? |     1 |    876 | -2934,  5858 | Chinese                       
+[NONE ][14:55:56]      15 | [BOT]           | ? |     1 |    923 | -5539, -2220 | Ferrero --- SV❥               
+[NONE ][14:55:56]      16 | 127.0.0.1       | 6 |     1 |     21 |  2017, -1258 | Zapphire                      
+[NONE ][14:55:58] >m 16 5000
+[NONE ][14:55:58] Set mass of Zapphire to 5000.000
+[NONE ][14:56:17] >m 16 9000
+[NONE ][14:56:17] Set mass of Zapphire to 9000.000
+[NONE ][14:57:43] >m 16 9000
+[NONE ][14:57:43] Set mass of Zapphire to 9000.000
+[NONE ][14:58:16] >ka
+[NONE ][14:58:25] >exit
+[WARN ][14:58:25] Closing server...
+[DEBUG][14:58:25] process.exit(1)
+=== Shutdown 2018-02-17T14-58-25-387 ===

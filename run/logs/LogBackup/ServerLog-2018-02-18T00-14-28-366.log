@@ -1,0 +1,150 @@
+=== Started 2018-02-17T23-49-27-521 ===
+[INFO ][23:49:27] 419 bad words loaded
+[WARN ][23:49:27] User account "Local Administrator" disabled
+[WARN ][23:49:27] User account "Local Moderator" disabled
+[WARN ][23:49:27] User account "Local User" disabled
+[INFO ][23:49:27] 0 user records loaded.
+[INFO ][23:49:27] 0 IP ban records loaded.
+[INFO ][23:49:27] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][23:49:27] WebSocket: ws
+[INFO ][23:49:27] Started stats server on port 9090
+[INFO ][23:49:27] Listening on port 8888
+[INFO ][23:49:27] Current game mode is Free For All
+[INFO ][23:49:27] Added 5 player bots
+[NONE ][23:49:27]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][23:49:28] CONNECTED 191.88.73.76:49635, origin: "http://zapphy.epizy.com"
+[NONE ][23:49:33] >pl
+[NONE ][23:49:33] 
+Current players: 21
+[NONE ][23:49:33] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][23:49:33]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][23:49:33] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][23:49:33]       1 | [BOT]           | ? |     2 |    926 |  -622,   125 | 🔱Ä¢ê †hµÐ live               
+[NONE ][23:49:33]       2 | [BOT]           | ? |     1 |    898 | -1514,  4793 | spare                         
+[NONE ][23:49:33]       3 | [BOT]           | ? |     2 |    911 | -2316,  2730 | 么ß¥ຮ༻一คຖนēl                   
+[NONE ][23:49:33]       4 | [BOT]           | ? |     1 |    889 |  2763,  -774 | oscar                         
+[NONE ][23:49:33]       5 | [BOT]           | ? |     1 |    886 | -1945,  1896 | sara fan                      
+[NONE ][23:49:33]       6 | 191.88.73.76    | 6 |     1 |    819 |  -498,  5519 | An unnamed cell               
+[NONE ][23:49:37] >m 6 10000
+[NONE ][23:49:37] Set mass of An unnamed cell to 10000.000
+[NONE ][23:49:49] >m 6 10000
+[NONE ][23:49:49] Set mass of An unnamed cell to 10000.000
+[NONE ][23:50:54] >m 6 10000
+[NONE ][23:50:54] Set mass of An unnamed cell to 10000.000
+[NONE ][23:51:22] >m 6 16000
+[NONE ][23:51:22] Set mass of An unnamed cell to 16000.000
+[NONE ][23:52:35] >m 6 22000
+[NONE ][23:52:35] Set mass of An unnamed cell to 22000.000
+[NONE ][23:54:18] >m 6 22000
+[NONE ][23:54:18] Set mass of An unnamed cell to 22000.000
+[NONE ][23:56:29] >reload
+[INFO ][23:56:29] 419 bad words loaded
+[WARN ][23:56:29] User account "Local Administrator" disabled
+[WARN ][23:56:29] User account "Local Moderator" disabled
+[WARN ][23:56:29] User account "Local User" disabled
+[INFO ][23:56:29] 0 user records loaded.
+[INFO ][23:56:29] 0 IP ban records loaded.
+[NONE ][23:56:29] Reloaded files successfully
+[NONE ][00:01:40] DISCONNECTED 191.88.73.76:49635, code: 1001, reason: "", name: ""
+[NONE ][00:03:19] CONNECTED 191.88.73.76:49808, origin: "http://localhost"
+[NONE ][00:04:35] DISCONNECTED 191.88.73.76:49808, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:04:37] CONNECTED 191.88.73.76:49834, origin: "http://localhost"
+[NONE ][00:04:56] DISCONNECTED 191.88.73.76:49834, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:04:58] CONNECTED 191.88.73.76:49843, origin: "http://localhost"
+[NONE ][00:05:08] DISCONNECTED 191.88.73.76:49843, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:05:10] CONNECTED 191.88.73.76:49852, origin: "http://localhost"
+[NONE ][00:05:22] DISCONNECTED 191.88.73.76:49852, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:05:25] CONNECTED 191.88.73.76:49861, origin: "http://localhost"
+[NONE ][00:05:39] DISCONNECTED 191.88.73.76:49861, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:05:42] CONNECTED 191.88.73.76:49871, origin: "http://localhost"
+[NONE ][00:06:48] DISCONNECTED 191.88.73.76:49871, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:06:50] CONNECTED 191.88.73.76:49881, origin: "http://localhost"
+[NONE ][00:07:06] >pl
+[NONE ][00:07:06] 
+Current players: 21
+[NONE ][00:07:06] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:07:06]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:07:06] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:07:06]       1 | [BOT]           | ? |     6 |   3471 |  -181,  -714 | 🔱Ä¢ê †hµÐ live               
+[NONE ][00:07:06]       2 | [BOT]           | ? |     5 |    144 | -1193,  -866 | spare                         
+[NONE ][00:07:06]       3 | [BOT]           | ? |     9 |   2740 |   153,   141 | 么ß¥ຮ༻一คຖนēl                   
+[NONE ][00:07:06]       4 | [BOT]           | ? |     1 |  10524 |   122,  4419 | oscar                         
+[NONE ][00:07:06]       5 | [BOT]           | ? |     1 |    420 | -2991,  6023 | sara fan                      
+[NONE ][00:07:06]     118 | 191.88.73.76    | 6 |     1 |     23 | -6798,   619 | Zapphire                      
+[NONE ][00:07:09] >m 118 10
+[NONE ][00:07:09] Set mass of Zapphire to 10.000
+[NONE ][00:07:16] >m 118 5
+[NONE ][00:07:16] Set mass of Zapphire to 5.000
+[NONE ][00:07:21] >m 118 2
+[NONE ][00:07:21] Set mass of Zapphire to 2.000
+[NONE ][00:07:24] >m 118 1
+[NONE ][00:07:24] Set mass of Zapphire to 1.000
+[NONE ][00:08:11] DISCONNECTED 191.88.73.76:49881, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:08:14] CONNECTED 191.88.73.76:49891, origin: "http://localhost"
+[NONE ][00:08:35] DISCONNECTED 191.88.73.76:49891, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:08:38] CONNECTED 191.88.73.76:49900, origin: "http://localhost"
+[NONE ][00:08:54] DISCONNECTED 191.88.73.76:49900, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:08:56] CONNECTED 191.88.73.76:49917, origin: "http://localhost"
+[NONE ][00:09:20] DISCONNECTED 191.88.73.76:49917, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:09:24] CONNECTED 191.88.73.76:49926, origin: "http://localhost"
+[NONE ][00:10:00] DISCONNECTED 191.88.73.76:49926, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:10:02] CONNECTED 191.88.73.76:49935, origin: "http://localhost"
+[NONE ][00:10:27] DISCONNECTED 191.88.73.76:49935, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:10:29] CONNECTED 191.88.73.76:49945, origin: "http://localhost"
+[NONE ][00:10:38] >ok
+[WARN ][00:10:38] Invalid Command!
+[NONE ][00:10:39] >oplk
+[WARN ][00:10:39] Invalid Command!
+[NONE ][00:10:40] >pl
+[NONE ][00:10:40] 
+Current players: 21
+[NONE ][00:10:40] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:10:40]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:10:40] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:10:40]       1 | [BOT]           | ? |     1 |   4442 | -1799, -5002 | 🔱Ä¢ê †hµÐ live               
+[NONE ][00:10:40]       2 | [BOT]           | ? |     5 |    141 | -1178,  -586 | spare                         
+[NONE ][00:10:40]       3 | [BOT]           | ? |     1 |   2581 |  -932,  2790 | 么ß¥ຮ༻一คຖนēl                   
+[NONE ][00:10:40]       4 | [BOT]           | ? |     1 |   6012 | -3437, -2328 | oscar                         
+[NONE ][00:10:40]       5 | [BOT]           | ? |     4 |   1630 | -1718,  1303 | sara fan                      
+[NONE ][00:10:40]     214 | 191.88.73.76    | 6 |     1 |    856 | -3792,  4205 | Zapphire                      
+[NONE ][00:10:44] >m 214 10000
+[NONE ][00:10:44] Set mass of Zapphire to 10000.000
+[NONE ][00:11:30] >m 214 10000
+[NONE ][00:11:30] Set mass of Zapphire to 10000.000
+[NONE ][00:11:51] DISCONNECTED 191.88.73.76:49945, code: 1006, reason: "", name: "Zapphire"
+[NONE ][00:11:54] CONNECTED 191.88.73.76:49955, origin: "http://localhost"
+[NONE ][00:12:22] DISCONNECTED 191.88.73.76:49955, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:12:25] CONNECTED 191.88.73.76:49964, origin: "http://localhost"
+[NONE ][00:12:44] DISCONNECTED 191.88.73.76:49964, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:12:46] CONNECTED 191.88.73.76:49973, origin: "http://localhost"
+[NONE ][00:12:50] >pl
+[NONE ][00:12:50] 
+Current players: 21
+[NONE ][00:12:50] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][00:12:50]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][00:12:50] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][00:12:50]       1 | [BOT]           | ? |    10 |   3158 |   213,  -686 | 🔱Ä¢ê †hµÐ live               
+[NONE ][00:12:50]       2 | [BOT]           | ? |     1 |    237 | -6543, -6175 | spare                         
+[NONE ][00:12:50]       3 | [BOT]           | ? |    10 |   1082 |   692,   191 | 么ß¥ຮ༻一คຖนēl                   
+[NONE ][00:12:50]       4 | [BOT]           | ? |     1 |   4327 |  -128, -5363 | oscar                         
+[NONE ][00:12:50]       5 | [BOT]           | ? |     2 |   1644 |  1862,  3051 | sara fan                      
+[NONE ][00:12:50]     262 | 191.88.73.76    | 6 |     1 |    447 |  4239,  4180 | Zapphire                      
+[NONE ][00:12:54] >m 262 10000
+[NONE ][00:12:54] Set mass of Zapphire to 10000.000
+[NONE ][00:13:02] DISCONNECTED 191.88.73.76:49973, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:13:04] CONNECTED 191.88.73.76:49982, origin: "http://localhost"
+[NONE ][00:13:42] DISCONNECTED 191.88.73.76:49982, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:13:44] CONNECTED 191.88.73.76:49991, origin: "http://localhost"
+[NONE ][00:14:11] DISCONNECTED 191.88.73.76:49991, code: 1001, reason: "", name: "Zapphire"
+[NONE ][00:14:13] CONNECTED 191.88.73.76:50001, origin: "http://localhost"
+[DEBUG][00:14:27] process.exit(1)
+=== Shutdown 2018-02-18T00-14-27-712 ===

@@ -1,0 +1,77 @@
+=== Started 2018-02-19T20-21-10-132 ===
+[INFO ][20:21:10] 0 bad words loaded
+[WARN ][20:21:10] User account "Local Administrator" disabled
+[WARN ][20:21:10] User account "Local Moderator" disabled
+[WARN ][20:21:10] User account "Local User" disabled
+[INFO ][20:21:10] 0 user records loaded.
+[INFO ][20:21:10] 0 IP ban records loaded.
+[INFO ][20:21:10] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:21:10] WebSocket: ws
+[INFO ][20:21:10] Started stats server on port 9090
+[INFO ][20:21:10] Listening on port 8888
+[INFO ][20:21:10] Current game mode is Free For All
+[INFO ][20:21:10] Added 5 player bots
+[NONE ][20:21:10]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][20:21:11] CONNECTED 191.88.73.76:56100, origin: "http://zapphy.epizy.com"
+[NONE ][20:21:29] CONNECTED 181.234.167.171:21609, origin: "http://zapphy.epizy.com"
+[NONE ][20:21:29] DISCONNECTED 181.234.167.171:21609, code: 1006, reason: "undefined", name: ""
+[NONE ][20:21:29] CONNECTED 181.234.167.171:21610, origin: "http://zapphy.epizy.com"
+[NONE ][20:21:32] CONNECTED 186.42.107.112:14059, origin: "http://zapphy.epizy.com"
+[NONE ][20:21:40] CONNECTED 189.228.154.180:49281, origin: "http://zapphy.epizy.com"
+[NONE ][20:21:48] CONNECTED 190.152.211.100:18119, origin: "http://zapphy.epizy.com"
+[NONE ][20:22:33] CONNECTED 186.3.193.158:27993, origin: "http://zapphy.epizy.com"
+[NONE ][20:24:03] DISCONNECTED 189.228.154.180:49281, code: 1001, reason: "", name: ""
+[NONE ][20:25:00] DISCONNECTED 186.3.193.158:27993, code: 1001, reason: "", name: "balze"
+[NONE ][20:27:35] DISCONNECTED 181.234.167.171:21610, code: 1000, reason: "", name: "YaBinoElCoro>:V"
+[NONE ][20:27:36] CONNECTED 181.234.167.171:21654, origin: "http://zapphy.epizy.com"
+[NONE ][20:29:06] CONNECTED 186.3.193.158:57586, origin: "http://zapphy.epizy.com"
+[NONE ][20:31:24] DISCONNECTED 186.3.193.158:57586, code: 1001, reason: "", name: ""
+[NONE ][20:31:36] >st
+[NONE ][20:31:36] Connected players: 69/128
+[NONE ][20:31:36] Players: 4 - Bots: 65
+[NONE ][20:31:36] Average score: 734.24
+[NONE ][20:31:36] Server has been running for a total of10 minutes
+[NONE ][20:31:36] Current memory usage: 17.3/50.4 mb
+[NONE ][20:31:36] Current game mode: Free For All
+[NONE ][20:31:36] Current update time: 4.412 [ms]  (perfectly smooth)
+[NONE ][20:33:13] CONNECTED 186.47.191.164:11253, origin: "http://zapphy.epizy.com"
+[NONE ][20:34:18] DISCONNECTED 186.42.107.112:14059, code: 1001, reason: "", name: ""
+[NONE ][20:35:53] >ok
+[WARN ][20:35:53] Invalid Command!
+[NONE ][20:35:54] >pl
+[NONE ][20:35:54] 
+Current players: 69
+[NONE ][20:35:54] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][20:35:54]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][20:35:54] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][20:35:54]       1 | [BOT]           | ? |     2 |   2269 |  -330, -3434 | Kristoffer                    
+[NONE ][20:35:54]       2 | [BOT]           | ? |    16 |   5515 |  -304,  -325 | Canada                        
+[NONE ][20:35:54]       3 | [BOT]           | ? |     5 |    147 | -1333,   385 | rubinho                       
+[NONE ][20:35:54]       4 | [BOT]           | ? |     1 |    238 |  6654, -6573 | Royal Fan                     
+[NONE ][20:35:54]       5 | [BOT]           | ? |     7 |    166 |  -720,  -441 | ❥ໄℯℊℯภ∂ YƬ一�潛艇                
+[NONE ][20:35:54]       6 | 191.88.73.76    | 6 |     1 |  15444 |  2135, -4247 | Zap                           
+[NONE ][20:35:54]      86 | 190.152.211.100 | 6 | -----------------------------------------------SPECTATING: Zap
+[NONE ][20:35:54]     118 | 181.234.167.171 | 6 |    16 |    600 |   304,  -154 | YaBinoElCoro>:V               
+[NONE ][20:35:54]     150 | 186.47.191.164  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][20:37:01] CONNECTED 186.47.191.164:10368, origin: "http://zapphy.epizy.com"
+[NONE ][20:37:03] DISCONNECTED 186.47.191.164:11253, code: 1001, reason: "", name: "Jade"
+[NONE ][20:37:34] DISCONNECTED 190.152.211.100:18119, code: 1001, reason: "", name: " Wombax"
+[NONE ][20:39:20] CONNECTED 201.185.230.177:64293, origin: "http://zapphy.epizy.com"
+[NONE ][20:40:18] CONNECTED 186.179.100.20:25731, origin: "http://zapphy.epizy.com"
+[NONE ][20:40:21] CONNECTED 187.194.104.150:60531, origin: "http://zapphy.epizy.com"
+[NONE ][20:40:47] DISCONNECTED 187.194.104.150:60531, code: 1001, reason: "", name: " [ᴾᴿᴱ༄ JαυιAℓρнa"
+[NONE ][20:41:05] DISCONNECTED 201.185.230.177:64293, code: 1001, reason: "", name: "[◊] ▬Eɴᴇʀɢʏ•"
+[NONE ][20:42:21] CONNECTED 186.47.191.164:10704, origin: "http://zapphy.epizy.com"
+[NONE ][20:42:23] CONNECTED 186.47.191.164:10706, origin: "http://zapphy.epizy.com"
+[NONE ][20:42:25] DISCONNECTED 186.47.191.164:10704, code: 1000, reason: "", name: ""
+[NONE ][20:42:46] DISCONNECTED 186.47.191.164:10368, code: 1006, reason: "", name: "Jade"
+[NONE ][20:45:31] DISCONNECTED 181.234.167.171:21654, code: 1001, reason: "", name: ""
+[NONE ][20:45:39] CONNECTED 181.234.167.171:22009, origin: "http://zapphy.epizy.com"
+[DEBUG][20:46:10] process.exit(1)
+=== Shutdown 2018-02-19T20-46-10-306 ===

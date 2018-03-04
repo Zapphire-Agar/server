@@ -1,0 +1,169 @@
+=== Started 2018-02-20T19-42-28-302 ===
+[INFO ][19:42:28] 0 bad words loaded
+[WARN ][19:42:28] User account "Local Moderator" disabled
+[WARN ][19:42:28] User account "Local User" disabled
+[INFO ][19:42:28] 1 user records loaded.
+[INFO ][19:42:28] 0 IP ban records loaded.
+[INFO ][19:42:28] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:42:28] WebSocket: ws
+[INFO ][19:42:28] Started stats server on port 9090
+[INFO ][19:42:28] Listening on port 8888
+[INFO ][19:42:28] Current game mode is Free For All
+[INFO ][19:42:28] Added 5 player bots
+[NONE ][19:42:28]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][19:42:29] CONNECTED 186.179.100.20:32642, origin: "http://zapphy.epizy.com"
+[NONE ][19:42:29] CONNECTED 201.185.230.177:2041, origin: "http://zapphy.epizy.com"
+[NONE ][19:42:29] CONNECTED 127.0.0.1:51848, origin: "http://localhost"
+[NONE ][19:42:29] CONNECTED 201.185.230.177:52446, origin: "http://zapphy.epizy.com"
+[NONE ][19:51:59] >pl
+[NONE ][19:51:59] 
+Current players: 69
+[NONE ][19:51:59] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:51:59]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:51:59] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:51:59]       1 | [BOT]           | ? |     1 |   3706 | -3732, -2949 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][19:51:59]       2 | [BOT]           | ? |    10 |   6289 |   411,  -518 | ❦⚝ک͠𝔭ყ«͜ثةدا⚝♋               
+[NONE ][19:51:59]       3 | [BOT]           | ? |     2 |     79 | -3389,  1356 | 私๖ۣۜƤяιχσя☫私                  
+[NONE ][19:51:59]       4 | [BOT]           | ? |     9 |    306 |  -664,   502 | KKK>swey                      
+[NONE ][19:51:59]       5 | [BOT]           | ? |    11 |   1672 |   503,  -572 | રoze一???                      
+[NONE ][19:51:59]       6 | 186.179.100.20  | 6 |     1 |   2369 |  3149,  -288 | >:'v                          
+[NONE ][19:51:59]      22 | 201.185.230.177 | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:51:59]      38 | 127.0.0.1       | 6 |     4 |  17792 |    11,   897 | ZAPPHIRE!                     
+[NONE ][19:51:59]      54 | 201.185.230.177 | 6 |     2 |  28231 |    -8,  -867 | Energy! HOS                   
+[NONE ][19:52:02] >ban 54
+[NONE ][19:52:02] The IP 201.185.230.177 has been banned
+[NONE ][19:52:02] Killed Energy! HOS and removed 8 cells
+[ERROR][19:52:02] [201.185.230.177:2041] Error: first argument must be a valid error code number
+    at Sender.close (C:\Users\Sebastian\Downloads\server nuevo\node_modules\ws\lib\Sender.js:48:49)
+    at WebSocket.close (C:\Users\Sebastian\Downloads\server nuevo\node_modules\ws\lib\WebSocket.js:122:18)
+    at GameServer.<anonymous> (C:\Users\Sebastian\Downloads\server nuevo\src\modules\CommandList.js:1121:16)
+    at Array.forEach (<anonymous>)
+    at ban (C:\Users\Sebastian\Downloads\server nuevo\src\modules\CommandList.js:1114:24)
+    at ban (C:\Users\Sebastian\Downloads\server nuevo\src\modules\CommandList.js:231:17)
+    at parseCommands (C:\Users\Sebastian\Downloads\server nuevo\src\index.js:167:9)
+    at C:\Users\Sebastian\Downloads\server nuevo\src\index.js:141:13
+    at Interface._onLine (readline.js:280:5)
+    at Interface._line (readline.js:631:8)
+[NONE ][19:52:02] Banned: "Ｅᵐᵐᵗᵉˣ-◊" with Player ID 22
+[NONE ][19:52:02] Killed Energy! HOS and removed 0 cells
+[ERROR][19:52:02] [201.185.230.177:52446] Error: first argument must be a valid error code number
+    at Sender.close (C:\Users\Sebastian\Downloads\server nuevo\node_modules\ws\lib\Sender.js:48:49)
+    at WebSocket.close (C:\Users\Sebastian\Downloads\server nuevo\node_modules\ws\lib\WebSocket.js:122:18)
+    at GameServer.<anonymous> (C:\Users\Sebastian\Downloads\server nuevo\src\modules\CommandList.js:1121:16)
+    at Array.forEach (<anonymous>)
+    at ban (C:\Users\Sebastian\Downloads\server nuevo\src\modules\CommandList.js:1114:24)
+    at ban (C:\Users\Sebastian\Downloads\server nuevo\src\modules\CommandList.js:231:17)
+    at parseCommands (C:\Users\Sebastian\Downloads\server nuevo\src\index.js:167:9)
+    at C:\Users\Sebastian\Downloads\server nuevo\src\index.js:141:13
+    at Interface._onLine (readline.js:280:5)
+    at Interface._line (readline.js:631:8)
+[NONE ][19:52:02] Banned: "Energy! HOS" with Player ID 54
+[INFO ][19:52:02] 1 IP ban records saved.
+[NONE ][19:52:26] DISCONNECTED 201.185.230.177:52446, code: null, reason: "Banned from server", name: "Energy! HOS"
+[NONE ][19:52:57] DISCONNECTED 201.185.230.177:2041, code: null, reason: "Banned from server", name: " Ｅᵐᵐᵗᵉˣ-◊"
+[NONE ][19:53:54] >pl
+[NONE ][19:53:54] 
+Current players: 37
+[NONE ][19:53:54] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:53:54]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:53:54] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:53:54]       1 | [BOT]           | ? |     1 |   6225 | -2155,   512 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][19:53:54]       2 | [BOT]           | ? |     8 |    512 |   521,  -528 | ❦⚝ک͠𝔭ყ«͜ثةدا⚝♋               
+[NONE ][19:53:54]       3 | [BOT]           | ? |     8 |    325 |   532,   501 | 私๖ۣۜƤяιχσя☫私                  
+[NONE ][19:53:54]       4 | [BOT]           | ? |     9 |    587 |   359,   403 | KKK>swey                      
+[NONE ][19:53:54]       5 | [BOT]           | ? |     2 |    140 |  3002,  -231 | રoze一???                      
+[NONE ][19:53:54]       6 | 186.179.100.20  | 6 |     2 |  10055 |  1306,  -886 | >:'v                          
+[NONE ][19:53:54]      38 | 127.0.0.1       | 6 |     1 |  15265 | -3101,  4384 | ZAPPHIRE!                     
+[NONE ][19:53:57] >ban 38
+[NONE ][19:53:57] The IP 127.0.0.1 has been banned
+[INFO ][19:53:57] 2 IP ban records saved.
+[NONE ][19:54:24] >unban 127.0.0.1
+[INFO ][19:54:24] 1 IP ban records saved.
+[NONE ][19:54:24] Unbanned IP: 127.0.0.1
+[NONE ][19:54:30] >unban 1
+[WARN ][19:54:30] IP 1 is not in the ban list!
+[NONE ][19:58:29] >st
+[NONE ][19:58:29] Connected players: 37/128
+[NONE ][19:58:29] Players: 2 - Bots: 35
+[NONE ][19:58:29] Average score: 1366.78
+[NONE ][19:58:29] Server has been running for a total of16 minutes
+[NONE ][19:58:29] Current memory usage: 27.5/51.4 mb
+[NONE ][19:58:29] Current game mode: Free For All
+[NONE ][19:58:29] Current update time: 3.333 [ms]  (perfectly smooth)
+[NONE ][19:58:30] >pl
+[NONE ][19:58:30] 
+Current players: 37
+[NONE ][19:58:30] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:58:30]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:58:30] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:58:30]       1 | [BOT]           | ? |     2 |   4685 |   715,  3338 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][19:58:30]       2 | [BOT]           | ? |    14 |   1845 |   165,   489 | ❦⚝ک͠𝔭ყ«͜ثةدا⚝♋               
+[NONE ][19:58:30]       3 | [BOT]           | ? |    10 |    262 |   438,   529 | 私๖ۣۜƤяιχσя☫私                  
+[NONE ][19:58:30]       4 | [BOT]           | ? |     2 |    101 |  3363,  2537 | KKK>swey                      
+[NONE ][19:58:30]       5 | [BOT]           | ? |     7 |   3185 |   279,  -313 | રoze一???                      
+[NONE ][19:58:30]       6 | 186.179.100.20  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:58:30]      38 | 127.0.0.1       | 6 |     1 |  16209 | -1458,  3733 | ZAPPHIRE!                     
+[NONE ][19:58:31] >pl
+[NONE ][19:58:31] 
+Current players: 37
+[NONE ][19:58:31] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:58:31]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:58:31] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:58:31]       1 | [BOT]           | ? |     2 |   4676 |   761,  3338 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][19:58:31]       2 | [BOT]           | ? |    14 |   1844 |   174,   490 | ❦⚝ک͠𝔭ყ«͜ثةدا⚝♋               
+[NONE ][19:58:31]       3 | [BOT]           | ? |    10 |    261 |   462,   529 | 私๖ۣۜƤяιχσя☫私                  
+[NONE ][19:58:31]       4 | [BOT]           | ? |     2 |    101 |  3337,  2561 | KKK>swey                      
+[NONE ][19:58:31]       5 | [BOT]           | ? |     7 |   3178 |   287,  -308 | રoze一???                      
+[NONE ][19:58:31]       6 | 186.179.100.20  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:58:31]      38 | 127.0.0.1       | 6 |     1 |  16288 | -1518,  3744 | ZAPPHIRE!                     
+[NONE ][19:58:31] >pl
+[NONE ][19:58:31] 
+Current players: 37
+[NONE ][19:58:31] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:58:31]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:58:31] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:58:31]       1 | [BOT]           | ? |     2 |   4667 |   803,  3339 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][19:58:31]       2 | [BOT]           | ? |    14 |   1840 |   182,   491 | ❦⚝ک͠𝔭ყ«͜ثةدا⚝♋               
+[NONE ][19:58:31]       3 | [BOT]           | ? |    10 |    260 |   484,   526 | 私๖ۣۜƤяιχσя☫私                  
+[NONE ][19:58:31]       4 | [BOT]           | ? |     2 |    100 |  3323,  2570 | KKK>swey                      
+[NONE ][19:58:31]       5 | [BOT]           | ? |     6 |   3172 |   346,  -354 | રoze一???                      
+[NONE ][19:58:31]       6 | 186.179.100.20  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:58:31]      38 | 127.0.0.1       | 6 |     1 |  16291 | -1574,  3755 | ZAPPHIRE!                     
+[NONE ][19:58:32] >pl
+[NONE ][19:58:32] 
+Current players: 37
+[NONE ][19:58:32] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:58:32]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:58:32] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:58:32]       1 | [BOT]           | ? |     2 |   4667 |   843,  3341 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][19:58:32]       2 | [BOT]           | ? |    14 |   1840 |   190,   492 | ❦⚝ک͠𝔭ყ«͜ثةدا⚝♋               
+[NONE ][19:58:32]       3 | [BOT]           | ? |    10 |    260 |   504,   522 | 私๖ۣۜƤяιχσя☫私                  
+[NONE ][19:58:32]       4 | [BOT]           | ? |     2 |    100 |  3317,  2571 | KKK>swey                      
+[NONE ][19:58:32]       5 | [BOT]           | ? |     6 |   3172 |   355,  -348 | રoze一???                      
+[NONE ][19:58:32]       6 | 186.179.100.20  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:58:32]      38 | 127.0.0.1       | 6 |     1 |  16350 | -1627,  3765 | ZAPPHIRE!                     
+[NONE ][19:58:32] >pl
+[NONE ][19:58:32] 
+Current players: 37
+[NONE ][19:58:32] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:58:32]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:58:32] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:58:32]       1 | [BOT]           | ? |     2 |   4657 |   888,  3343 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][19:58:32]       2 | [BOT]           | ? |    14 |   1839 |   198,   493 | ❦⚝ک͠𝔭ყ«͜ثةدا⚝♋               
+[NONE ][19:58:32]       3 | [BOT]           | ? |    10 |    260 |   520,   522 | 私๖ۣۜƤяιχσя☫私                  
+[NONE ][19:58:32]       4 | [BOT]           | ? |     2 |    100 |  3293,  2570 | KKK>swey                      
+[NONE ][19:58:32]       5 | [BOT]           | ? |     6 |   3166 |   372,  -336 | રoze一???                      
+[NONE ][19:58:32]       6 | 186.179.100.20  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:58:32]      38 | 127.0.0.1       | 6 |     1 |  16317 | -1686,  3776 | ZAPPHIRE!                     

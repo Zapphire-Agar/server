@@ -1,0 +1,20 @@
+=== Started 2018-02-24T13-05-22-385 ===
+[INFO ][13:05:22] 0 bad words loaded
+[WARN ][13:05:22] User account "Local Moderator" disabled
+[WARN ][13:05:22] User account "Local User" disabled
+[INFO ][13:05:22] 1 user records loaded.
+[INFO ][13:05:22] 1 IP ban records loaded.
+[INFO ][13:05:22] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:05:22] WebSocket: ws
+[INFO ][13:05:22] Started stats server on port 88
+[INFO ][13:05:22] Listening on port 25565
+[INFO ][13:05:22] Current game mode is Free For All
+[INFO ][13:05:22] Added 5 player bots
+[NONE ][13:05:22]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[DEBUG][13:35:22] process.exit(1)
+=== Shutdown 2018-02-24T13-35-22-536 ===

@@ -1,0 +1,43 @@
+=== Started 2018-02-19T14-04-24-726 ===
+[INFO ][14:04:24] 419 bad words loaded
+[WARN ][14:04:24] User account "Local Administrator" disabled
+[WARN ][14:04:24] User account "Local Moderator" disabled
+[WARN ][14:04:24] User account "Local User" disabled
+[INFO ][14:04:24] 0 user records loaded.
+[INFO ][14:04:24] 0 IP ban records loaded.
+[INFO ][14:04:24] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:04:24] WebSocket: ws
+[INFO ][14:04:24] Started stats server on port 9090
+[INFO ][14:04:24] Listening on port 8888
+[INFO ][14:04:24] Current game mode is Free For All
+[INFO ][14:04:24] Added 5 player bots
+[NONE ][14:04:24]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:04:25] CONNECTED 191.88.73.76:49224, origin: "http://zapphy.epizy.com"
+[NONE ][14:04:40] >pl
+[NONE ][14:04:40] 
+Current players: 21
+[NONE ][14:04:40] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][14:04:40]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][14:04:40] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][14:04:40]       1 | [BOT]           | ? |     8 |   1106 |  -237,   354 | skype:Dr.potato               
+[NONE ][14:04:40]       2 | [BOT]           | ? |     2 |   1602 | -2758,   883 | skripts                       
+[NONE ][14:04:40]       3 | [BOT]           | ? |     2 |    917 | -3480,   617 | Testigo de Dios               
+[NONE ][14:04:40]       4 | [BOT]           | ? |     1 |    891 | -2477, -2402 | ΔCΣ♠ ASSASSIN                 
+[NONE ][14:04:40]       5 | [BOT]           | ? |     1 |    880 | -5078, -3364 | Kristoffer                    
+[NONE ][14:04:40]       6 | 191.88.73.76    | 6 |     1 |    909 |  -865, -4021 | Zap                           
+[NONE ][14:04:42] >m 6 10000
+[NONE ][14:04:42] Set mass of Zap to 10000.000
+[NONE ][14:04:52] >m 6 10000
+[NONE ][14:04:52] Set mass of Zap to 10000.000
+[NONE ][14:05:08] >m 6 15000
+[NONE ][14:05:08] Set mass of Zap to 15000.000
+[NONE ][14:05:45] >exit
+[WARN ][14:05:45] Closing server...
+[DEBUG][14:05:45] process.exit(1)
+=== Shutdown 2018-02-19T14-05-45-014 ===

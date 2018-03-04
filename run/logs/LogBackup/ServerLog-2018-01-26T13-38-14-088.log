@@ -1,0 +1,73 @@
+=== Started 2018-01-26T13-06-17-878 ===
+[INFO ][13:06:17] 419 bad words loaded
+[WARN ][13:06:17] User account "Local Administrator" disabled
+[WARN ][13:06:17] User account "Local Moderator" disabled
+[WARN ][13:06:17] User account "Local User" disabled
+[INFO ][13:06:17] 0 user records loaded.
+[INFO ][13:06:17] 0 IP ban records loaded.
+[INFO ][13:06:17] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:06:17] WebSocket: ws
+[INFO ][13:06:18] Started stats server on port 9090
+[INFO ][13:06:18] Listening on port 8888
+[INFO ][13:06:18] Current game mode is Free For All
+[INFO ][13:06:18] Added 15 player bots
+[NONE ][13:06:18]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:06:20] CONNECTED 127.0.0.1:60895, origin: "http://localhost"
+[NONE ][13:06:20] DISCONNECTED 127.0.0.1:60895, code: 1000, reason: "", name: ""
+[NONE ][13:06:21] CONNECTED 127.0.0.1:60898, origin: "http://localhost"
+[NONE ][13:06:26] >pl
+[NONE ][13:06:26] 
+Current players: 26
+[NONE ][13:06:26] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][13:06:26]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][13:06:26] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][13:06:26]       1 | [BOT]           | ? |     1 |    608 | -3970,  3527 | xxxxxxxxxxxxxxx               
+[NONE ][13:06:26]       2 | [BOT]           | ? |     1 |    618 |  -983,  1531 | ๖ۣۜDNA❥━ᴳᴳ                    
+[NONE ][13:06:26]       3 | [BOT]           | ? |     1 |    620 |  4938,   311 | 計»𝔣𝔯𝔞𝔫𝔠𝔬煵               
+[NONE ][13:06:26]       4 | [BOT]           | ? |     1 |    624 |  2803, -2341 | Randy MW                      
+[NONE ][13:06:26]       5 | [BOT]           | ? |     2 |    623 | -2041, -1352 | ☢优𝓒ℓαssy雅☢                   
+[NONE ][13:06:26]       6 | [BOT]           | ? |     1 |    611 |  1942, -1219 | CHAR                          
+[NONE ][13:06:26]       7 | [BOT]           | ? |     1 |    619 |  3667, -6257 | Shrek                         
+[NONE ][13:06:26]       8 | [BOT]           | ? |     1 |    615 |  4746,  1715 | Smd                           
+[NONE ][13:06:26]       9 | [BOT]           | ? |     1 |    619 | -3183, -6425 | ✖✖一ROYΛL❥數楤                   
+[NONE ][13:06:26]      10 | [BOT]           | ? |     1 |    609 |  5496,  1005 | ༄Ɲαнz༻☢诶ʳᵉᵏᵗ                  
+[NONE ][13:06:26]      11 | [BOT]           | ? |     2 |    619 |   728,  -811 | ƁЅ⚝ᑕяιรƗรŤเคη🐦               
+[NONE ][13:06:26]      12 | [BOT]           | ? |     1 |    623 |  1042, -1229 | ☠ɮռֆ☠ BRͥAYͣANͫ               
+[NONE ][13:06:26]      13 | [BOT]           | ? |     2 |    612 |   190,  2697 | ernanfloo0101                 
+[NONE ][13:06:26]      14 | [BOT]           | ? |     1 |    616 | -1761,  2874 | Ðฬ l Devil                    
+[NONE ][13:06:26]      15 | [BOT]           | ? |     2 |    655 | -1462,   608 | 👉𝓝𝓚𝓟👈ᵏᶤᶰᵍ✓               
+[NONE ][13:06:26]      27 | 127.0.0.1       | 6 |     1 |    624 | -5830,  5061 | ◓Zapphire◒                    
+[NONE ][13:06:29] >m 27 12000
+[NONE ][13:06:29] Set mass of ◓Zapphire◒ to 12000.000
+[NONE ][13:09:18] >m 27 12000
+[NONE ][13:09:18] Set mass of ◓Zapphire◒ to 12000.000
+[NONE ][13:09:37] >reload
+[INFO ][13:09:37] 419 bad words loaded
+[WARN ][13:09:37] User account "Local Administrator" disabled
+[WARN ][13:09:37] User account "Local Moderator" disabled
+[WARN ][13:09:37] User account "Local User" disabled
+[INFO ][13:09:37] 0 user records loaded.
+[INFO ][13:09:37] 0 IP ban records loaded.
+[NONE ][13:09:37] Reloaded files successfully
+[NONE ][13:10:26] >m 27 12000
+[NONE ][13:10:26] Set mass of ◓Zapphire◒ to 12000.000
+[NONE ][13:10:57] >rec 27
+[NONE ][13:10:57] ◓Zapphire◒ is now in rec mode!
+[NONE ][13:11:05] >rec 27
+[NONE ][13:11:05] ◓Zapphire◒ is no longer in rec mode
+[NONE ][13:11:09] >rec 27
+[NONE ][13:11:09] ◓Zapphire◒ is now in rec mode!
+[NONE ][13:11:15] >rec 27
+[NONE ][13:11:15] ◓Zapphire◒ is no longer in rec mode
+[NONE ][13:12:27] >rec 27
+[NONE ][13:12:27] ◓Zapphire◒ is now in rec mode!
+[NONE ][13:12:27] >rec 27
+[NONE ][13:12:27] ◓Zapphire◒ is no longer in rec mode
+[NONE ][13:12:28] >m 27 12000
+[NONE ][13:12:28] Set mass of ◓Zapphire◒ to 12000.000

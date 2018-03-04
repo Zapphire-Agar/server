@@ -1,0 +1,98 @@
+=== Started 2018-02-24T10-35-19-040 ===
+[INFO ][10:35:19] 0 bad words loaded
+[WARN ][10:35:19] User account "Local Moderator" disabled
+[WARN ][10:35:19] User account "Local User" disabled
+[INFO ][10:35:19] 1 user records loaded.
+[INFO ][10:35:19] 1 IP ban records loaded.
+[INFO ][10:35:19] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][10:35:19] WebSocket: ws
+[INFO ][10:35:19] Started stats server on port 88
+[INFO ][10:35:19] Listening on port 25565
+[INFO ][10:35:19] Current game mode is Free For All
+[INFO ][10:35:19] Added 5 player bots
+[NONE ][10:35:19]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][10:35:20] CONNECTED 191.88.73.76:52477, origin: "http://localhost"
+[NONE ][10:35:26] DISCONNECTED 191.88.73.76:52477, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:35:29] CONNECTED 191.88.73.76:52494, origin: "http://localhost"
+[NONE ][10:37:27] >pl
+[NONE ][10:37:27] 
+Current players: 21
+[NONE ][10:37:27] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][10:37:27]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][10:37:27] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][10:37:27]       1 | [BOT]           | ? |     3 |   2820 |   -45,  -947 | LEO----------EL               
+[NONE ][10:37:27]       2 | [BOT]           | ? |    15 |   2814 |    90,   205 | chepa ayuda                   
+[NONE ][10:37:27]       3 | [BOT]           | ? |     2 |   2341 | -2850, -2336 | Slay The Beast                
+[NONE ][10:37:27]       4 | [BOT]           | ? |     2 |    115 |  3019,  -153 | Wysteria MW                   
+[NONE ][10:37:27]       5 | [BOT]           | ? |     6 |    827 |  -329,  -107 | ㊗|๖ۣۜLeͥeͣoͫ༻                 
+[NONE ][10:37:27]      22 | 191.88.73.76    | 6 |     1 |    324 |  1297, -2856 | ZAPPHIRE!                     
+[NONE ][10:37:31] >m 22 10000
+[NONE ][10:37:31] Set mass of ZAPPHIRE! to 10000.000
+[NONE ][10:39:32] >m 22 17000
+[NONE ][10:39:32] Set mass of ZAPPHIRE! to 17000.000
+[NONE ][10:40:50] DISCONNECTED 191.88.73.76:52494, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:40:52] CONNECTED 191.88.73.76:52515, origin: "http://localhost"
+[NONE ][10:41:04] DISCONNECTED 191.88.73.76:52515, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:41:06] CONNECTED 191.88.73.76:52526, origin: "http://localhost"
+[NONE ][10:41:53] DISCONNECTED 191.88.73.76:52526, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:41:56] CONNECTED 191.88.73.76:52557, origin: "http://localhost"
+[NONE ][10:42:04] DISCONNECTED 191.88.73.76:52557, code: 1001, reason: "", name: ""
+[NONE ][10:42:07] CONNECTED 191.88.73.76:52568, origin: "http://localhost"
+[NONE ][10:42:54] DISCONNECTED 191.88.73.76:52568, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:42:57] CONNECTED 191.88.73.76:52594, origin: "http://localhost"
+[NONE ][10:43:11] DISCONNECTED 191.88.73.76:52594, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:43:14] CONNECTED 191.88.73.76:52605, origin: "http://localhost"
+[NONE ][10:44:00] DISCONNECTED 191.88.73.76:52605, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:44:02] CONNECTED 191.88.73.76:52618, origin: "http://localhost"
+[NONE ][10:45:00] DISCONNECTED 191.88.73.76:52618, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:45:03] CONNECTED 191.88.73.76:52630, origin: "http://localhost"
+[NONE ][10:45:16] >pl
+[NONE ][10:45:16] 
+Current players: 21
+[NONE ][10:45:16] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][10:45:16]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][10:45:16] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][10:45:16]       1 | [BOT]           | ? |     1 |    496 |  6224, -1395 | LEO----------EL               
+[NONE ][10:45:16]       2 | [BOT]           | ? |     1 |   9649 | -3874,  1791 | chepa ayuda                   
+[NONE ][10:45:16]       3 | [BOT]           | ? |    16 |  10903 |  -334,   131 | Slay The Beast                
+[NONE ][10:45:16]       4 | [BOT]           | ? |     1 |   3665 |  1772, -4304 | Wysteria MW                   
+[NONE ][10:45:16]       5 | [BOT]           | ? |     4 |    463 |   555,  1250 | ㊗|๖ۣۜLeͥeͣoͫ༻                 
+[NONE ][10:45:16]     150 | 191.88.73.76    | 6 |     1 |    116 |   524,  5015 | ZAPPHIRE!                     
+[NONE ][10:45:20] >m 150 6000
+[NONE ][10:45:20] Set mass of ZAPPHIRE! to 6000.000
+[NONE ][10:45:36] >m 150 15000
+[NONE ][10:45:36] Set mass of ZAPPHIRE! to 15000.000
+[NONE ][10:51:35] DISCONNECTED 191.88.73.76:52630, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:51:37] CONNECTED 191.88.73.76:52714, origin: "http://localhost"
+[NONE ][10:52:05] DISCONNECTED 191.88.73.76:52714, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][10:52:08] CONNECTED 191.88.73.76:52743, origin: "http://zapphy.epizy.com"
+[NONE ][10:53:13] >pl
+[NONE ][10:53:13] 
+Current players: 21
+[NONE ][10:53:13] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][10:53:13]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][10:53:13] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][10:53:13]       1 | [BOT]           | ? |     6 |    161 |   311,    21 | LEO----------EL               
+[NONE ][10:53:13]       2 | [BOT]           | ? |     2 |   9498 |  2281, -2954 | chepa ayuda                   
+[NONE ][10:53:13]       3 | [BOT]           | ? |     8 |    236 |  -311,    98 | Slay The Beast                
+[NONE ][10:53:13]       4 | [BOT]           | ? |     1 |   3696 |  -615,  -786 | Wysteria MW                   
+[NONE ][10:53:13]       5 | [BOT]           | ? |     2 |   2489 |  1042,  2310 | ㊗|๖ۣۜLeͥeͣoͫ༻                 
+[NONE ][10:53:13]     182 | 191.88.73.76    | 6 |     1 |    876 |  1030,  1449 | Zapphire                      
+[NONE ][10:53:16] >m 182 12000
+[NONE ][10:53:16] Set mass of Zapphire to 12000.000
+[NONE ][10:58:18] >m 182 12000
+[NONE ][10:58:18] Set mass of Zapphire to 12000.000
+[NONE ][10:58:20] >m 182 12000
+[NONE ][10:58:20] Set mass of Zapphire to 12000.000
+[NONE ][10:58:35] >m 182 12000
+[NONE ][10:58:35] Set mass of Zapphire to 12000.000
+[DEBUG][11:05:19] process.exit(1)
+=== Shutdown 2018-02-24T11-05-19-230 ===

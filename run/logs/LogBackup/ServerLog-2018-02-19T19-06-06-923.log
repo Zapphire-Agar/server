@@ -1,0 +1,289 @@
+=== Started 2018-02-19T18-41-06-401 ===
+[INFO ][18:41:06] 0 bad words loaded
+[WARN ][18:41:06] User account "Local Administrator" disabled
+[WARN ][18:41:06] User account "Local Moderator" disabled
+[WARN ][18:41:06] User account "Local User" disabled
+[INFO ][18:41:06] 0 user records loaded.
+[INFO ][18:41:06] 0 IP ban records loaded.
+[INFO ][18:41:06] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][18:41:06] WebSocket: ws
+[INFO ][18:41:06] Started stats server on port 9090
+[INFO ][18:41:06] Listening on port 8888
+[INFO ][18:41:06] Current game mode is Free For All
+[INFO ][18:41:06] Added 5 player bots
+[NONE ][18:41:06]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][18:42:22] CONNECTED 191.88.73.76:54837, origin: "http://zapphy.epizy.com"
+[NONE ][18:46:55] CONNECTED 190.152.211.100:17624, origin: "http://zapphy.epizy.com"
+[NONE ][18:48:24] DISCONNECTED 190.152.211.100:17624, code: 1001, reason: "", name: " Wombax"
+[NONE ][18:49:04] >pl
+[NONE ][18:49:04] 
+Current players: 21
+[NONE ][18:49:04] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:49:04]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:49:04] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:49:04]       1 | [BOT]           | ? |     3 |    136 |  1862,  2124 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:49:04]       2 | [BOT]           | ? |     6 |    589 |   214,   361 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:49:04]       3 | [BOT]           | ? |    15 |   2506 |  -408,   154 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:49:04]       4 | [BOT]           | ? |     2 |   2231 | -1344,  2568 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:49:04]       5 | [BOT]           | ? |     7 |    286 |  -649,   612 | PuppuLovur64                  
+[NONE ][18:49:04]       6 | 191.88.73.76    | 6 |     1 |    545 |  6403,  1294 | Zap                           
+[NONE ][18:49:06] >m 6 10000
+[NONE ][18:49:06] Set mass of Zap to 10000.000
+[NONE ][18:49:44] >m 6 16000
+[NONE ][18:49:44] Set mass of Zap to 16000.000
+[NONE ][18:53:45] >pl
+[NONE ][18:53:45] 
+Current players: 21
+[NONE ][18:53:45] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:53:45]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:53:45] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:53:45]       1 | [BOT]           | ? |     8 |    970 |  -371,   117 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:53:45]       2 | [BOT]           | ? |     1 |     28 |   925,  6906 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:53:45]       3 | [BOT]           | ? |     1 |   3625 | -1309,  -817 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:53:45]       4 | [BOT]           | ? |     5 |   1060 |   668,    20 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:53:45]       5 | [BOT]           | ? |     1 |    477 | -4876,  5277 | PuppuLovur64                  
+[NONE ][18:53:45]       6 | 191.88.73.76    | 6 |     2 |   7145 |     0,  1972 | Zap                           
+[NONE ][18:55:09] CONNECTED 181.54.232.4:64213, origin: "http://zapphy.epizy.com"
+[NONE ][18:55:37] >pl
+[NONE ][18:55:37] 
+Current players: 37
+[NONE ][18:55:37] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:37]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:37] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:37]       1 | [BOT]           | ? |     6 |    592 |  -541,  -107 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:37]       2 | [BOT]           | ? |     1 |     23 |   515,  6542 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:37]       3 | [BOT]           | ? |     3 |   7745 |   805,  -590 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:37]       4 | [BOT]           | ? |     2 |   1220 |  2886,  -460 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:37]       5 | [BOT]           | ? |     1 |    180 |  5618,   338 | PuppuLovur64                  
+[NONE ][18:55:37]       6 | 191.88.73.76    | 6 |     1 |   3278 |  2598,  -270 | Zap                           
+[NONE ][18:55:37]      38 | 181.54.232.4    | 6 |     1 |    900 |  2139, -6863 | nepe 7u7                      
+[NONE ][18:55:38] >pl
+[NONE ][18:55:38] 
+Current players: 37
+[NONE ][18:55:38] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:38]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:38] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:38]       1 | [BOT]           | ? |     6 |    592 |  -537,  -128 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:38]       2 | [BOT]           | ? |     1 |     23 |   515,  6542 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:38]       3 | [BOT]           | ? |     3 |   7745 |   795,  -601 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:38]       4 | [BOT]           | ? |     2 |   1220 |  2846,  -435 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:38]       5 | [BOT]           | ? |     1 |    190 |  5545,   302 | PuppuLovur64                  
+[NONE ][18:55:38]       6 | 191.88.73.76    | 6 |     1 |   3278 |  2530,  -304 | Zap                           
+[NONE ][18:55:38]      38 | 181.54.232.4    | 6 |    16 |   1050 |   130,  -423 | nepe 7u7                      
+[NONE ][18:55:38] >pl
+[NONE ][18:55:38] 
+Current players: 37
+[NONE ][18:55:38] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:38]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:38] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:38]       1 | [BOT]           | ? |    12 |    590 |  -224,   -91 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:38]       2 | [BOT]           | ? |     1 |     23 |   515,  6542 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:38]       3 | [BOT]           | ? |     3 |   7722 |   791,  -605 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:38]       4 | [BOT]           | ? |     2 |   1218 |  2824,  -398 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:38]       5 | [BOT]           | ? |     1 |    190 |  5462,   248 | PuppuLovur64                  
+[NONE ][18:55:38]       6 | 191.88.73.76    | 6 |     1 |   3268 |  2477,  -332 | Zap                           
+[NONE ][18:55:38]      38 | 181.54.232.4    | 6 |    16 |   1175 |   126,  -419 | nepe 7u7                      
+[NONE ][18:55:39] >pl
+[NONE ][18:55:39] 
+Current players: 37
+[NONE ][18:55:39] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:39]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:39] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:39]       1 | [BOT]           | ? |    12 |    625 |  -203,  -109 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:39]       2 | [BOT]           | ? |     1 |     23 |   524,  6533 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:39]       3 | [BOT]           | ? |     3 |   7722 |   790,  -608 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:39]       4 | [BOT]           | ? |     2 |   1222 |  2797,  -360 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:39]       5 | [BOT]           | ? |     1 |    190 |  5416,   332 | PuppuLovur64                  
+[NONE ][18:55:39]       6 | 191.88.73.76    | 6 |     1 |   3268 |  2420,  -362 | Zap                           
+[NONE ][18:55:39]      38 | 181.54.232.4    | 6 |    16 |   1185 |   119,  -419 | nepe 7u7                      
+[NONE ][18:55:39] >pl
+[NONE ][18:55:39] 
+Current players: 37
+[NONE ][18:55:39] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:39]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:39] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:39]       1 | [BOT]           | ? |    12 |    627 |  -199,  -119 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:39]       2 | [BOT]           | ? |     1 |     23 |   542,  6513 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:39]       3 | [BOT]           | ? |     3 |   7722 |   789,  -609 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:39]       4 | [BOT]           | ? |     2 |   1225 |  2775,  -328 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:39]       5 | [BOT]           | ? |     1 |    190 |  5378,   397 | PuppuLovur64                  
+[NONE ][18:55:39]       6 | 191.88.73.76    | 6 |     1 |   3268 |  2371,  -386 | Zap                           
+[NONE ][18:55:39]      38 | 181.54.232.4    | 6 |    16 |   1191 |   114,  -419 | nepe 7u7                      
+[NONE ][18:55:40] >pl
+[NONE ][18:55:40] 
+Current players: 37
+[NONE ][18:55:40] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:40]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:40] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:40]       1 | [BOT]           | ? |    12 |    630 |  -197,  -138 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:40]       2 | [BOT]           | ? |     1 |     23 |   596,  6455 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:40]       3 | [BOT]           | ? |     3 |   7734 |   788,  -614 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:40]       4 | [BOT]           | ? |     2 |   1226 |  2764,  -245 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:40]       5 | [BOT]           | ? |     1 |    189 |  5338,   552 | PuppuLovur64                  
+[NONE ][18:55:40]       6 | 191.88.73.76    | 6 |     1 |   3258 |  2270,  -439 | Zap                           
+[NONE ][18:55:40]      38 | 181.54.232.4    | 6 |    16 |   1196 |   105,  -412 | nepe 7u7                      
+[NONE ][18:55:40] >pl
+[NONE ][18:55:40] 
+Current players: 37
+[NONE ][18:55:40] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:40]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:40] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:40]       1 | [BOT]           | ? |    12 |    628 |  -196,  -147 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:40]       2 | [BOT]           | ? |     1 |     23 |   604,  6378 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:40]       3 | [BOT]           | ? |     3 |   7711 |   783,  -619 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:40]       4 | [BOT]           | ? |     4 |   1271 |  1500,   -52 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:40]       5 | [BOT]           | ? |     1 |    189 |  5328,   629 | PuppuLovur64                  
+[NONE ][18:55:40]       6 | 191.88.73.76    | 6 |     1 |   3248 |  2222,  -463 | Zap                           
+[NONE ][18:55:40]      38 | 181.54.232.4    | 6 |    16 |   1196 |   102,  -407 | nepe 7u7                      
+[NONE ][18:55:41] >pl
+[NONE ][18:55:41] 
+Current players: 37
+[NONE ][18:55:41] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:41]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:41] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:41]       1 | [BOT]           | ? |    12 |    630 |  -196,  -155 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:41]       2 | [BOT]           | ? |     1 |     23 |   553,  6222 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:41]       3 | [BOT]           | ? |     3 |   7711 |   776,  -626 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:41]       4 | [BOT]           | ? |     4 |   1277 |  1557,    10 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:41]       5 | [BOT]           | ? |     1 |    189 |  5261,   705 | PuppuLovur64                  
+[NONE ][18:55:41]       6 | 191.88.73.76    | 6 |     1 |   3248 |  2173,  -488 | Zap                           
+[NONE ][18:55:41]      38 | 181.54.232.4    | 6 |    16 |   1205 |    99,  -403 | nepe 7u7                      
+[NONE ][18:55:41] >
+[NONE ][18:55:42] >pl
+[NONE ][18:55:42] 
+Current players: 37
+[NONE ][18:55:42] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:42]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:42] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:42]       1 | [BOT]           | ? |    12 |    630 |  -196,  -173 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:42]       2 | [BOT]           | ? |     1 |     23 |   373,  5916 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:42]       3 | [BOT]           | ? |     3 |   7691 |   761,  -640 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:42]       4 | [BOT]           | ? |     4 |   1273 |  1558,    60 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:42]       5 | [BOT]           | ? |     1 |    188 |  5096,   856 | PuppuLovur64                  
+[NONE ][18:55:42]       6 | 191.88.73.76    | 6 |     1 |   3238 |  2067,  -543 | Zap                           
+[NONE ][18:55:42]      38 | 181.54.232.4    | 6 |    16 |   1057 |    93,  -392 | nepe 7u7                      
+[NONE ][18:55:42] >pl
+[NONE ][18:55:42] 
+Current players: 37
+[NONE ][18:55:42] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:55:42]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:55:42] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:55:42]       1 | [BOT]           | ? |    12 |    630 |  -195,  -180 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:55:42]       2 | [BOT]           | ? |     1 |     33 |   302,  5812 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:55:42]       3 | [BOT]           | ? |     3 |   7691 |   752,  -648 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:55:42]       4 | [BOT]           | ? |     4 |   1279 |  1552,    82 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:55:42]       5 | [BOT]           | ? |     1 |    191 |  5020,   923 | PuppuLovur64                  
+[NONE ][18:55:42]       6 | 191.88.73.76    | 6 |     1 |   3238 |  2019,  -568 | Zap                           
+[NONE ][18:55:42]      38 | 181.54.232.4    | 6 |    16 |   1111 |    90,  -387 | nepe 7u7                      
+[NONE ][18:56:45] DISCONNECTED 181.54.232.4:64213, code: 1000, reason: "", name: "nepe 7u7"
+[NONE ][18:56:46] CONNECTED 181.54.232.4:64415, origin: "http://zapphy.epizy.com"
+[NONE ][18:56:55] >st
+[NONE ][18:56:55] Connected players: 37/128
+[NONE ][18:56:55] Players: 2 - Bots: 35
+[NONE ][18:56:55] Average score: 509.97
+[NONE ][18:56:55] Server has been running for a total of15 minutes
+[NONE ][18:56:55] Current memory usage: 15.1/30.9 mb
+[NONE ][18:56:55] Current game mode: Free For All
+[NONE ][18:56:55] Current update time: 3.160 [ms]  (perfectly smooth)
+[NONE ][18:56:58] >st
+[NONE ][18:56:58] Connected players: 37/128
+[NONE ][18:56:58] Players: 2 - Bots: 35
+[NONE ][18:56:58] Average score: 504.57
+[NONE ][18:56:58] Server has been running for a total of15 minutes
+[NONE ][18:56:58] Current memory usage: 17.8/30.9 mb
+[NONE ][18:56:58] Current game mode: Free For All
+[NONE ][18:56:58] Current update time: 2.654 [ms]  (perfectly smooth)
+[NONE ][18:56:58] >st
+[NONE ][18:56:58] Connected players: 37/128
+[NONE ][18:56:58] Players: 2 - Bots: 35
+[NONE ][18:56:58] Average score: 504.76
+[NONE ][18:56:58] Server has been running for a total of15 minutes
+[NONE ][18:56:58] Current memory usage: 19.1/30.9 mb
+[NONE ][18:56:58] Current game mode: Free For All
+[NONE ][18:56:58] Current update time: 2.710 [ms]  (perfectly smooth)
+[NONE ][18:57:02] >st
+[NONE ][18:57:02] Connected players: 37/128
+[NONE ][18:57:02] Players: 2 - Bots: 35
+[NONE ][18:57:02] Average score: 499.28
+[NONE ][18:57:02] Server has been running for a total of15 minutes
+[NONE ][18:57:02] Current memory usage: 17.3/30.9 mb
+[NONE ][18:57:02] Current game mode: Free For All
+[NONE ][18:57:02] Current update time: 2.207 [ms]  (perfectly smooth)
+[NONE ][18:57:02] >st
+[NONE ][18:57:02] Connected players: 37/128
+[NONE ][18:57:02] Players: 2 - Bots: 35
+[NONE ][18:57:02] Average score: 499.00
+[NONE ][18:57:02] Server has been running for a total of15 minutes
+[NONE ][18:57:02] Current memory usage: 18.7/30.9 mb
+[NONE ][18:57:02] Current game mode: Free For All
+[NONE ][18:57:02] Current update time: 2.984 [ms]  (perfectly smooth)
+[NONE ][18:57:03] >st
+[NONE ][18:57:03] Connected players: 37/128
+[NONE ][18:57:03] Players: 2 - Bots: 35
+[NONE ][18:57:03] Average score: 499.18
+[NONE ][18:57:03] Server has been running for a total of15 minutes
+[NONE ][18:57:03] Current memory usage: 20/30.9 mb
+[NONE ][18:57:03] Current game mode: Free For All
+[NONE ][18:57:03] Current update time: 2.615 [ms]  (perfectly smooth)
+[NONE ][18:57:10] CONNECTED 181.177.247.150:51161, origin: "http://zapphy.epizy.com"
+[NONE ][18:57:56] >pl
+[NONE ][18:57:56] 
+Current players: 53
+[NONE ][18:57:56] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:57:56]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:57:56] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:57:56]       1 | [BOT]           | ? |     5 |    107 |  -399,  -523 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][18:57:56]       2 | [BOT]           | ? |     5 |    125 |  -353,  1183 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][18:57:56]       3 | [BOT]           | ? |    15 |    969 |   -91,  -371 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][18:57:56]       4 | [BOT]           | ? |    14 |   3125 |  -155,    17 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][18:57:56]       5 | [BOT]           | ? |    15 |   1834 |    39,   276 | PuppuLovur64                  
+[NONE ][18:57:56]       6 | 191.88.73.76    | 6 |     4 |  12277 |  -210,  -364 | Zap                           
+[NONE ][18:57:56]      54 | 181.54.232.4    | 6 |     1 |    888 | -4992,  2512 | nepe 7u7                      
+[NONE ][18:57:56]      70 | 181.177.247.150 | 6 |     2 |    928 | -1685,  1498 | alex!                         
+[NONE ][19:01:39] CONNECTED 191.102.208.90:12607, origin: "http://zapphy.epizy.com"
+[NONE ][19:01:52] DISCONNECTED 191.102.208.90:12607, code: 1001, reason: "", name: "๖ۣۜZΛƁℓΣ💜ˢᵉˣʸ"
+[NONE ][19:04:28] >st
+[NONE ][19:04:28] Connected players: 53/128
+[NONE ][19:04:28] Players: 3 - Bots: 50
+[NONE ][19:04:28] Average score: 653.19
+[NONE ][19:04:28] Server has been running for a total of23 minutes
+[NONE ][19:04:28] Current memory usage: 18.9/48.4 mb
+[NONE ][19:04:28] Current game mode: Free For All
+[NONE ][19:04:28] Current update time: 4.071 [ms]  (perfectly smooth)
+[NONE ][19:04:31] >pl
+[NONE ][19:04:31] 
+Current players: 53
+[NONE ][19:04:31] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:04:31]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:04:31] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:04:31]       1 | [BOT]           | ? |     1 |    480 | -5587,  6750 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][19:04:31]       2 | [BOT]           | ? |     1 |     23 |  2761,  -272 | 💢♕𝔯𝔳𝔡𝔶♕💢                
+[NONE ][19:04:31]       3 | [BOT]           | ? |     6 |    172 |   595,  -562 | Ļчм𝔢ᑭןαч𝔰 🎄                
+[NONE ][19:04:31]       4 | [BOT]           | ? |    12 |   6485 |   110,   -97 | ₆₂₀𝓟σβє𝓏一YT                 
+[NONE ][19:04:31]       5 | [BOT]           | ? |     5 |    139 |  -868,  -288 | PuppuLovur64                  
+[NONE ][19:04:31]       6 | 191.88.73.76    | 6 | ------------------------------------------SPECTATING: nepe 7u7
+[NONE ][19:04:31]      54 | 181.54.232.4    | 6 |     1 |  20610 | -2169, -4799 | nepe 7u7                      
+[NONE ][19:04:31]      70 | 181.177.247.150 | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:04:49] CONNECTED 181.113.96.166:18972, origin: "http://zapphy.epizy.com"
+[NONE ][19:05:14] CONNECTED 186.101.231.216:53927, origin: "http://zapphy.epizy.com"
+[DEBUG][19:06:06] process.exit(1)
+=== Shutdown 2018-02-19T19-06-06-550 ===

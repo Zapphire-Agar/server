@@ -1,0 +1,98 @@
+=== Started 2018-02-19T20-46-10-778 ===
+[INFO ][20:46:10] 0 bad words loaded
+[WARN ][20:46:10] User account "Local Administrator" disabled
+[WARN ][20:46:10] User account "Local Moderator" disabled
+[WARN ][20:46:10] User account "Local User" disabled
+[INFO ][20:46:10] 0 user records loaded.
+[INFO ][20:46:10] 0 IP ban records loaded.
+[INFO ][20:46:10] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:46:10] WebSocket: ws
+[INFO ][20:46:10] Started stats server on port 9090
+[INFO ][20:46:10] Listening on port 8888
+[INFO ][20:46:10] Current game mode is Free For All
+[INFO ][20:46:10] Added 5 player bots
+[NONE ][20:46:10]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][20:46:11] CONNECTED 191.88.73.76:56154, origin: "http://zapphy.epizy.com"
+[NONE ][20:46:11] CONNECTED 186.179.100.20:25617, origin: "http://zapphy.epizy.com"
+[NONE ][20:46:11] CONNECTED 181.234.167.171:22013, origin: "http://zapphy.epizy.com"
+[NONE ][20:46:37] CONNECTED 186.47.191.164:10860, origin: "http://zapphy.epizy.com"
+[NONE ][20:48:53] CONNECTED 186.47.191.164:10915, origin: "http://zapphy.epizy.com"
+[NONE ][20:49:04] DISCONNECTED 186.47.191.164:10860, code: 1006, reason: "", name: ""
+[NONE ][20:49:41] CONNECTED 181.67.216.224:4637, origin: "http://zapphy.epizy.com"
+[NONE ][20:50:06] CONNECTED 181.67.216.224:4644, origin: "http://zapphy.epizy.com"
+[NONE ][20:50:11] DISCONNECTED 181.67.216.224:4637, code: 1000, reason: "", name: ""
+[NONE ][20:50:40] DISCONNECTED 186.179.100.20:25617, code: 1001, reason: "", name: " >:'v"
+[NONE ][20:51:22] DISCONNECTED 181.67.216.224:4644, code: 1001, reason: "", name: ""
+[NONE ][20:53:12] CONNECTED 190.147.170.107:49383, origin: "http://zapphy.epizy.com"
+[NONE ][20:53:31] DISCONNECTED 190.147.170.107:49383, code: 1001, reason: "", name: " nega🎈"
+[NONE ][20:55:20] DISCONNECTED 181.234.167.171:22013, code: 1001, reason: "", name: "CoroWUARRO:´v"
+[NONE ][20:56:05] CONNECTED 186.47.191.164:10271, origin: "http://zapphy.epizy.com"
+[NONE ][20:56:07] DISCONNECTED 186.47.191.164:10915, code: 1001, reason: "", name: "Jade"
+[NONE ][20:57:01] DISCONNECTED 186.47.191.164:10271, code: 1001, reason: "", name: "Jade"
+[NONE ][20:57:15] CONNECTED 216.66.6.78:32976, origin: "http://zapphy.epizy.com"
+[NONE ][20:57:42] >pl
+[NONE ][20:57:42] 
+Current players: 37
+[NONE ][20:57:42] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][20:57:42]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][20:57:42] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][20:57:42]       1 | [BOT]           | ? |     1 |   3729 | -2257,  4511 | Viciousクマ                     
+[NONE ][20:57:42]       2 | [BOT]           | ? |     4 |   2288 | -1323,   797 | ƬψƬ𝓈𝒾𝓇𝒾𝓋𝓈               
+[NONE ][20:57:42]       3 | [BOT]           | ? |     1 |    254 |  2054,  3376 | DONT CLICK IT!                
+[NONE ][20:57:42]       4 | [BOT]           | ? |     1 |    298 | -4378,  4867 | 🐲ŁŁ€ᎶØ🔥ƤΔƤΔ                 
+[NONE ][20:57:42]       5 | [BOT]           | ? |     8 |    563 |  -578,   807 | ༄Ƒเ𐍂𝔢衙❥⧟👻ƳƬ༄               
+[NONE ][20:57:42]       6 | 191.88.73.76    | 6 |     1 |  14847 | -1902,   449 | Zap                           
+[NONE ][20:57:42]     150 | 216.66.6.78     | 6 |    16 |   1416 |   249,  -282 | An unnamed cell               
+[NONE ][20:58:38] >pl
+[NONE ][20:58:38] 
+Current players: 37
+[NONE ][20:58:38] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][20:58:38]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][20:58:38] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][20:58:38]       1 | [BOT]           | ? |    11 |   6483 |  -602,   329 | Viciousクマ                     
+[NONE ][20:58:38]       2 | [BOT]           | ? |     1 |     24 | -7046,  3771 | ƬψƬ𝓈𝒾𝓇𝒾𝓋𝓈               
+[NONE ][20:58:38]       3 | [BOT]           | ? |     8 |    441 |   573,   484 | DONT CLICK IT!                
+[NONE ][20:58:38]       4 | [BOT]           | ? |     8 |   1057 |   316,  -449 | 🐲ŁŁ€ᎶØ🔥ƤΔƤΔ                 
+[NONE ][20:58:38]       5 | [BOT]           | ? |     8 |   1019 |  -877,   102 | ༄Ƒเ𐍂𝔢衙❥⧟👻ƳƬ༄               
+[NONE ][20:58:38]       6 | 191.88.73.76    | 6 |     2 |  14030 | -1163,   198 | Zap                           
+[NONE ][20:58:38]     150 | 216.66.6.78     | 6 |     4 |   2730 |  1731, -1524 | An unnamed cell               
+[NONE ][20:58:39] >pl
+[NONE ][20:58:39] 
+Current players: 37
+[NONE ][20:58:39] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][20:58:39]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][20:58:39] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][20:58:39]       1 | [BOT]           | ? |    11 |   6464 |  -601,   331 | Viciousクマ                     
+[NONE ][20:58:39]       2 | [BOT]           | ? |     1 |     24 | -7046,  3792 | ƬψƬ𝓈𝒾𝓇𝒾𝓋𝓈               
+[NONE ][20:58:39]       3 | [BOT]           | ? |     8 |    481 |   576,   520 | DONT CLICK IT!                
+[NONE ][20:58:39]       4 | [BOT]           | ? |     8 |   1054 |   351,  -453 | 🐲ŁŁ€ᎶØ🔥ƤΔƤΔ                 
+[NONE ][20:58:39]       5 | [BOT]           | ? |     8 |   1022 |  -877,    87 | ༄Ƒเ𐍂𝔢衙❥⧟👻ƳƬ༄               
+[NONE ][20:58:39]       6 | 191.88.73.76    | 6 |     2 |  14002 | -1139,   246 | Zap                           
+[NONE ][20:58:39]     150 | 216.66.6.78     | 6 |     4 |   2724 |  1731, -1538 | An unnamed cell               
+[NONE ][21:01:21] DISCONNECTED 216.66.6.78:32976, code: 1006, reason: "undefined", name: ""
+[NONE ][21:05:06] >reload
+[INFO ][21:05:06] 0 bad words loaded
+[WARN ][21:05:06] User account "Local Administrator" disabled
+[WARN ][21:05:06] User account "Local Moderator" disabled
+[WARN ][21:05:06] User account "Local User" disabled
+[INFO ][21:05:06] 0 user records loaded.
+[INFO ][21:05:06] 0 IP ban records loaded.
+[NONE ][21:05:06] Reloaded files successfully
+[NONE ][21:05:15] >st
+[NONE ][21:05:15] Connected players: 21/128
+[NONE ][21:05:15] Players: 1 - Bots: 20
+[NONE ][21:05:15] Average score: 867.62
+[NONE ][21:05:15] Server has been running for a total of19 minutes
+[NONE ][21:05:15] Current memory usage: 15.8/51.4 mb
+[NONE ][21:05:15] Current game mode: Free For All
+[NONE ][21:05:15] Current update time: 1.265 [ms]  (perfectly smooth)
+[DEBUG][21:11:10] process.exit(1)
+=== Shutdown 2018-02-19T21-11-10-948 ===

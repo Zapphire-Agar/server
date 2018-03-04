@@ -1,0 +1,67 @@
+=== Started 2018-02-21T20-11-55-076 ===
+[INFO ][20:11:55] 0 bad words loaded
+[WARN ][20:11:55] User account "Local Moderator" disabled
+[WARN ][20:11:55] User account "Local User" disabled
+[INFO ][20:11:55] 1 user records loaded.
+[INFO ][20:11:55] 1 IP ban records loaded.
+[INFO ][20:11:55] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:11:55] WebSocket: ws
+[INFO ][20:11:55] Started stats server on port 88
+[INFO ][20:11:55] Listening on port 25565
+[INFO ][20:11:55] Current game mode is Free For All
+[INFO ][20:11:55] Added 5 player bots
+[NONE ][20:11:55]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][20:11:56] CONNECTED 191.88.73.76:49390, origin: "http://zapphy.epizy.com"
+[NONE ][20:11:56] CONNECTED 201.157.78.134:55820, origin: "http://zapphy.epizy.com"
+[NONE ][20:11:56] CONNECTED 190.152.211.131:1660, origin: "http://zapphy.epizy.com"
+[NONE ][20:11:56] CONNECTED 186.112.35.167:28414, origin: "http://zapphy.epizy.com"
+[NONE ][20:12:06] CONNECTED 190.147.170.107:51104, origin: "http://zapphy.epizy.com"
+[NONE ][20:12:50] DISCONNECTED 186.112.35.167:28414, code: 1006, reason: "", name: ""
+[NONE ][20:13:23] CONNECTED 186.118.58.16:19244, origin: "http://zapphy.epizy.com"
+[NONE ][20:13:41] CONNECTED 200.74.4.111:64293, origin: "http://zapphy.epizy.com"
+[NONE ][20:14:08] CONNECTED 181.199.33.250:16420, origin: "http://zapphy.epizy.com"
+[NONE ][20:14:19] CONNECTED 181.199.38.178:43741, origin: "http://zapphy.epizy.com"
+[NONE ][20:14:25] DISCONNECTED 190.147.170.107:51104, code: 1001, reason: "", name: "                       🎈"
+[NONE ][20:14:34] DISCONNECTED 181.199.33.250:16420, code: 1000, reason: "", name: "༺鿆West鿆༻⚡案"
+[NONE ][20:14:34] CONNECTED 179.7.168.193:23591, origin: "http://zapphy.epizy.com"
+[NONE ][20:14:36] CONNECTED 181.199.33.250:32970, origin: "http://zapphy.epizy.com"
+[NONE ][20:14:51] CONNECTED 190.147.170.107:51117, origin: "http://zapphy.epizy.com"
+[NONE ][20:14:52] DISCONNECTED 200.74.4.111:64293, code: 1001, reason: "", name: "ℕ℮℘✞üηε🌛"
+[NONE ][20:15:15] DISCONNECTED 179.7.168.193:23591, code: 1001, reason: "", name: ""
+[NONE ][20:15:15] CONNECTED 181.199.38.178:11522, origin: "http://zapphy.epizy.com"
+[NONE ][20:15:15] DISCONNECTED 181.199.38.178:11522, code: 1006, reason: "undefined", name: ""
+[NONE ][20:15:15] CONNECTED 181.199.38.178:59685, origin: "http://zapphy.epizy.com"
+[NONE ][20:15:17] CONNECTED 200.74.4.111:64326, origin: "http://zapphy.epizy.com"
+[NONE ][20:15:26] DISCONNECTED 190.147.170.107:51117, code: 1006, reason: "", name: "                       🎈"
+[NONE ][20:15:31] DISCONNECTED 181.199.38.178:43741, code: 1000, reason: "", name: "Vicious"
+[NONE ][20:15:34] DISCONNECTED 201.157.78.134:55820, code: 1001, reason: "", name: "Fourtune"
+[NONE ][20:15:56] CONNECTED 179.7.168.193:41588, origin: "http://zapphy.epizy.com"
+[NONE ][20:16:27] CONNECTED 190.147.170.107:51123, origin: "http://zapphy.epizy.com"
+[NONE ][20:16:45] >kickbots
+[WARN ][20:16:45] Invalid Command!
+[NONE ][20:16:48] >kickbot
+[WARN ][20:16:48] Only 5 bots were kicked
+[NONE ][20:16:56] DISCONNECTED 179.7.168.193:41588, code: 1006, reason: "undefined", name: ""
+[NONE ][20:17:21] DISCONNECTED 181.199.33.250:32970, code: 1001, reason: "", name: "༺鿆West鿆༻⚡案"
+[NONE ][20:17:30] >ka
+[NONE ][20:17:33] DISCONNECTED 186.118.58.16:19244, code: 1001, reason: "", name: "LOL.IOJUUU"
+[NONE ][20:18:17] DISCONNECTED 190.147.170.107:51123, code: 1006, reason: "", name: "                       🎈"
+[NONE ][20:19:24] DISCONNECTED 181.199.38.178:59685, code: 1000, reason: "", name: "Vicious"
+[NONE ][20:19:26] CONNECTED 181.199.38.178:46911, origin: "http://zapphy.epizy.com"
+[NONE ][20:19:38] >reload
+[INFO ][20:19:38] 0 bad words loaded
+[WARN ][20:19:38] User account "Local Moderator" disabled
+[WARN ][20:19:38] User account "Local User" disabled
+[INFO ][20:19:38] 1 user records loaded.
+[INFO ][20:19:38] 1 IP ban records loaded.
+[NONE ][20:19:38] Reloaded files successfully
+[NONE ][20:19:44] CONNECTED 190.234.41.229:49600, origin: "http://zapphy.epizy.com"
+[NONE ][20:19:46] DISCONNECTED 190.234.41.229:49600, code: 1000, reason: "", name: ""
+[NONE ][20:19:48] DISCONNECTED 190.152.211.131:1660, code: 1001, reason: "", name: ""
+[NONE ][20:19:49] CONNECTED 190.234.41.229:49605, origin: "http://zapphy.epizy.com"
+[NONE ][20:20:11] DISCONNECTED 200.74.4.111:64326, code: 1001, reason: "", name: "Aw❥ℕ℮℘✞üηε🌛"

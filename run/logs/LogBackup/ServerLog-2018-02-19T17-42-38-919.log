@@ -1,0 +1,102 @@
+=== Started 2018-02-19T17-17-38-301 ===
+[INFO ][17:17:38] 0 bad words loaded
+[WARN ][17:17:38] User account "Local Administrator" disabled
+[WARN ][17:17:38] User account "Local Moderator" disabled
+[WARN ][17:17:38] User account "Local User" disabled
+[INFO ][17:17:38] 0 user records loaded.
+[INFO ][17:17:38] 0 IP ban records loaded.
+[INFO ][17:17:38] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:17:38] WebSocket: ws
+[INFO ][17:17:38] Started stats server on port 9090
+[INFO ][17:17:38] Listening on port 8888
+[INFO ][17:17:38] Current game mode is Free For All
+[INFO ][17:17:38] Added 5 player bots
+[NONE ][17:17:38]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][17:17:58] CONNECTED 201.185.230.177:1688, origin: "http://zapphy.epizy.com"
+[NONE ][17:17:58] CONNECTED 201.185.230.177:61221, origin: "http://zapphy.epizy.com"
+[NONE ][17:18:08] DISCONNECTED 201.185.230.177:1688, code: 1001, reason: "", name: " Ｅᵐᵐᵗᵉˣ-◊"
+[NONE ][17:18:18] DISCONNECTED 201.185.230.177:61221, code: 1001, reason: "", name: " [◊] ▬Eɴᴇʀɢʏ•"
+[NONE ][17:22:45] CONNECTED 191.88.73.76:51624, origin: "http://zapphy.epizy.com"
+[NONE ][17:31:12] >reload
+[INFO ][17:31:12] 0 bad words loaded
+[WARN ][17:31:12] User account "Local Administrator" disabled
+[WARN ][17:31:12] User account "Local Moderator" disabled
+[WARN ][17:31:12] User account "Local User" disabled
+[INFO ][17:31:12] 0 user records loaded.
+[INFO ][17:31:12] 0 IP ban records loaded.
+[NONE ][17:31:12] Reloaded files successfully
+[NONE ][17:32:20] DISCONNECTED 191.88.73.76:51624, code: 1001, reason: "", name: "Zap"
+[NONE ][17:32:24] CONNECTED 191.88.73.76:51656, origin: "http://localhost"
+[NONE ][17:33:01] DISCONNECTED 191.88.73.76:51656, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:33:04] CONNECTED 191.88.73.76:51670, origin: "http://localhost"
+[NONE ][17:33:22] DISCONNECTED 191.88.73.76:51670, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:33:25] CONNECTED 191.88.73.76:51681, origin: "http://localhost"
+[NONE ][17:34:02] DISCONNECTED 191.88.73.76:51681, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:34:04] CONNECTED 191.88.73.76:51692, origin: "http://localhost"
+[NONE ][17:34:07] DISCONNECTED 191.88.73.76:51692, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:34:10] CONNECTED 191.88.73.76:51695, origin: "http://localhost"
+[NONE ][17:34:46] DISCONNECTED 191.88.73.76:51695, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:34:49] CONNECTED 191.88.73.76:51711, origin: "http://localhost"
+[NONE ][17:35:05] DISCONNECTED 191.88.73.76:51711, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:35:07] CONNECTED 191.88.73.76:51722, origin: "http://localhost"
+[NONE ][17:35:59] DISCONNECTED 191.88.73.76:51722, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:36:08] CONNECTED 191.88.73.76:51736, origin: "http://localhost"
+[NONE ][17:36:24] DISCONNECTED 191.88.73.76:51736, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:36:27] CONNECTED 191.88.73.76:51755, origin: "http://localhost"
+[NONE ][17:36:41] DISCONNECTED 191.88.73.76:51755, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:36:44] CONNECTED 191.88.73.76:51765, origin: "http://localhost"
+[NONE ][17:36:57] DISCONNECTED 191.88.73.76:51765, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:36:59] CONNECTED 191.88.73.76:51774, origin: "http://localhost"
+[NONE ][17:37:09] DISCONNECTED 191.88.73.76:51774, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:37:11] CONNECTED 191.88.73.76:51783, origin: "http://localhost"
+[NONE ][17:38:28] DISCONNECTED 191.88.73.76:51783, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:38:51] CONNECTED 191.88.73.76:51801, origin: "http://localhost"
+[NONE ][17:39:04] >pl
+[NONE ][17:39:04] 
+Current players: 21
+[NONE ][17:39:04] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:39:04]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][17:39:04] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:39:04]       1 | [BOT]           | ? |     8 |    465 |   416,  -396 | I AM Dragon                   
+[NONE ][17:39:04]       2 | [BOT]           | ? |     1 |   1006 |   744,  6510 | Team?                         
+[NONE ][17:39:04]       3 | [BOT]           | ? |     1 |    196 | -2670, -4895 | NAT NAT                       
+[NONE ][17:39:04]       4 | [BOT]           | ? |     1 |    467 |  5990,  1099 | Ya                            
+[NONE ][17:39:04]       5 | [BOT]           | ? |     1 |    614 | -4335,   907 | ༆… ✯ Jᴀᴄᴏʙ☠༻識遊                
+[NONE ][17:39:04]     246 | 191.88.73.76    | 6 |     1 |    155 |  1563, -1696 | Zapphy                        
+[NONE ][17:39:07] >m 246 10000
+[NONE ][17:39:07] Set mass of Zapphy to 10000.000
+[NONE ][17:39:18] >m 246 15000
+[NONE ][17:39:18] Set mass of Zapphy to 15000.000
+[NONE ][17:40:38] DISCONNECTED 191.88.73.76:51801, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:40:41] CONNECTED 191.88.73.76:51810, origin: "http://localhost"
+[NONE ][17:40:50] >m 246 15000
+[WARN ][17:40:50] That player ID is non-existant!
+[NONE ][17:40:51] >pl
+[NONE ][17:40:51] 
+Current players: 21
+[NONE ][17:40:51] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:40:51]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][17:40:51] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:40:51]       1 | [BOT]           | ? |     1 |    338 |  2137, -5099 | I AM Dragon                   
+[NONE ][17:40:51]       2 | [BOT]           | ? |     9 |   1825 |   353,   168 | Team?                         
+[NONE ][17:40:51]       3 | [BOT]           | ? |     9 |    716 |  -397,  -126 | NAT NAT                       
+[NONE ][17:40:51]       4 | [BOT]           | ? |     2 |     69 |  1800,   183 | Ya                            
+[NONE ][17:40:51]       5 | [BOT]           | ? |     6 |    749 | -1071,  -819 | ༆… ✯ Jᴀᴄᴏʙ☠༻識遊                
+[NONE ][17:40:51]     262 | 191.88.73.76    | 6 |     1 |    817 | -4480, -1794 | Zapphy                        
+[NONE ][17:40:54] >m 262 10000
+[NONE ][17:40:54] Set mass of Zapphy to 10000.000
+[NONE ][17:41:08] DISCONNECTED 191.88.73.76:51810, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:41:10] CONNECTED 191.88.73.76:51820, origin: "http://localhost"
+[NONE ][17:41:52] DISCONNECTED 191.88.73.76:51820, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:41:53] CONNECTED 191.88.73.76:51831, origin: "http://localhost"
+[NONE ][17:42:23] DISCONNECTED 191.88.73.76:51831, code: 1001, reason: "", name: "Zapphy"
+[NONE ][17:42:25] CONNECTED 191.88.73.76:51842, origin: "http://localhost"
+[DEBUG][17:42:38] process.exit(1)
+=== Shutdown 2018-02-19T17-42-38-441 ===

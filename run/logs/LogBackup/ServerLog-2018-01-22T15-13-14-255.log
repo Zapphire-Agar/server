@@ -1,0 +1,77 @@
+=== Started 2018-01-22T14-48-13-662 ===
+[INFO ][14:48:13] 419 bad words loaded
+[WARN ][14:48:13] User account "Local Administrator" disabled
+[WARN ][14:48:13] User account "Local Moderator" disabled
+[WARN ][14:48:13] User account "Local User" disabled
+[INFO ][14:48:13] 0 user records loaded.
+[INFO ][14:48:13] 0 IP ban records loaded.
+[INFO ][14:48:13] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:48:13] WebSocket: ws
+[INFO ][14:48:13] Started stats server on port 9090
+[INFO ][14:48:13] Listening on port 8888
+[INFO ][14:48:13] Current game mode is Free For All
+[INFO ][14:48:13] Added 15 player bots
+[NONE ][14:48:13]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:48:14] CONNECTED 127.0.0.1:50012, origin: "http://localhost"
+[NONE ][14:48:20] >m 1 10000
+[NONE ][14:48:20] Set mass of Baller to 10000.000
+[NONE ][14:48:22] >k 1
+[NONE ][14:48:22] Killed Baller and removed 16 cells
+[NONE ][14:48:24] >pl
+[NONE ][14:48:24] 
+Current players: 26
+[NONE ][14:48:24] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][14:48:24]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][14:48:24] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][14:48:24]       1 | [BOT]           | ? |     1 |    635 |  2150, -3256 | Baller                        
+[NONE ][14:48:24]       2 | [BOT]           | ? |     1 |    627 |  4365,  2666 | bup                           
+[NONE ][14:48:24]       3 | [BOT]           | ? |     1 |    612 |  2364, -5435 | 大声 ReaL                       
+[NONE ][14:48:24]       4 | [BOT]           | ? |     1 |    614 |  3543, -5692 | 100% Luck                     
+[NONE ][14:48:24]       5 | [BOT]           | ? |     2 |    652 |  2253,  -758 | POKER☺                        
+[NONE ][14:48:24]       6 | [BOT]           | ? |     9 |    411 |   -12,   311 | MaƓ⁶⁹✦试尝ᴳᵒᵈ                   
+[NONE ][14:48:24]       7 | [BOT]           | ? |     8 |    725 |  -448,  -101 | ༺кѕ༻SͥkeTͣCͫh                 
+[NONE ][14:48:24]       8 | [BOT]           | ? |     1 |    621 |  5319,   491 | I AM Lendario                 
+[NONE ][14:48:24]       9 | [BOT]           | ? |     8 |    871 |    17,   319 | ĐᗴŜŤ𝓇𝕦ᶜṪṒ𐍂                 
+[NONE ][14:48:24]      10 | [BOT]           | ? |     2 |    654 |  1136, -1172 | 𝓬𝓱𝓮𝓻                      
+[NONE ][14:48:24]      11 | [BOT]           | ? |     2 |    612 |  1528, -1073 | Ðฬ l Devil                    
+[NONE ][14:48:24]      12 | [BOT]           | ? |     1 |    619 | -3029, -5570 | I HAVE THE MEME               
+[NONE ][14:48:24]      13 | [BOT]           | ? |     1 |    614 | -5319, -3847 | ♝♜ᖫᗷᗝᗷƳᖭ♜♝                    
+[NONE ][14:48:24]      14 | [BOT]           | ? |     2 |    607 |  1830,  -757 | ༄ⓦ Goku?                      
+[NONE ][14:48:24]      15 | [BOT]           | ? |     1 |    615 |  2915, -1591 | I eͣzͫ pͩzͣ                   
+[NONE ][14:48:24]      16 | 127.0.0.1       | 6 |     1 |    693 |   -48,  3656 | Zaphire!                      
+[NONE ][14:48:26] >m 16 10000
+[NONE ][14:48:26] Set mass of Zaphire! to 10000.000
+[NONE ][14:48:39] >m 16 10000
+[NONE ][14:48:39] Set mass of Zaphire! to 10000.000
+[NONE ][14:49:35] >m 16 17000
+[NONE ][14:49:35] Set mass of Zaphire! to 17000.000
+[NONE ][14:54:09] >m 16 17000
+[NONE ][14:54:09] Set mass of Zaphire! to 17000.000
+[NONE ][14:55:19] >m 16 19000
+[NONE ][14:55:19] Set mass of Zaphire! to 19000.000
+[NONE ][14:56:14] >m 16 19000
+[NONE ][14:56:14] Set mass of Zaphire! to 19000.000
+[NONE ][14:59:13] >m 16 19000
+[NONE ][14:59:13] Set mass of Zaphire! to 19000.000
+[NONE ][15:04:51] >m 16 6000
+[NONE ][15:04:51] Set mass of Zaphire! to 6000.000
+[NONE ][15:06:31] >m 16 6000
+[NONE ][15:06:31] Set mass of Zaphire! to 6000.000
+[NONE ][15:06:45] >m 16 10000
+[NONE ][15:06:45] Set mass of Zaphire! to 10000.000
+[NONE ][15:08:45] >m 16 10000
+[NONE ][15:08:45] Set mass of Zaphire! to 10000.000
+[NONE ][15:08:48] >m 16 14000
+[NONE ][15:08:48] Set mass of Zaphire! to 14000.000
+[NONE ][15:10:48] >m 16 14000
+[NONE ][15:10:48] Set mass of Zaphire! to 14000.000
+[NONE ][15:12:02] >m 16 14000
+[NONE ][15:12:02] Set mass of Zaphire! to 14000.000
+[DEBUG][15:13:13] process.exit(1)
+=== Shutdown 2018-01-22T15-13-13-831 ===

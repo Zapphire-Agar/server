@@ -1,0 +1,82 @@
+=== Started 2018-01-28T11-16-23-743 ===
+[INFO ][11:16:23] 419 bad words loaded
+[WARN ][11:16:23] User account "Local Administrator" disabled
+[WARN ][11:16:23] User account "Local Moderator" disabled
+[WARN ][11:16:23] User account "Local User" disabled
+[INFO ][11:16:23] 0 user records loaded.
+[INFO ][11:16:23] 0 IP ban records loaded.
+[INFO ][11:16:23] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][11:16:23] WebSocket: ws
+[INFO ][11:16:23] Started stats server on port 9090
+[INFO ][11:16:23] Listening on port 8888
+[INFO ][11:16:23] Current game mode is Free For All
+[INFO ][11:16:23] Added 15 player bots
+[NONE ][11:16:23]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][11:16:27] CONNECTED 127.0.0.1:50161, origin: "http://localhost"
+[NONE ][11:16:32] >m 1 12000
+[NONE ][11:16:32] Set mass of 么ß¥ຮ༻一คຖนēl to 12000.000
+[NONE ][11:16:35] >k 1
+[NONE ][11:16:35] Killed 么ß¥ຮ༻一คຖนēl and removed 1 cells
+[NONE ][11:16:42] >m 16 12000
+[NONE ][11:16:42] Set mass of  to 12000.000
+[NONE ][11:16:57] >m 16 12000
+[NONE ][11:16:57] Set mass of  to 12000.000
+[NONE ][11:17:12] >m 1 12000
+[NONE ][11:17:12] Set mass of 么ß¥ຮ༻一คຖนēl to 12000.000
+[NONE ][11:17:14] >k 1
+[NONE ][11:17:14] Killed 么ß¥ຮ༻一คຖนēl and removed 16 cells
+[NONE ][11:17:18] >m 16 17000
+[NONE ][11:17:18] Set mass of  to 17000.000
+[NONE ][11:20:34] >k 16
+[NONE ][11:20:34] Killed  and removed 1 cells
+[NONE ][11:20:38] >m 16 17000
+[NONE ][11:20:38] Set mass of  to 17000.000
+[NONE ][11:20:55] >m 16 17000
+[NONE ][11:20:55] Set mass of  to 17000.000
+[NONE ][11:21:42] >mg 16
+[NONE ][11:21:42]  is now force merging
+[NONE ][11:22:51] >m 16 17000
+[NONE ][11:22:51] Set mass of  to 17000.000
+[NONE ][11:25:43] >m 16 17000
+[NONE ][11:25:43] Set mass of  to 17000.000
+[NONE ][11:27:28] >m 16 17000
+[NONE ][11:27:28] Set mass of  to 17000.000
+[NONE ][11:30:11] >m 16 8000
+[NONE ][11:30:11] Set mass of  to 8000.000
+[NONE ][11:31:19] >m 16 8000
+[NONE ][11:31:19] Set mass of  to 8000.000
+[NONE ][11:31:23] >m 16 10000
+[NONE ][11:31:23] Set mass of  to 10000.000
+[NONE ][11:31:44] >+rec 16
+[WARN ][11:31:44] Invalid Command!
+[NONE ][11:31:51] >rec 16
+[NONE ][11:31:51]  is now in rec mode!
+[NONE ][11:32:57] >m 16 22000
+[NONE ][11:32:57] Set mass of  to 22000.000
+[NONE ][11:33:10] >rec 16
+[NONE ][11:33:10]  is no longer in rec mode
+[NONE ][11:33:43] >reload
+[INFO ][11:33:43] 419 bad words loaded
+[WARN ][11:33:43] User account "Local Administrator" disabled
+[WARN ][11:33:43] User account "Local Moderator" disabled
+[WARN ][11:33:43] User account "Local User" disabled
+[INFO ][11:33:43] 0 user records loaded.
+[INFO ][11:33:43] 0 IP ban records loaded.
+[NONE ][11:33:43] Reloaded files successfully
+[NONE ][11:35:39] >m 16 10000
+[NONE ][11:35:39] Set mass of  to 10000.000
+[NONE ][11:36:09] >m 16 10000
+[NONE ][11:36:09] Set mass of  to 10000.000
+[NONE ][11:38:39] >m 16 10000
+[NONE ][11:38:39] Set mass of  to 10000.000
+[NONE ][11:38:48] >m 16 14000
+[NONE ][11:38:48] Set mass of  to 14000.000
+[NONE ][11:41:21] >m 16 14000
+[NONE ][11:41:21] Set mass of  to 14000.000
+[DEBUG][11:41:23] process.exit(1)
+=== Shutdown 2018-01-28T11-41-23-954 ===

@@ -1,0 +1,55 @@
+=== Started 2018-02-08T19-27-20-755 ===
+[INFO ][19:27:20] 419 bad words loaded
+[WARN ][19:27:20] User account "Local Administrator" disabled
+[WARN ][19:27:20] User account "Local Moderator" disabled
+[WARN ][19:27:20] User account "Local User" disabled
+[INFO ][19:27:20] 0 user records loaded.
+[INFO ][19:27:20] 0 IP ban records loaded.
+[INFO ][19:27:20] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:27:20] WebSocket: ws
+[INFO ][19:27:21] Started stats server on port 9090
+[INFO ][19:27:21] Listening on port 8888
+[INFO ][19:27:21] Current game mode is Free For All
+[INFO ][19:27:21] Added 15 player bots
+[NONE ][19:27:21]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][19:27:23] CONNECTED 127.0.0.1:53768, origin: "http://localhost"
+[NONE ][19:27:27] DISCONNECTED 127.0.0.1:53768, code: 1000, reason: "", name: "Zapphire"
+[NONE ][19:27:27] CONNECTED 127.0.0.1:53770, origin: "http://localhost"
+[NONE ][19:32:50] DISCONNECTED 127.0.0.1:53770, code: 1006, reason: "", name: "Zapphire"
+[NONE ][19:32:54] CONNECTED 127.0.0.1:53788, origin: "http://localhost"
+[NONE ][19:32:54] DISCONNECTED 127.0.0.1:53788, code: 1000, reason: "", name: ""
+[NONE ][19:32:54] CONNECTED 127.0.0.1:53790, origin: "http://localhost"
+[NONE ][19:35:23] DISCONNECTED 127.0.0.1:53790, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][19:35:26] CONNECTED 127.0.0.1:53806, origin: "http://localhost"
+[NONE ][19:35:49] DISCONNECTED 127.0.0.1:53806, code: 1006, reason: "", name: "Zapphire"
+[NONE ][19:35:52] CONNECTED 127.0.0.1:53819, origin: "http://localhost"
+[NONE ][19:35:52] DISCONNECTED 127.0.0.1:53819, code: 1000, reason: "", name: ""
+[NONE ][19:35:52] CONNECTED 127.0.0.1:53821, origin: "http://localhost"
+[NONE ][19:36:55] DISCONNECTED 127.0.0.1:53821, code: 1001, reason: "", name: "Zapphire"
+[NONE ][19:36:57] CONNECTED 127.0.0.1:53834, origin: "http://localhost"
+[NONE ][19:36:57] DISCONNECTED 127.0.0.1:53834, code: 1000, reason: "", name: ""
+[NONE ][19:36:58] CONNECTED 127.0.0.1:53836, origin: "http://localhost"
+[NONE ][19:37:52] DISCONNECTED 127.0.0.1:53836, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][19:37:55] CONNECTED 127.0.0.1:53850, origin: "http://localhost"
+[NONE ][19:39:43] DISCONNECTED 127.0.0.1:53850, code: 1001, reason: "", name: "Zapphire"
+[NONE ][19:39:46] CONNECTED 127.0.0.1:53866, origin: "http://localhost"
+[NONE ][19:42:59] DISCONNECTED 127.0.0.1:53866, code: 1006, reason: "", name: "Zapphire"
+[NONE ][19:43:04] CONNECTED 127.0.0.1:53884, origin: "http://localhost"
+[NONE ][19:46:15] DISCONNECTED 127.0.0.1:53884, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][19:46:18] CONNECTED 127.0.0.1:53940, origin: "http://localhost"
+[NONE ][19:47:35] DISCONNECTED 127.0.0.1:53940, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][19:47:38] CONNECTED 127.0.0.1:53954, origin: "http://localhost"
+[NONE ][19:50:14] DISCONNECTED 127.0.0.1:53954, code: 1006, reason: "", name: "Zapphire"
+[NONE ][19:50:17] CONNECTED 127.0.0.1:53968, origin: "http://localhost"
+[NONE ][19:51:14] DISCONNECTED 127.0.0.1:53968, code: 1001, reason: "", name: "Zapphire"
+[NONE ][19:51:16] CONNECTED 127.0.0.1:53981, origin: "http://localhost"
+[NONE ][19:51:16] DISCONNECTED 127.0.0.1:53981, code: 1000, reason: "", name: ""
+[NONE ][19:51:17] CONNECTED 127.0.0.1:53983, origin: "http://localhost"
+[NONE ][19:52:19] DISCONNECTED 127.0.0.1:53983, code: 1001, reason: "", name: "Zapphire"
+[DEBUG][19:52:21] process.exit(1)
+=== Shutdown 2018-02-08T19-52-21-064 ===

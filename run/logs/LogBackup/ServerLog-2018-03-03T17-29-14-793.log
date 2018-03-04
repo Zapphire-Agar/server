@@ -1,0 +1,58 @@
+=== Started 2018-03-03T17-19-17-220 ===
+[INFO ][17:19:17] 0 bad words loaded
+[WARN ][17:19:17] User account "Local Moderator" disabled
+[WARN ][17:19:17] User account "Local User" disabled
+[INFO ][17:19:17] 1 user records loaded.
+[INFO ][17:19:17] 1 IP ban records loaded.
+[INFO ][17:19:17] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:19:17] WebSocket: ws
+[INFO ][17:19:17] Started stats server on port 1052
+[INFO ][17:19:17] Listening on port 8888
+[INFO ][17:19:17] Current game mode is Free For All
+[INFO ][17:19:17] Added 2 player bots
+[NONE ][17:19:17]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][17:19:18] CONNECTED 127.0.0.1:20917, origin: "http://zapphy.epizy.com"
+[NONE ][17:19:21] >pl
+[NONE ][17:19:21] 
+Current players: 23
+[NONE ][17:19:21] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:19:21]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][17:19:21] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:19:21]       1 | [BOT]           | ? |     4 |   2516 |  1493,  -611 | XX一Slαѕн༻ᴿᴬᴳᴱ ♐               
+[NONE ][17:19:21]       2 | [BOT]           | ? |     1 |   2480 |  5426,  1169 | ❥❥Iny💋--???                  
+[NONE ][17:19:21]       3 | 127.0.0.1       | 6 |     1 |   2514 | -1739,  4844 | Zapphire                      
+[NONE ][17:19:23] >m 3 10000
+[NONE ][17:19:23] Set mass of Zapphire to 10000.000
+[NONE ][17:19:35] >m 3 19000
+[NONE ][17:19:35] Set mass of Zapphire to 19000.000
+[NONE ][17:24:25] >m 3 19000
+[NONE ][17:24:25] Set mass of Zapphire to 19000.000
+[NONE ][17:25:13] >m 3 10000
+[NONE ][17:25:13] Set mass of Zapphire to 10000.000
+[NONE ][17:25:39] >m 3 13000
+[NONE ][17:25:39] Set mass of Zapphire to 13000.000
+[NONE ][17:25:56] >ka
+[NONE ][17:27:15] >pl
+[NONE ][17:27:15] 
+Current players: 23
+[NONE ][17:27:15] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:27:15]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][17:27:15] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:27:15]       1 | [BOT]           | ? |     1 |   2139 |  2483, -4687 | XX一Slαѕн༻ᴿᴬᴳᴱ ♐               
+[NONE ][17:27:15]       2 | [BOT]           | ? |    16 |   3601 |   318,  -278 | ❥❥Iny💋--???                  
+[NONE ][17:27:15]       3 | 127.0.0.1       | 6 |     1 |    208 | -3184,  3339 | Zapphire                      
+[NONE ][17:27:18] >m 3 7000
+[NONE ][17:27:18] Set mass of Zapphire to 7000.000
+[NONE ][17:27:36] >m 3 17000
+[NONE ][17:27:36] Set mass of Zapphire to 17000.000
+[NONE ][17:29:14] >exit
+[WARN ][17:29:14] Closing server...
+[DEBUG][17:29:14] process.exit(1)
+=== Shutdown 2018-03-03T17-29-14-292 ===

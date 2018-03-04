@@ -1,0 +1,68 @@
+=== Started 2018-01-22T15-37-10-438 ===
+[INFO ][15:37:10] 419 bad words loaded
+[WARN ][15:37:10] User account "Local Administrator" disabled
+[WARN ][15:37:10] User account "Local Moderator" disabled
+[WARN ][15:37:10] User account "Local User" disabled
+[INFO ][15:37:10] 0 user records loaded.
+[INFO ][15:37:10] 0 IP ban records loaded.
+[INFO ][15:37:10] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:37:10] WebSocket: ws
+[INFO ][15:37:10] Started stats server on port 9090
+[INFO ][15:37:10] Listening on port 8888
+[INFO ][15:37:10] Current game mode is Free For All
+[INFO ][15:37:10] Added 15 player bots
+[NONE ][15:37:10]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:37:14] CONNECTED 127.0.0.1:50299, origin: "http://localhost"
+[NONE ][15:37:27] >pl
+[NONE ][15:37:27] 
+Current players: 26
+[NONE ][15:37:27] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:37:27]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][15:37:27] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:37:27]       1 | [BOT]           | ? |     4 |    681 |   663,  1647 | 𝓒ℓคssy☢一ƬψƬ                  
+[NONE ][15:37:27]       2 | [BOT]           | ? |     1 |    596 |  4538,  5004 | BUBBELBALZ                    
+[NONE ][15:37:27]       3 | [BOT]           | ? |     1 |    598 |  6044, -1268 | 夔Ɠℳ ERICK                     
+[NONE ][15:37:27]       4 | [BOT]           | ? |     4 |    670 |   388, -1281 | 𝐒𝓟x SLAYER                  
+[NONE ][15:37:27]       5 | [BOT]           | ? |     1 |    603 |  2737, -4378 | NthC@$c@de:D                  
+[NONE ][15:37:27]       6 | [BOT]           | ? |     1 |    610 | -5137, -5949 | DaReal Cxxxxxx爱               
+[NONE ][15:37:27]       7 | [BOT]           | ? |     1 |     58 | -2316,  3373 | arcadego                      
+[NONE ][15:37:27]       8 | [BOT]           | ? |     4 |    641 |  -113,   523 | Eu sou a Lei                  
+[NONE ][15:37:27]       9 | [BOT]           | ? |     1 |    603 |  3336, -3668 | bubblebalz 20k                
+[NONE ][15:37:27]      10 | [BOT]           | ? |     2 |    626 | -2436,   318 | Sara                          
+[NONE ][15:37:27]      11 | [BOT]           | ? |     2 |    635 | -3489, -2615 | ◥★◤ 🎅ŞŦŘΔ¥Ҝ€Ř                
+[NONE ][15:37:27]      12 | [BOT]           | ? |     1 |    593 | -4618, -5872 | Ultra-[???]                   
+[NONE ][15:37:27]      13 | [BOT]           | ? |     8 |   1233 |  -267,   523 | TYT SIRIUS                    
+[NONE ][15:37:27]      14 | [BOT]           | ? |     4 |    687 |   166,   648 | BubleBalZ Fan                 
+[NONE ][15:37:27]      15 | [BOT]           | ? |     4 |    696 |   591,  -431 | [AG]AcadeGo                   
+[NONE ][15:37:27]      16 | 127.0.0.1       | 6 |     1 |    643 | -3263, -6148 | Zaphire!                      
+[NONE ][15:37:30] >m 16 10000
+[NONE ][15:37:30] Set mass of Zaphire! to 10000.000
+[NONE ][15:37:42] >m 16 10000
+[NONE ][15:37:42] Set mass of Zaphire! to 10000.000
+[NONE ][15:38:54] >m 16 16000
+[NONE ][15:38:54] Set mass of Zaphire! to 16000.000
+[NONE ][15:39:42] >m 16 10000
+[NONE ][15:39:42] Set mass of Zaphire! to 10000.000
+[NONE ][15:40:38] >m 16 16000
+[NONE ][15:40:38] Set mass of Zaphire! to 16000.000
+[NONE ][15:42:29] >m 16 10000
+[NONE ][15:42:29] Set mass of Zaphire! to 10000.000
+[NONE ][15:42:44] >k 16
+[NONE ][15:42:44] Killed Zapphire! and removed 16 cells
+[NONE ][15:43:00] >m 16 10000
+[NONE ][15:43:00] Set mass of Zapphire! to 10000.000
+[NONE ][15:43:05] >m 16 16000
+[NONE ][15:43:05] Set mass of Zapphire! to 16000.000
+[NONE ][15:43:14] >m 16 20000
+[NONE ][15:43:14] Set mass of Zapphire! to 20000.000
+[NONE ][15:43:27] >m 16 16000
+[NONE ][15:43:27] Set mass of Zapphire! to 16000.000
+[NONE ][15:44:55] >m 16 20000
+[NONE ][15:44:55] Set mass of Zapphire! to 20000.000
+[NONE ][15:45:06] DISCONNECTED 127.0.0.1:50299, code: 1006, reason: "", name: " Zapphire!"

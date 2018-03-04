@@ -1,0 +1,80 @@
+=== Started 2018-01-21T11-52-46-633 ===
+[INFO ][11:52:46] 419 bad words loaded
+[WARN ][11:52:46] User account "Local Administrator" disabled
+[WARN ][11:52:46] User account "Local Moderator" disabled
+[WARN ][11:52:46] User account "Local User" disabled
+[INFO ][11:52:46] 0 user records loaded.
+[INFO ][11:52:46] 0 IP ban records loaded.
+[INFO ][11:52:46] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][11:52:46] WebSocket: ws
+[INFO ][11:52:46] Started stats server on port 9090
+[INFO ][11:52:46] Listening on port 8888
+[INFO ][11:52:46] Current game mode is Free For All
+[INFO ][11:52:46] Added 15 player bots
+[NONE ][11:52:46]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][11:54:46] CONNECTED 127.0.0.1:49517, origin: "http://zapphy.epizy.com"
+[NONE ][11:55:44] >pl
+[NONE ][11:55:44] 
+Current players: 26
+[NONE ][11:55:44] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][11:55:44]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][11:55:44] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][11:55:44]       1 | [BOT]           | ? |     1 |    866 |  6232,  5239 | ๖ۣۜǤнσsτ༻一:緑EP                
+[NONE ][11:55:44]       2 | [BOT]           | ? |     1 |    837 |  4757, -4989 | N0psa                         
+[NONE ][11:55:44]       3 | [BOT]           | ? |    11 |   1334 |   393,    83 | ☢优𝓒ℓαssy☢༻₂₅ₖ                
+[NONE ][11:55:44]       4 | [BOT]           | ? |     2 |    883 | -2978,  2688 | team plz                      
+[NONE ][11:55:44]       5 | [BOT]           | ? |     1 |    809 | -1485,  6317 | DEREK♛ṗɱқ♛                    
+[NONE ][11:55:44]       6 | [BOT]           | ? |     7 |    321 |   256,  -586 | ❦⚝ک͠𝔭ყ«͜ثةدا⚝♋               
+[NONE ][11:55:44]       7 | [BOT]           | ? |     4 |    985 |  -316,  -627 | I𝓃𝓈𝒾𝑔𝒽𝓉🐯               
+[NONE ][11:55:44]       8 | [BOT]           | ? |     1 |    817 | -3764,  6827 | Crane                         
+[NONE ][11:55:44]       9 | [BOT]           | ? |     3 |    169 |  -147,   539 | 🌠😼๖ǤΔŁΔ✘😺🌠                
+[NONE ][11:55:44]      10 | [BOT]           | ? |    14 |   4904 |   243,    84 | Help4Help                     
+[NONE ][11:55:44]      11 | [BOT]           | ? |     1 |    850 |  2695, -5135 | -69|متوحش                     
+[NONE ][11:55:44]      12 | [BOT]           | ? |     4 |    165 |  1019,   465 | ɨℜɛᾀŁ一℣Ʀ:快乐                   
+[NONE ][11:55:44]      13 | [BOT]           | ? |     1 |    255 |  -916, -2593 | YT❖ΔɢλгЖ✧力智✧                  
+[NONE ][11:55:44]      14 | [BOT]           | ? |     2 |     83 |  2554,  -298 | PRO FIEL #2                   
+[NONE ][11:55:44]      15 | [BOT]           | ? |     1 |    904 |  6461, -2285 | LEͥGEͣNͫD                     
+[NONE ][11:55:44]      16 | 127.0.0.1       | 6 |     1 |     64 |  2780,  3088 |                               
+[NONE ][11:55:53] >m 16 6000
+[NONE ][11:55:53] Set mass of  to 6000.000
+[NONE ][11:56:34] >m 16 16000
+[NONE ][11:56:34] Set mass of  to 16000.000
+[NONE ][11:57:04] >m 16 16000
+[NONE ][11:57:04] Set mass of  to 16000.000
+[NONE ][11:58:28] >m 16 16000
+[NONE ][11:58:28] Set mass of  to 16000.000
+[NONE ][12:00:14] >m 16 16000
+[NONE ][12:00:14] Set mass of  to 16000.000
+[NONE ][12:04:46] >m 16 16000
+[NONE ][12:04:46] Set mass of  to 16000.000
+[NONE ][12:06:54] >m 16 16000
+[NONE ][12:06:54] Set mass of  to 16000.000
+[NONE ][12:07:39] >m 16 16000
+[NONE ][12:07:39] Set mass of  to 16000.000
+[NONE ][12:07:42] >mg 165
+[WARN ][12:07:42] That player ID is non-existant!
+[NONE ][12:07:44] >mg 16
+[NONE ][12:07:44]  is now force merging
+[NONE ][12:07:54] >mg 16
+[WARN ][12:07:54] Client already has one cell!
+[NONE ][12:07:54] >mg 165
+[WARN ][12:07:54] That player ID is non-existant!
+[NONE ][12:07:57] >ka
+[NONE ][12:08:05] >m 16 6000
+[NONE ][12:08:05] Set mass of  to 6000.000
+[NONE ][12:08:25] >m 16 16000
+[NONE ][12:08:25] Set mass of  to 16000.000
+[NONE ][12:09:53] >m 16 6000
+[NONE ][12:09:53] Set mass of  to 6000.000
+[NONE ][12:10:06] >m 16 14000
+[NONE ][12:10:06] Set mass of  to 14000.000
+[NONE ][12:10:47] >m 16 16000
+[NONE ][12:10:47] Set mass of  to 16000.000
+[NONE ][12:12:07] >ka
+[NONE ][12:13:53] DISCONNECTED 127.0.0.1:49517, code: 1000, reason: "", name: " "

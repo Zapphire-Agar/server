@@ -1,0 +1,52 @@
+=== Started 2018-02-18T18-37-29-823 ===
+[INFO ][18:37:29] 419 bad words loaded
+[WARN ][18:37:29] User account "Local Administrator" disabled
+[WARN ][18:37:29] User account "Local Moderator" disabled
+[WARN ][18:37:29] User account "Local User" disabled
+[INFO ][18:37:29] 0 user records loaded.
+[INFO ][18:37:29] 0 IP ban records loaded.
+[INFO ][18:37:29] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][18:37:29] WebSocket: ws
+[INFO ][18:37:29] Started stats server on port 9090
+[INFO ][18:37:29] Listening on port 8888
+[INFO ][18:37:29] Current game mode is Free For All
+[INFO ][18:37:30] Added 5 player bots
+[NONE ][18:37:30]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][18:37:30] CONNECTED 191.88.73.76:60665, origin: "http://zapphy.epizy.com"
+[NONE ][18:37:36] >m 6 8000
+[NONE ][18:37:36] Set mass of Crystal to 8000.000
+[NONE ][18:37:42] >m 6 15000
+[NONE ][18:37:42] Set mass of Crystal to 15000.000
+[NONE ][18:38:39] >m 6 15000
+[NONE ][18:38:39] Set mass of Crystal to 15000.000
+[NONE ][18:39:58] >m 6 15000
+[NONE ][18:39:58] Set mass of Crystal to 15000.000
+[NONE ][18:41:07] >m 6 19000
+[NONE ][18:41:07] Set mass of Crystal to 19000.000
+[NONE ][18:44:06] >m 6 17000
+[NONE ][18:44:06] Set mass of Crystal to 17000.000
+[NONE ][18:46:02] >m 6 19000
+[NONE ][18:46:02] Set mass of Crystal to 19000.000
+[NONE ][18:47:43] >m 6 19000
+[NONE ][18:47:43] Set mass of Crystal to 19000.000
+[NONE ][18:49:40] >m 6 19000
+[NONE ][18:49:40] Set mass of Crystal to 19000.000
+[NONE ][18:53:11] CONNECTED 191.88.73.76:60691, origin: "http://localhost"
+[NONE ][18:55:24] DISCONNECTED 191.88.73.76:60691, code: 1006, reason: "", name: "Zapphire"
+[NONE ][18:55:25] CONNECTED 191.88.73.76:60708, origin: "http://localhost"
+[NONE ][18:57:10] DISCONNECTED 191.88.73.76:60708, code: 1006, reason: "", name: "Zapphire"
+[NONE ][18:57:12] CONNECTED 191.88.73.76:60721, origin: "http://localhost"
+[NONE ][18:57:16] >ka
+[NONE ][18:57:55] DISCONNECTED 191.88.73.76:60721, code: 1001, reason: "", name: "Zapphire"
+[NONE ][18:57:57] CONNECTED 191.88.73.76:60730, origin: "http://localhost"
+[NONE ][19:00:58] DISCONNECTED 191.88.73.76:60730, code: 1001, reason: "", name: "Zapphire"
+[NONE ][19:01:00] CONNECTED 191.88.73.76:60906, origin: "http://localhost"
+[NONE ][19:02:14] DISCONNECTED 191.88.73.76:60906, code: 1001, reason: "", name: "Zapphire"
+[NONE ][19:02:16] CONNECTED 191.88.73.76:61015, origin: "http://localhost"
+[DEBUG][19:02:30] process.exit(1)
+=== Shutdown 2018-02-18T19-02-30-016 ===

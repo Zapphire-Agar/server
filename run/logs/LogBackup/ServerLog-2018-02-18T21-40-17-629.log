@@ -1,0 +1,142 @@
+=== Started 2018-02-18T21-15-17-037 ===
+[INFO ][21:15:17] 419 bad words loaded
+[WARN ][21:15:17] User account "Local Administrator" disabled
+[WARN ][21:15:17] User account "Local Moderator" disabled
+[WARN ][21:15:17] User account "Local User" disabled
+[INFO ][21:15:17] 0 user records loaded.
+[INFO ][21:15:17] 0 IP ban records loaded.
+[INFO ][21:15:17] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][21:15:17] WebSocket: ws
+[INFO ][21:15:17] Started stats server on port 9090
+[INFO ][21:15:17] Listening on port 8888
+[INFO ][21:15:17] Current game mode is Free For All
+[INFO ][21:15:17] Added 5 player bots
+[NONE ][21:15:17]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][21:15:23] CONNECTED 191.88.73.76:65084, origin: "http://localhost"
+[NONE ][21:15:26] >pl
+[NONE ][21:15:26] 
+Current players: 21
+[NONE ][21:15:26] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][21:15:26]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][21:15:26] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][21:15:26]       1 | [BOT]           | ? |     1 |    893 | -2815, -3321 | I eͣzͫ pͩzͣ                   
+[NONE ][21:15:26]       2 | [BOT]           | ? |     1 |    884 |  3507, -5722 | Ṫя𐌀קẒᵖʳᵒ                     
+[NONE ][21:15:26]       3 | [BOT]           | ? |     1 |    894 |  5731,  4764 | Nick                          
+[NONE ][21:15:26]       4 | [BOT]           | ? |     1 |    889 |   878, -5678 | Sowy                          
+[NONE ][21:15:26]       5 | [BOT]           | ? |     2 |    933 |   104, -3110 | TuGfaEnTanga                  
+[NONE ][21:15:26]       6 | 191.88.73.76    | 6 |     1 |    902 |   234,   512 | An unnamed cell               
+[NONE ][21:15:28] >m 6 10000
+[NONE ][21:15:28] Set mass of An unnamed cell to 10000.000
+[NONE ][21:15:29] >m 6 10000
+[NONE ][21:15:29] Set mass of An unnamed cell to 10000.000
+[NONE ][21:15:31] >m 6 100000
+[NONE ][21:15:31] Set mass of An unnamed cell to 100000.000
+[NONE ][21:15:34] DISCONNECTED 191.88.73.76:65084, code: 1000, reason: "", name: ""
+[NONE ][21:15:35] CONNECTED 191.88.73.76:65086, origin: "http://localhost"
+[NONE ][21:15:50] DISCONNECTED 191.88.73.76:65086, code: 1001, reason: "", name: ""
+[NONE ][21:15:58] CONNECTED 191.88.73.76:65097, origin: "http://localhost"
+[NONE ][21:16:41] DISCONNECTED 191.88.73.76:65097, code: 1001, reason: "", name: ""
+[NONE ][21:16:44] CONNECTED 191.88.73.76:65115, origin: "http://zapphy.epizy.com"
+[NONE ][21:17:13] >pl
+[NONE ][21:17:13] 
+Current players: 21
+[NONE ][21:17:13] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][21:17:13]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][21:17:13] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][21:17:13]       1 | [BOT]           | ? |     6 |   3045 |  -831,   -73 | I eͣzͫ pͩzͣ                   
+[NONE ][21:17:13]       2 | [BOT]           | ? |     7 |   1556 |  -278,  -697 | Ṫя𐌀קẒᵖʳᵒ                     
+[NONE ][21:17:13]       3 | [BOT]           | ? |     1 |    994 | -5253, -6427 | Nick                          
+[NONE ][21:17:13]       4 | [BOT]           | ? |     3 |    268 | -1195, -1218 | Sowy                          
+[NONE ][21:17:13]       5 | [BOT]           | ? |     5 |    247 |  -777,  -568 | TuGfaEnTanga                  
+[NONE ][21:17:13]      54 | 191.88.73.76    | 6 |     1 |     35 |  2771,  6076 | An unnamed cell               
+[NONE ][21:17:16] >m 54 10000
+[NONE ][21:17:16] Set mass of An unnamed cell to 10000.000
+[NONE ][21:17:26] >m 54 15000
+[NONE ][21:17:26] Set mass of An unnamed cell to 15000.000
+[NONE ][21:20:09] >m 54 15000
+[NONE ][21:20:09] Set mass of An unnamed cell to 15000.000
+[NONE ][21:22:05] CONNECTED 201.185.230.177:58548, origin: "http://zapphy.epizy.com"
+[NONE ][21:24:11] DISCONNECTED 201.185.230.177:58548, code: 1000, reason: "", name: ":3"
+[NONE ][21:24:12] CONNECTED 201.185.230.177:58565, origin: "http://zapphy.epizy.com"
+[NONE ][21:24:35] DISCONNECTED 201.185.230.177:58565, code: 1000, reason: "", name: ":3"
+[NONE ][21:24:36] CONNECTED 201.185.230.177:58569, origin: "http://zapphy.epizy.com"
+[NONE ][21:24:59] >m 54 15000
+[NONE ][21:24:59] Set mass of An unnamed cell to 15000.000
+[NONE ][21:26:17] CONNECTED 186.27.145.142:49491, origin: "http://zapphy.epizy.com"
+[NONE ][21:26:18] DISCONNECTED 201.185.230.177:58569, code: 1000, reason: "", name: ":3"
+[NONE ][21:26:19] CONNECTED 201.185.230.177:58574, origin: "http://zapphy.epizy.com"
+[NONE ][21:27:48] DISCONNECTED 186.27.145.142:49491, code: 1001, reason: "", name: " nega🎈"
+[NONE ][21:28:00] >k 54
+[NONE ][21:28:00] Killed Zap and removed 16 cells
+[NONE ][21:28:04] CONNECTED 186.27.145.142:49509, origin: "http://zapphy.epizy.com"
+[NONE ][21:28:22] >m 54 15000
+[NONE ][21:28:22] Set mass of Zap to 15000.000
+[NONE ][21:29:53] >pl
+[NONE ][21:29:53] 
+Current players: 53
+[NONE ][21:29:53] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][21:29:53]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][21:29:53] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][21:29:53]       1 | [BOT]           | ? |     2 |    902 | -3099,  2876 | I eͣzͫ pͩzͣ                   
+[NONE ][21:29:53]       2 | [BOT]           | ? |    10 |   1035 |   203,   552 | Ṫя𐌀קẒᵖʳᵒ                     
+[NONE ][21:29:53]       3 | [BOT]           | ? |     7 |    193 |  -588,  -134 | Nick                          
+[NONE ][21:29:53]       4 | [BOT]           | ? |     2 |     80 |  -353,  2279 | Sowy                          
+[NONE ][21:29:53]       5 | [BOT]           | ? |    10 |    247 |   198,   -59 | TuGfaEnTanga                  
+[NONE ][21:29:53]      54 | 191.88.73.76    | 6 |     2 |   8940 |  1256,  1519 | Zap                           
+[NONE ][21:29:53]     134 | 201.185.230.177 | 6 |    16 |   2832 |   332,  -103 | :3                            
+[NONE ][21:29:53]     150 | 186.27.145.142  | 6 |     2 |  13351 |  1974,   913 | nega🎈                        
+[NONE ][21:34:47] DISCONNECTED 186.27.145.142:49509, code: 1001, reason: "", name: " nega🎈"
+[NONE ][21:35:09] >pl
+[NONE ][21:35:09] 
+Current players: 37
+[NONE ][21:35:09] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][21:35:09]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][21:35:09] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][21:35:09]       1 | [BOT]           | ? |     1 |    139 |  6665, -4535 | I eͣzͫ pͩzͣ                   
+[NONE ][21:35:09]       2 | [BOT]           | ? |    14 |    663 |   279,     6 | Ṫя𐌀קẒᵖʳᵒ                     
+[NONE ][21:35:09]       3 | [BOT]           | ? |     8 |   2080 |   873,   258 | Nick                          
+[NONE ][21:35:09]       4 | [BOT]           | ? |     1 |    185 |  7002,  1728 | Sowy                          
+[NONE ][21:35:09]       5 | [BOT]           | ? |     9 |    439 |  -205,   200 | TuGfaEnTanga                  
+[NONE ][21:35:09]      54 | 191.88.73.76    | 6 |     3 |   2859 | -1494,  1479 | Zap                           
+[NONE ][21:35:09]     134 | 201.185.230.177 | 6 |     2 |   7479 | -2034, -1425 | :3                            
+[NONE ][21:37:10] >ok
+[WARN ][21:37:10] Invalid Command!
+[NONE ][21:37:11] >pl
+[NONE ][21:37:11] 
+Current players: 37
+[NONE ][21:37:11] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][21:37:11]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][21:37:11] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][21:37:11]       1 | [BOT]           | ? |     8 |    458 |   201,   190 | I eͣzͫ pͩzͣ                   
+[NONE ][21:37:11]       2 | [BOT]           | ? |     7 |    479 |    44,  1003 | Ṫя𐌀קẒᵖʳᵒ                     
+[NONE ][21:37:11]       3 | [BOT]           | ? |     1 |     50 | -6790,  2099 | Nick                          
+[NONE ][21:37:11]       4 | [BOT]           | ? |     5 |    192 |   800,  1378 | Sowy                          
+[NONE ][21:37:11]       5 | [BOT]           | ? |     7 |    156 |  -510,  -445 | TuGfaEnTanga                  
+[NONE ][21:37:11]      54 | 191.88.73.76    | 6 |     1 |   8152 | -5113,  4216 | Zap                           
+[NONE ][21:37:11]     134 | 201.185.230.177 | 6 |     3 |   1720 | -1077, -2121 | :3                            
+[NONE ][21:37:14] >pl
+[NONE ][21:37:14] 
+Current players: 37
+[NONE ][21:37:14] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][21:37:14]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][21:37:14] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][21:37:14]       1 | [BOT]           | ? |     8 |    490 |   236,   236 | I eͣzͫ pͩzͣ                   
+[NONE ][21:37:14]       2 | [BOT]           | ? |     4 |    474 |   129,  1730 | Ṫя𐌀קẒᵖʳᵒ                     
+[NONE ][21:37:14]       3 | [BOT]           | ? |     1 |     54 | -6595,  1666 | Nick                          
+[NONE ][21:37:14]       4 | [BOT]           | ? |     5 |    201 |   616,  1377 | Sowy                          
+[NONE ][21:37:14]       5 | [BOT]           | ? |     7 |    157 |  -473,  -607 | TuGfaEnTanga                  
+[NONE ][21:37:14]      54 | 191.88.73.76    | 6 |     1 |   8202 | -5113,  4216 | Zap                           
+[NONE ][21:37:14]     134 | 201.185.230.177 | 6 |     6 |   7577 |  -683, -1168 | :3                            
+[DEBUG][21:40:17] process.exit(1)
+=== Shutdown 2018-02-18T21-40-17-259 ===

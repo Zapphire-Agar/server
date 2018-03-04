@@ -1,0 +1,31 @@
+=== Started 2018-02-18T18-30-15-146 ===
+[INFO ][18:30:15] 419 bad words loaded
+[WARN ][18:30:15] User account "Local Administrator" disabled
+[WARN ][18:30:15] User account "Local Moderator" disabled
+[WARN ][18:30:15] User account "Local User" disabled
+[INFO ][18:30:15] 0 user records loaded.
+[INFO ][18:30:15] 0 IP ban records loaded.
+[INFO ][18:30:15] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][18:30:15] WebSocket: ws
+[INFO ][18:30:15] Started stats server on port 9090
+[INFO ][18:30:15] Listening on port 8888
+[INFO ][18:30:15] Current game mode is Free For All
+[INFO ][18:30:15] Added 5 player bots
+[NONE ][18:30:15]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][18:30:16] CONNECTED 191.88.73.76:60650, origin: "http://zapphy.epizy.com"
+[NONE ][18:30:20] >m 6 10000
+[NONE ][18:30:20] Set mass of Crystal to 10000.000
+[NONE ][18:30:26] >m 6 15000
+[NONE ][18:30:26] Set mass of Crystal to 15000.000
+[NONE ][18:31:12] >m 6 15000
+[NONE ][18:31:12] Set mass of Crystal to 15000.000
+[NONE ][18:31:39] DISCONNECTED 191.88.73.76:60650, code: 1001, reason: "", name: "Crystal"
+[NONE ][18:31:41] >exit
+[WARN ][18:31:41] Closing server...
+[DEBUG][18:31:41] process.exit(1)
+=== Shutdown 2018-02-18T18-31-41-733 ===

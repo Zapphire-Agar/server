@@ -1,0 +1,27 @@
+=== Started 2018-01-14T16-48-01-757 ===
+[ERROR][16:48:01] ReferenceError: Logger is not defined
+    at unsafe (C:\Users\Sebastian\Downloads\kjnboihnoijhn\src\modules\ini.js:184:13)
+    at C:\Users\Sebastian\Downloads\kjnboihnoijhn\src\modules\ini.js:100:32
+    at Array.forEach (<anonymous>)
+    at Object.decode (C:\Users\Sebastian\Downloads\kjnboihnoijhn\src\modules\ini.js:77:11)
+    at GameServer.loadFiles (C:\Users\Sebastian\Downloads\kjnboihnoijhn\src\GameServer.js:978:28)
+    at new GameServer (C:\Users\Sebastian\Downloads\kjnboihnoijhn\src\GameServer.js:155:10)
+    at Object.<anonymous> (C:\Users\Sebastian\Downloads\kjnboihnoijhn\src\index.js:25:18)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+[ERROR][16:48:01] Failed to load ../src/gameserver.ini: Logger is not defined
+[INFO ][16:48:01] 419 bad words loaded
+[WARN ][16:48:01] User account "Local Administrator" disabled
+[WARN ][16:48:01] User account "Local Moderator" disabled
+[WARN ][16:48:01] User account "Local User" disabled
+[INFO ][16:48:01] 0 user records loaded.
+[INFO ][16:48:01] 0 IP ban records loaded.
+[INFO ][16:48:01] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][16:48:01] WebSocket: ws
+[INFO ][16:48:01] Started stats server on port 88
+[ERROR][16:48:01] WebSocket: EADDRINUSE - listen EADDRINUSE 0.0.0.0:443
+[ERROR][16:48:01] Server could not bind to port 443!
+[ERROR][16:48:01] Please close out of Skype or change 'serverPort' in gameserver.ini to a different number.
+[DEBUG][16:48:01] process.exit(1)
+=== Shutdown 2018-01-14T16-48-01-963 ===

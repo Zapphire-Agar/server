@@ -1,0 +1,89 @@
+=== Started 2018-02-19T15-37-36-097 ===
+[INFO ][15:37:36] 419 bad words loaded
+[WARN ][15:37:36] User account "Local Administrator" disabled
+[WARN ][15:37:36] User account "Local Moderator" disabled
+[WARN ][15:37:36] User account "Local User" disabled
+[INFO ][15:37:36] 0 user records loaded.
+[INFO ][15:37:36] 0 IP ban records loaded.
+[INFO ][15:37:36] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:37:36] WebSocket: ws
+[INFO ][15:37:36] Started stats server on port 9090
+[INFO ][15:37:36] Listening on port 8888
+[INFO ][15:37:36] Current game mode is Free For All
+[INFO ][15:37:36] Added 5 player bots
+[NONE ][15:37:36]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:37:37] CONNECTED 191.88.73.76:50836, origin: "http://localhost"
+[NONE ][15:38:03] DISCONNECTED 191.88.73.76:50836, code: 1001, reason: "", name: ""
+[NONE ][15:38:05] CONNECTED 191.88.73.76:50846, origin: "http://localhost"
+[NONE ][15:39:14] DISCONNECTED 191.88.73.76:50846, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:39:16] CONNECTED 191.88.73.76:50857, origin: "http://localhost"
+[NONE ][15:39:35] DISCONNECTED 191.88.73.76:50857, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:39:37] CONNECTED 191.88.73.76:50867, origin: "http://localhost"
+[NONE ][15:39:56] DISCONNECTED 191.88.73.76:50867, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:40:18] CONNECTED 191.88.73.76:50887, origin: "http://localhost"
+[NONE ][15:41:12] DISCONNECTED 191.88.73.76:50887, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:41:14] CONNECTED 191.88.73.76:50897, origin: "http://localhost"
+[NONE ][15:41:45] >pl
+[NONE ][15:41:45] 
+Current players: 21
+[NONE ][15:41:45] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:41:45]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][15:41:45] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:41:45]       1 | [BOT]           | ? |    12 |   1198 |   -80,    95 | Hi there!                     
+[NONE ][15:41:45]       2 | [BOT]           | ? |     6 |   3788 |  -581,    -1 | Sirius                        
+[NONE ][15:41:45]       3 | [BOT]           | ? |     3 |    125 |  -289, -2216 | 🉐꧁Fͥunͣkͫ꧂🉐                 
+[NONE ][15:41:45]       4 | [BOT]           | ? |     2 |    243 | -2764, -3209 | SUPER RISky$#<3               
+[NONE ][15:41:45]       5 | [BOT]           | ? |     4 |    391 |   430,  -417 | Ｆ𝔩ครђ👀 計事衙                  
+[NONE ][15:41:45]      86 | 191.88.73.76    | 6 |     1 |     20 |  3996, -1117 | xddqd                         
+[NONE ][15:41:48] >m 86 4000
+[NONE ][15:41:48] Set mass of xddqd to 4000.000
+[NONE ][15:43:39] DISCONNECTED 191.88.73.76:50897, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:43:41] CONNECTED 191.88.73.76:50915, origin: "http://localhost"
+[NONE ][15:44:07] DISCONNECTED 191.88.73.76:50915, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:44:09] CONNECTED 191.88.73.76:50925, origin: "http://localhost"
+[NONE ][15:45:03] DISCONNECTED 191.88.73.76:50925, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:45:08] CONNECTED 191.88.73.76:50937, origin: "http://localhost"
+[NONE ][15:45:51] DISCONNECTED 191.88.73.76:50937, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:45:54] CONNECTED 191.88.73.76:50947, origin: "http://localhost"
+[NONE ][15:47:13] DISCONNECTED 191.88.73.76:50947, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:47:15] CONNECTED 191.88.73.76:50958, origin: "http://localhost"
+[NONE ][15:47:33] DISCONNECTED 191.88.73.76:50958, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:47:35] CONNECTED 191.88.73.76:50968, origin: "http://localhost"
+[NONE ][15:48:05] DISCONNECTED 191.88.73.76:50968, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:48:08] CONNECTED 191.88.73.76:50978, origin: "http://localhost"
+[NONE ][15:48:47] DISCONNECTED 191.88.73.76:50978, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:48:49] CONNECTED 191.88.73.76:50989, origin: "http://localhost"
+[NONE ][15:48:59] DISCONNECTED 191.88.73.76:50989, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:49:12] CONNECTED 191.88.73.76:51006, origin: "http://localhost"
+[NONE ][15:50:04] DISCONNECTED 191.88.73.76:51006, code: 1006, reason: "", name: "xddqd"
+[NONE ][15:50:06] CONNECTED 191.88.73.76:51015, origin: "http://localhost"
+[NONE ][15:50:44] DISCONNECTED 191.88.73.76:51015, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:50:57] CONNECTED 191.88.73.76:51028, origin: "http://localhost"
+[NONE ][15:55:13] DISCONNECTED 191.88.73.76:51028, code: 1006, reason: "", name: "xddqd"
+[NONE ][15:55:16] CONNECTED 191.88.73.76:51208, origin: "http://localhost"
+[NONE ][15:55:37] DISCONNECTED 191.88.73.76:51208, code: 1001, reason: "", name: ""
+[NONE ][15:55:39] CONNECTED 191.88.73.76:51217, origin: "http://localhost"
+[NONE ][15:56:06] DISCONNECTED 191.88.73.76:51217, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:56:08] CONNECTED 191.88.73.76:51227, origin: "http://localhost"
+[NONE ][15:56:41] DISCONNECTED 191.88.73.76:51227, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:56:44] CONNECTED 191.88.73.76:51236, origin: "http://localhost"
+[NONE ][15:57:57] DISCONNECTED 191.88.73.76:51236, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:57:59] CONNECTED 191.88.73.76:51245, origin: "http://localhost"
+[NONE ][15:58:23] DISCONNECTED 191.88.73.76:51245, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:58:25] CONNECTED 191.88.73.76:51255, origin: "http://localhost"
+[NONE ][16:00:23] DISCONNECTED 191.88.73.76:51255, code: 1001, reason: "", name: "xddqd"
+[NONE ][16:00:25] CONNECTED 191.88.73.76:51265, origin: "http://localhost"
+[NONE ][16:00:54] DISCONNECTED 191.88.73.76:51265, code: 1006, reason: "", name: "xddqd"
+[NONE ][16:00:56] CONNECTED 191.88.73.76:51310, origin: "http://localhost"
+[NONE ][16:01:20] DISCONNECTED 191.88.73.76:51310, code: 1001, reason: "", name: "xddqd"
+[NONE ][16:01:23] CONNECTED 191.88.73.76:51325, origin: "http://localhost"
+[NONE ][16:01:36] DISCONNECTED 191.88.73.76:51325, code: 1001, reason: "", name: "xddqd"
+[NONE ][16:01:39] CONNECTED 191.88.73.76:51335, origin: "http://localhost"
+[DEBUG][16:02:36] process.exit(1)
+=== Shutdown 2018-02-19T16-02-36-276 ===

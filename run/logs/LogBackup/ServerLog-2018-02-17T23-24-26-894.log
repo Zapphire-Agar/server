@@ -1,0 +1,138 @@
+=== Started 2018-02-17T19-27-44-457 ===
+[INFO ][19:27:44] 419 bad words loaded
+[WARN ][19:27:44] User account "Local Administrator" disabled
+[WARN ][19:27:44] User account "Local Moderator" disabled
+[WARN ][19:27:44] User account "Local User" disabled
+[INFO ][19:27:44] 0 user records loaded.
+[INFO ][19:27:44] 0 IP ban records loaded.
+[INFO ][19:27:44] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:27:44] WebSocket: ws
+[INFO ][19:27:44] Started stats server on port 9090
+[INFO ][19:27:44] Listening on port 8888
+[INFO ][19:27:44] Current game mode is Free For All
+[INFO ][19:27:44] Added 5 player bots
+[NONE ][19:27:44]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][19:27:45] CONNECTED 191.88.73.76:58105, origin: "http://localhost"
+[NONE ][19:27:46] CONNECTED 190.152.205.113:1044, origin: "http://zapphy.epizy.com"
+[NONE ][19:28:38] DISCONNECTED 191.88.73.76:58105, code: 1006, reason: "", name: ""
+[NONE ][19:29:26] DISCONNECTED 190.152.205.113:1044, code: 1001, reason: "", name: ""
+[NONE ][19:30:48] CONNECTED 191.88.73.76:58300, origin: "http://zapphy.epizy.com"
+[NONE ][19:30:52] >srt
+[WARN ][19:30:52] Invalid Command!
+[NONE ][19:30:53] >st
+[NONE ][19:30:53] Connected players: 21/128
+[NONE ][19:30:53] Players: 1 - Bots: 20
+[NONE ][19:30:53] Average score: 298.55
+[NONE ][19:30:53] Server has been running for a total of3 minutes
+[NONE ][19:30:53] Current memory usage: 10.8/16.4 mb
+[NONE ][19:30:53] Current game mode: Free For All
+[NONE ][19:30:53] Current update time: 2.314 [ms]  (perfectly smooth)
+[NONE ][19:30:54] >st
+[NONE ][19:30:54] Connected players: 21/128
+[NONE ][19:30:54] Players: 1 - Bots: 20
+[NONE ][19:30:54] Average score: 298.73
+[NONE ][19:30:54] Server has been running for a total of3 minutes
+[NONE ][19:30:54] Current memory usage: 10.7/16.4 mb
+[NONE ][19:30:54] Current game mode: Free For All
+[NONE ][19:30:54] Current update time: 2.066 [ms]  (perfectly smooth)
+[NONE ][19:31:02] DISCONNECTED 191.88.73.76:58300, code: 1000, reason: "", name: ""
+[NONE ][19:31:35] CONNECTED 191.88.73.76:58341, origin: "http://zapphy.epizy.com"
+[NONE ][19:31:39] >pl
+[NONE ][19:31:39] 
+Current players: 21
+[NONE ][19:31:39] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:31:39]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:31:39] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:31:39]       1 | [BOT]           | ? |     1 |    615 | -2620, -4871 | ☠ץ๏ยг ๔єค๔☠                   
+[NONE ][19:31:39]       2 | [BOT]           | ? |     2 |    929 |  2074,  3039 | ฝᛖ◈乡VTR乡                      
+[NONE ][19:31:39]       3 | [BOT]           | ? |    11 |   2355 |    31,   275 | Cσяd绳一ƬψƬ🌌                   
+[NONE ][19:31:39]       4 | [BOT]           | ? |     6 |    189 |   124,   383 | Tristanator                   
+[NONE ][19:31:39]       5 | [BOT]           | ? |     4 |   1823 |   294, -1364 | P1T4 AL :*                    
+[NONE ][19:31:39]      54 | 191.88.73.76    | 6 | ---------------------------------------SPECTATING: Cσяd绳一ƬψƬ🌌
+[NONE ][19:31:40] >st
+[NONE ][19:31:40] Connected players: 21/128
+[NONE ][19:31:40] Players: 1 - Bots: 20
+[NONE ][19:31:40] Average score: 309.02
+[NONE ][19:31:40] Server has been running for a total of3 minutes
+[NONE ][19:31:40] Current memory usage: 10.4/15.9 mb
+[NONE ][19:31:40] Current game mode: Free For All
+[NONE ][19:31:40] Current update time: 4.007 [ms]  (perfectly smooth)
+[NONE ][19:31:41] >st
+[NONE ][19:31:41] Connected players: 21/128
+[NONE ][19:31:41] Players: 1 - Bots: 20
+[NONE ][19:31:41] Average score: 309.38
+[NONE ][19:31:41] Server has been running for a total of3 minutes
+[NONE ][19:31:41] Current memory usage: 9.5/15.9 mb
+[NONE ][19:31:41] Current game mode: Free For All
+[NONE ][19:31:41] Current update time: 3.441 [ms]  (perfectly smooth)
+[NONE ][19:31:53] CONNECTED 190.147.170.88:55101, origin: "http://zapphy.epizy.com"
+[NONE ][19:32:57] CONNECTED 190.233.77.231:57550, origin: "http://zapphy.epizy.com"
+[NONE ][19:32:57] CONNECTED 190.84.189.146:53407, origin: "http://zapphy.epizy.com"
+[NONE ][19:32:58] DISCONNECTED 190.84.189.146:53407, code: 1006, reason: "undefined", name: ""
+[NONE ][19:32:59] CONNECTED 190.84.189.146:53411, origin: "http://zapphy.epizy.com"
+[NONE ][19:34:00] CONNECTED 201.124.41.169:49815, origin: "http://zapphy.epizy.com"
+[NONE ][19:34:30] DISCONNECTED 201.124.41.169:49815, code: 1000, reason: "", name: "Aw∿BeCraZzy ♡!"
+[NONE ][19:34:32] CONNECTED 187.206.43.201:51350, origin: "http://zapphy.epizy.com"
+[NONE ][19:34:32] CONNECTED 201.124.41.169:58227, origin: "http://zapphy.epizy.com"
+[NONE ][19:34:36] DISCONNECTED 190.84.189.146:53411, code: 1001, reason: "", name: " BJ"
+[NONE ][19:34:40] CONNECTED 189.242.89.205:51385, origin: "http://zapphy.epizy.com"
+[NONE ][19:34:49] CONNECTED 190.84.189.146:53470, origin: "http://zapphy.epizy.com"
+[NONE ][19:34:52] CONNECTED 177.226.254.235:53671, origin: "http://zapphy.epizy.com"
+[NONE ][19:35:08] >st
+[NONE ][19:35:08] Connected players: 133/128
+[NONE ][19:35:08] Players: 8 - Bots: 125
+[NONE ][19:35:08] Average score: 287.79
+[NONE ][19:35:08] Server has been running for a total of7 minutes
+[NONE ][19:35:08] Current memory usage: 11.7/49.4 mb
+[NONE ][19:35:08] Current game mode: Free For All
+[NONE ][19:35:08] Current update time: 10.852 [ms]  (perfectly smooth)
+[NONE ][19:35:30] DISCONNECTED 190.147.170.88:55101, code: 1006, reason: "", name: ""
+[NONE ][19:35:48] DISCONNECTED 190.84.189.146:53470, code: 1000, reason: "", name: ""
+[NONE ][19:35:50] >st
+[NONE ][19:35:50] Connected players: 101/128
+[NONE ][19:35:50] Players: 6 - Bots: 95
+[NONE ][19:35:50] Average score: 495.43
+[NONE ][19:35:50] Server has been running for a total of8 minutes
+[NONE ][19:35:50] Current memory usage: 24.4/50.9 mb
+[NONE ][19:35:50] Current game mode: Free For All
+[NONE ][19:35:50] Current update time: 9.783 [ms]  (perfectly smooth)
+[NONE ][19:35:51] >pl
+[NONE ][19:35:51] 
+Current players: 101
+[NONE ][19:35:51] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:35:51]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:35:51] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:35:51]       1 | [BOT]           | ? |     4 |    134 |   473,  -227 | ☠ץ๏ยг ๔єค๔☠                   
+[NONE ][19:35:51]       2 | [BOT]           | ? |    14 |   2714 |   -90,   239 | ฝᛖ◈乡VTR乡                      
+[NONE ][19:35:51]       3 | [BOT]           | ? |     8 |   7342 |  -211,    24 | Cσяd绳一ƬψƬ🌌                   
+[NONE ][19:35:51]       4 | [BOT]           | ? |     7 |    215 |  -948,   536 | Tristanator                   
+[NONE ][19:35:51]       5 | [BOT]           | ? |    13 |   3964 |   257,  -103 | P1T4 AL :*                    
+[NONE ][19:35:51]      54 | 191.88.73.76    | 6 | ------------------------------------SPECTATING: Aw∿BeCraZzy ♡!
+[NONE ][19:35:51]      86 | 190.233.77.231  | 6 |     4 |  12112 |  -916,  -222 | 【ⓥⓘⓟ】iGalaxy !                
+[NONE ][19:35:51]     150 | 187.206.43.201  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:35:51]     166 | 201.124.41.169  | 6 |     4 |  20269 |  -159,  -536 | Aw∿BeCraZzy ♡!                
+[NONE ][19:35:51]     182 | 189.242.89.205  | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:35:51]     214 | 177.226.254.235 | 6 | -------------------------------------------DEAD OR NOT PLAYING
+[NONE ][19:35:51] CONNECTED 190.84.189.146:53500, origin: "http://zapphy.epizy.com"
+[NONE ][19:36:07] DISCONNECTED 190.84.189.146:53500, code: 1001, reason: "", name: " BJ"
+[NONE ][19:36:10] CONNECTED 190.84.189.146:53509, origin: "http://zapphy.epizy.com"
+[NONE ][19:36:21] DISCONNECTED 189.242.89.205:51385, code: 1001, reason: "", name: " sᴛʏʟᴇ 煤₁K"
+[NONE ][19:36:22] CONNECTED 190.147.170.88:55186, origin: "http://zapphy.epizy.com"
+[NONE ][19:36:23] DISCONNECTED 187.206.43.201:51350, code: 1001, reason: "", name: "ARP3"
+[NONE ][19:36:36] CONNECTED 187.206.43.201:51367, origin: "http://zapphy.epizy.com"
+[NONE ][19:37:31] DISCONNECTED 187.206.43.201:51367, code: 1000, reason: "", name: "ARP3"
+[NONE ][19:37:33] DISCONNECTED 177.226.254.235:53671, code: 1001, reason: "", name: "atomic pop"
+[NONE ][19:37:35] CONNECTED 187.206.43.201:51377, origin: "http://zapphy.epizy.com"
+[NONE ][19:37:41] CONNECTED 177.226.254.235:2584, origin: "http://zapphy.epizy.com"
+[NONE ][19:38:02] DISCONNECTED 190.147.170.88:55186, code: 1001, reason: "", name: " سلبي.🎈"
+[NONE ][19:40:19] DISCONNECTED 177.226.254.235:2584, code: 1001, reason: "", name: "atomic pop"
+[NONE ][19:40:19] DISCONNECTED 187.206.43.201:51377, code: 1001, reason: "", name: "ARP3"
+[NONE ][19:41:27] CONNECTED 181.224.224.251:52526, origin: "http://zapphy.epizy.com"
+[NONE ][19:42:02] DISCONNECTED 181.224.224.251:52526, code: 1001, reason: "", name: "ConnoR"

@@ -1,0 +1,76 @@
+=== Started 2018-01-30T17-38-22-294 ===
+[INFO ][17:38:22] 419 bad words loaded
+[WARN ][17:38:22] User account "Local Administrator" disabled
+[WARN ][17:38:22] User account "Local Moderator" disabled
+[WARN ][17:38:22] User account "Local User" disabled
+[INFO ][17:38:22] 0 user records loaded.
+[INFO ][17:38:22] 0 IP ban records loaded.
+[INFO ][17:38:22] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:38:22] WebSocket: ws
+[INFO ][17:38:22] Started stats server on port 9090
+[INFO ][17:38:22] Listening on port 8888
+[INFO ][17:38:22] Current game mode is Free For All
+[INFO ][17:38:22] Added 15 player bots
+[NONE ][17:38:22]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][17:38:23] CONNECTED 127.0.0.1:58306, origin: "http://localhost"
+[NONE ][17:40:17] >pl
+[NONE ][17:40:17] 
+Current players: 26
+[NONE ][17:40:17] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:40:17]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][17:40:17] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:40:17]       1 | [BOT]           | ? |     3 |    576 |   831,   810 | ɨℜɛᾀŁ一℣Ʀ:快乐                   
+[NONE ][17:40:17]       2 | [BOT]           | ? |    10 |    340 |   448,   -24 | Sas16                         
+[NONE ][17:40:17]       3 | [BOT]           | ? |     1 |     43 | -5950, -6503 | SQUIR                         
+[NONE ][17:40:17]       4 | [BOT]           | ? |     8 |    362 |   151,  -404 | 🙉이브방송🙈오후 11시                
+[NONE ][17:40:17]       5 | [BOT]           | ? |     3 |   4485 | -1276, -2257 | ๖ۣፚσ๓ᎤᎥஜ۩۞۩一                
+[NONE ][17:40:17]       6 | [BOT]           | ? |     2 |    165 | -2569, -1129 | Gotcha                        
+[NONE ][17:40:17]       7 | [BOT]           | ? |     2 |    864 |  2303, -2393 | Hypnotic                      
+[NONE ][17:40:17]       8 | [BOT]           | ? |     1 |     77 |  5359,  3890 | ƬψƬ☢Sirius                    
+[NONE ][17:40:17]       9 | [BOT]           | ? |    12 |   4155 |   460,   239 | ൫પഠໞ༏ද YT                     
+[NONE ][17:40:17]      10 | [BOT]           | ? |     1 |     37 |  6736,  -617 | Ferry                         
+[NONE ][17:40:17]      11 | [BOT]           | ? |     8 |    212 |  -452,    30 | Canada1                       
+[NONE ][17:40:17]      12 | [BOT]           | ? |     4 |    665 | -1065,  -627 | xXKillaAlexXx                 
+[NONE ][17:40:17]      13 | [BOT]           | ? |     1 |    108 | -5526, -3604 | Crystal                       
+[NONE ][17:40:17]      14 | [BOT]           | ? |     2 |    142 |  1621,   986 | MART                          
+[NONE ][17:40:17]      15 | [BOT]           | ? |     1 |    639 | -1208,  4369 | Help4Help                     
+[NONE ][17:40:17]      16 | 127.0.0.1       | 5 |     1 |    482 | -5827,  1557 | shark                         
+[NONE ][17:40:20] >m 16 10000
+[NONE ][17:40:20] Set mass of shark to 10000.000
+[NONE ][17:40:30] >m 16 10000
+[NONE ][17:40:30] Set mass of shark to 10000.000
+[NONE ][17:40:32] >m 16 17000
+[NONE ][17:40:32] Set mass of shark to 17000.000
+[NONE ][17:41:15] >m 16 17000
+[NONE ][17:41:15] Set mass of shark to 17000.000
+[NONE ][17:43:24] >m 16 17000
+[NONE ][17:43:24] Set mass of shark to 17000.000
+[NONE ][17:45:22] >m 16 17000
+[NONE ][17:45:22] Set mass of shark to 17000.000
+[NONE ][17:45:27] >m 16 22000
+[NONE ][17:45:27] Set mass of shark to 22000.000
+[NONE ][17:54:09] >m 16 12000
+[NONE ][17:54:09] Set mass of shark to 12000.000
+[NONE ][17:54:45] >m 16 12000
+[NONE ][17:54:45] Set mass of shark to 12000.000
+[NONE ][17:54:54] >m 16 22000
+[NONE ][17:54:54] Set mass of shark to 22000.000
+[NONE ][17:55:13] >ka
+[NONE ][17:55:16] >m 16 22000
+[NONE ][17:55:16] Set mass of shark to 22000.000
+[NONE ][17:56:08] >m 16 22000
+[NONE ][17:56:08] Set mass of shark to 22000.000
+[NONE ][17:58:55] >m 16 22000
+[NONE ][17:58:55] Set mass of shark to 22000.000
+[NONE ][18:00:44] >rec 16
+[NONE ][18:00:44] shark is now in rec mode!
+[NONE ][18:01:54] >m 16 22000
+[NONE ][18:01:54] Set mass of shark to 22000.000
+[DEBUG][18:03:22] process.exit(1)
+=== Shutdown 2018-01-30T18-03-22-443 ===

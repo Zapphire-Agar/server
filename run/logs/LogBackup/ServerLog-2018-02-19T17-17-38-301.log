@@ -1,0 +1,75 @@
+=== Started 2018-02-19T16-52-37-761 ===
+[INFO ][16:52:37] 0 bad words loaded
+[WARN ][16:52:37] User account "Local Administrator" disabled
+[WARN ][16:52:37] User account "Local Moderator" disabled
+[WARN ][16:52:37] User account "Local User" disabled
+[INFO ][16:52:37] 0 user records loaded.
+[INFO ][16:52:37] 0 IP ban records loaded.
+[INFO ][16:52:37] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][16:52:37] WebSocket: ws
+[INFO ][16:52:37] Started stats server on port 9090
+[INFO ][16:52:37] Listening on port 8888
+[INFO ][16:52:37] Current game mode is Free For All
+[INFO ][16:52:37] Added 5 player bots
+[NONE ][16:52:37]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][16:52:38] CONNECTED 191.88.73.76:51576, origin: "http://localhost"
+[NONE ][16:52:38] CONNECTED 201.185.230.177:61206, origin: "http://zapphy.epizy.com"
+[NONE ][16:52:39] CONNECTED 170.78.110.230:50896, origin: "http://zapphy.epizy.com"
+[NONE ][16:52:56] CONNECTED 201.185.230.177:1639, origin: "http://zapphy.epizy.com"
+[NONE ][16:53:03] DISCONNECTED 170.78.110.230:50896, code: 1001, reason: "", name: "S"
+[NONE ][16:54:13] CONNECTED 170.78.110.230:50937, origin: "http://zapphy.epizy.com"
+[NONE ][16:54:46] DISCONNECTED 170.78.110.230:50937, code: 1001, reason: "", name: "S"
+[NONE ][17:03:39] >pl
+[NONE ][17:03:39] 
+Current players: 53
+[NONE ][17:03:39] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:03:39]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][17:03:39] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:03:40]       1 | [BOT]           | ? |     4 |     87 |    42,  -415 | IT'S A PRANK!                 
+[NONE ][17:03:40]       2 | [BOT]           | ? |    16 |   1674 |  -260,   396 | wW_STROK_Ww                   
+[NONE ][17:03:40]       3 | [BOT]           | ? |    14 |   1542 |   197,   -98 | how do u play                 
+[NONE ][17:03:40]       4 | [BOT]           | ? |     7 |   3470 |  -684,  -779 | ♝ＲØςкєŦ♗✌😝                   
+[NONE ][17:03:40]       5 | [BOT]           | ? |     6 |    127 |   607,  -369 | 〖₥₡〗Jonnathan                 
+[NONE ][17:03:40]       6 | 191.88.73.76    | 6 |     4 |  15466 |  -807,  -280 | Zapphy                        
+[NONE ][17:03:40]      22 | 201.185.230.177 | 6 |     8 |   1688 |   455,   485 | [◊] ▬Eɴᴇʀɢʏ•                  
+[NONE ][17:03:40]      54 | 201.185.230.177 | 6 |     1 |   1393 | -6884, -6884 | Ｅᵐᵐᵗᵉˣ-◊                      
+[NONE ][17:06:37] >pl
+[NONE ][17:06:37] 
+Current players: 53
+[NONE ][17:06:37] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][17:06:37]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][17:06:37] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][17:06:37]       1 | [BOT]           | ? |     4 |   1065 |  -281,   802 | IT'S A PRANK!                 
+[NONE ][17:06:37]       2 | [BOT]           | ? |     9 |    596 |  -700,    80 | wW_STROK_Ww                   
+[NONE ][17:06:37]       3 | [BOT]           | ? |     6 |    283 |  -446,  -756 | how do u play                 
+[NONE ][17:06:37]       4 | [BOT]           | ? |     3 |     58 |  -389,  -799 | ♝ＲØςкєŦ♗✌😝                   
+[NONE ][17:06:37]       5 | [BOT]           | ? |     8 |    265 |   839,  -649 | 〖₥₡〗Jonnathan                 
+[NONE ][17:06:37]       6 | 191.88.73.76    | 6 |     1 |   4908 |  2195,  -647 | Zapphy                        
+[NONE ][17:06:37]      22 | 201.185.230.177 | 6 |     1 |     62 |  1582,  5022 | [◊] ▬Eɴᴇʀɢʏ•                  
+[NONE ][17:06:37]      54 | 201.185.230.177 | 6 |    10 |   4111 |    39,  -333 | Ｅᵐᵐᵗᵉˣ-◊                      
+[NONE ][17:06:42] >mp 54 22
+[WARN ][17:06:42] Invalid Command!
+[NONE ][17:06:47] >tp 54 22
+[WARN ][17:06:47] Invalid coordinates
+[NONE ][17:07:35] >m 54 10000
+[NONE ][17:07:35] Set mass of Ｅᵐᵐᵗᵉˣ-◊ to 10000.000
+[NONE ][17:07:47] >m 22 10000
+[NONE ][17:07:47] Set mass of [◊] ▬Eɴᴇʀɢʏ• to 10000.000
+[NONE ][17:09:44] DISCONNECTED 201.185.230.177:1639, code: 1006, reason: "", name: " Ｅᵐᵐᵗᵉˣ-◊"
+[NONE ][17:09:47] >m 22 10000
+[NONE ][17:09:47] Set mass of [◊] ▬Eɴᴇʀɢʏ• to 10000.000
+[NONE ][17:10:40] >m 6 10000
+[NONE ][17:10:40] Set mass of Zapphy to 10000.000
+[NONE ][17:11:07] >m 6 15000
+[NONE ][17:11:07] Set mass of Zapphy to 15000.000
+[NONE ][17:11:37] CONNECTED 201.185.230.177:1685, origin: "http://zapphy.epizy.com"
+[NONE ][17:14:52] DISCONNECTED 191.88.73.76:51576, code: 1001, reason: "", name: "Zapphy"
+[DEBUG][17:17:37] process.exit(1)
+=== Shutdown 2018-02-19T17-17-37-946 ===

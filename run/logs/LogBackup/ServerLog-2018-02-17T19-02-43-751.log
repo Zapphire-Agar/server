@@ -1,0 +1,140 @@
+=== Started 2018-02-17T18-37-43-122 ===
+[INFO ][18:37:43] 419 bad words loaded
+[WARN ][18:37:43] User account "Local Administrator" disabled
+[WARN ][18:37:43] User account "Local Moderator" disabled
+[WARN ][18:37:43] User account "Local User" disabled
+[INFO ][18:37:43] 0 user records loaded.
+[INFO ][18:37:43] 0 IP ban records loaded.
+[INFO ][18:37:43] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][18:37:43] WebSocket: ws
+[INFO ][18:37:43] Started stats server on port 9090
+[INFO ][18:37:43] Listening on port 8888
+[INFO ][18:37:43] Current game mode is Free For All
+[INFO ][18:37:43] Added 5 player bots
+[NONE ][18:37:43]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][18:38:07] CONNECTED 192.168.1.69:57698, origin: "http://agar.io"
+[NONE ][18:39:44] >st
+[NONE ][18:39:44] Connected players: 21/128
+[NONE ][18:39:44] Players: 1 - Bots: 20
+[NONE ][18:39:44] Average score: 420.79
+[NONE ][18:39:44] Server has been running for a total of2 minutes
+[NONE ][18:39:44] Current memory usage: 10.4/15.4 mb
+[NONE ][18:39:44] Current game mode: Free For All
+[NONE ][18:39:44] Current update time: 2.457 [ms]  (perfectly smooth)
+[NONE ][18:44:04] >st
+[NONE ][18:44:04] Connected players: 21/128
+[NONE ][18:44:04] Players: 1 - Bots: 20
+[NONE ][18:44:04] Average score: 903.34
+[NONE ][18:44:04] Server has been running for a total of6 minutes
+[NONE ][18:44:04] Current memory usage: 12.4/21.4 mb
+[NONE ][18:44:04] Current game mode: Free For All
+[NONE ][18:44:04] Current update time: 1.940 [ms]  (perfectly smooth)
+[NONE ][18:44:42] DISCONNECTED 192.168.1.69:57698, code: 1006, reason: "", name: "Zapphire"
+[NONE ][18:44:48] CONNECTED 192.168.1.69:63684, origin: "http://agar.io"
+[NONE ][18:44:57] DISCONNECTED 192.168.1.69:63684, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][18:45:02] CONNECTED 191.88.73.76:63744, origin: "http://agar.io"
+[NONE ][18:45:22] >st
+[NONE ][18:45:22] Connected players: 21/128
+[NONE ][18:45:22] Players: 1 - Bots: 20
+[NONE ][18:45:22] Average score: 476.60
+[NONE ][18:45:22] Server has been running for a total of7 minutes
+[NONE ][18:45:22] Current memory usage: 16.5/29.9 mb
+[NONE ][18:45:22] Current game mode: Free For All
+[NONE ][18:45:22] Current update time: 2.117 [ms]  (perfectly smooth)
+[NONE ][18:45:49] CONNECTED 190.152.205.113:1893, origin: "http://agar.io"
+[NONE ][18:45:53] >st
+[NONE ][18:45:53] Connected players: 37/128
+[NONE ][18:45:53] Players: 2 - Bots: 35
+[NONE ][18:45:53] Average score: 335.25
+[NONE ][18:45:53] Server has been running for a total of8 minutes
+[NONE ][18:45:53] Current memory usage: 12.8/29.9 mb
+[NONE ][18:45:53] Current game mode: Free For All
+[NONE ][18:45:53] Current update time: 4.535 [ms]  (perfectly smooth)
+[NONE ][18:46:17] DISCONNECTED 190.152.205.113:1893, code: 1001, reason: "", name: "𝑾𝒐𝒎𝒃𝒂𝒙 "
+[NONE ][18:50:17] >st
+[NONE ][18:50:17] Connected players: 21/128
+[NONE ][18:50:17] Players: 1 - Bots: 20
+[NONE ][18:50:17] Average score: 869.55
+[NONE ][18:50:17] Server has been running for a total of12 minutes
+[NONE ][18:50:17] Current memory usage: 10.2/13.9 mb
+[NONE ][18:50:17] Current game mode: Free For All
+[NONE ][18:50:17] Current update time: 3.277 [ms]  (perfectly smooth)
+[NONE ][18:50:19] >pl 6000
+[NONE ][18:50:19] 
+Current players: 21
+[NONE ][18:50:19] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:50:19]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:50:19] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:50:19]       1 | [BOT]           | ? |     8 |    581 |  -269,  -138 | ea                            
+[NONE ][18:50:19]       2 | [BOT]           | ? |     6 |    158 |  -950,   -63 | EL BRAYAN                     
+[NONE ][18:50:19]       3 | [BOT]           | ? |    13 |   9234 |  -482,  -485 | hazee fan                     
+[NONE ][18:50:20]       4 | [BOT]           | ? |    14 |   1849 |  -204,    53 | Ƥяσχу❥一㋐🐉                    
+[NONE ][18:50:20]       5 | [BOT]           | ? |     4 |    930 |  -367, -1422 | βØŜŜ༻🎅                       
+[NONE ][18:50:20]      38 | 191.88.73.76    | 17 |     1 |    544 | -4707,  5271 | Zapphire                      
+[NONE ][18:50:28] >m 38 55000
+[NONE ][18:50:28] Set mass of Zapphire to 55000.000
+[NONE ][18:50:29] >ka
+[NONE ][18:50:33] >m 38 5500
+[NONE ][18:50:33] Set mass of Zapphire to 5500.000
+[NONE ][18:50:46] >m 38 12500
+[NONE ][18:50:46] Set mass of Zapphire to 12500.000
+[NONE ][18:51:41] DISCONNECTED 191.88.73.76:63744, code: 1001, reason: "", name: "Zapphire"
+[NONE ][18:51:54] CONNECTED 191.88.73.76:63883, origin: "http://localhost"
+[NONE ][18:52:17] >pl
+[NONE ][18:52:17] 
+Current players: 21
+[NONE ][18:52:17] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][18:52:17]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][18:52:17] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][18:52:17]       1 | [BOT]           | ? |    11 |   1021 |   -29,   218 | ea                            
+[NONE ][18:52:17]       2 | [BOT]           | ? |     2 |    858 | -3363,  1372 | EL BRAYAN                     
+[NONE ][18:52:17]       3 | [BOT]           | ? |     1 |    857 |  1985,  4883 | hazee fan                     
+[NONE ][18:52:17]       4 | [BOT]           | ? |     2 |    990 |  1430, -1632 | Ƥяσχу❥一㋐🐉                    
+[NONE ][18:52:17]       5 | [BOT]           | ? |    14 |    948 |    65,  -182 | βØŜŜ༻🎅                       
+[NONE ][18:52:17]      70 | 191.88.73.76    | 6 |     1 |    883 | -4370,   480 | Zapphire                      
+[NONE ][18:52:19] >m 70 10000
+[NONE ][18:52:19] Set mass of Zapphire to 10000.000
+[NONE ][18:52:45] >m 70 10400
+[NONE ][18:52:45] Set mass of Zapphire to 10400.000
+[NONE ][18:54:01] >m 70 12000
+[NONE ][18:54:01] Set mass of Zapphire to 12000.000
+[NONE ][18:56:28] >m 70 12000
+[NONE ][18:56:28] Set mass of Zapphire to 12000.000
+[NONE ][18:56:36] >ka
+[NONE ][18:56:39] >ka
+[NONE ][18:56:41] >m 70 12000
+[NONE ][18:56:41] Set mass of Zapphire to 12000.000
+[NONE ][18:56:53] >m 70 19000
+[NONE ][18:56:53] Set mass of Zapphire to 19000.000
+[NONE ][18:58:24] CONNECTED 190.152.205.113:1409, origin: "http://zapphy.epizy.com"
+[NONE ][18:58:48] DISCONNECTED 190.152.205.113:1409, code: 1001, reason: "", name: " Wombax"
+[NONE ][19:00:11] CONNECTED 190.152.205.113:1544, origin: "http://zapphy.epizy.com"
+[NONE ][19:00:19] >pl
+[NONE ][19:00:19] 
+Current players: 37
+[NONE ][19:00:19] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:00:19]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:00:19] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:00:19]       1 | [BOT]           | ? |    16 |   1103 |    48,   289 | ea                            
+[NONE ][19:00:19]       2 | [BOT]           | ? |     8 |    738 |   551,  -418 | EL BRAYAN                     
+[NONE ][19:00:19]       3 | [BOT]           | ? |     8 |    245 |   448,   740 | hazee fan                     
+[NONE ][19:00:19]       4 | [BOT]           | ? |     8 |   2811 |   754,   356 | Ƥяσχу❥一㋐🐉                    
+[NONE ][19:00:19]       5 | [BOT]           | ? |    13 |   2162 |   311,  -257 | βØŜŜ༻🎅                       
+[NONE ][19:00:19]      70 | 191.88.73.76    | 6 |     1 |  12716 |  1766,  1538 | Zapphire                      
+[NONE ][19:00:19]     102 | 190.152.205.113 | 6 |     1 |    937 |  2708, -1513 | Wombax                        
+[NONE ][19:00:23] CONNECTED 190.152.205.113:1559, origin: "http://zapphy.epizy.com"
+[NONE ][19:00:51] DISCONNECTED 190.152.205.113:1544, code: 1006, reason: "", name: " Wombax"
+[NONE ][19:00:52] DISCONNECTED 190.152.205.113:1559, code: 1001, reason: "", name: " Wombax"
+[NONE ][19:01:00] CONNECTED 190.152.205.113:1610, origin: "http://zapphy.epizy.com"
+[NONE ][19:01:06] >m 70 19000
+[NONE ][19:01:06] Set mass of Zapphire to 19000.000
+[DEBUG][19:02:43] process.exit(1)
+=== Shutdown 2018-02-17T19-02-43-257 ===

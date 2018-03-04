@@ -1,0 +1,73 @@
+=== Started 2018-01-22T15-19-56-942 ===
+[INFO ][15:19:56] 419 bad words loaded
+[WARN ][15:19:56] User account "Local Administrator" disabled
+[WARN ][15:19:56] User account "Local Moderator" disabled
+[WARN ][15:19:56] User account "Local User" disabled
+[INFO ][15:19:56] 0 user records loaded.
+[INFO ][15:19:56] 0 IP ban records loaded.
+[INFO ][15:19:57] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:19:57] WebSocket: ws
+[INFO ][15:19:57] Started stats server on port 9090
+[INFO ][15:19:57] Listening on port 8888
+[INFO ][15:19:57] Current game mode is Free For All
+[INFO ][15:19:57] Added 15 player bots
+[NONE ][15:19:57]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:19:58] CONNECTED 127.0.0.1:50046, origin: "http://localhost"
+[NONE ][15:20:07] >m 16 10000
+[NONE ][15:20:07] Set mass of Zaphire! to 10000.000
+[NONE ][15:20:23] >m 16 10000
+[NONE ][15:20:23] Set mass of Zaphire! to 10000.000
+[NONE ][15:21:44] >m 16 15000
+[NONE ][15:21:45] Set mass of Zaphire! to 15000.000
+[NONE ][15:22:47] >m 16 10000
+[NONE ][15:22:47] Set mass of Zaphire! to 10000.000
+[NONE ][15:23:37] >m 16 15000
+[NONE ][15:23:37] Set mass of Zaphire! to 15000.000
+[NONE ][15:23:40] >mg 16
+[NONE ][15:23:40] Zaphire! is now force merging
+[NONE ][15:24:18] >m 16 19000
+[NONE ][15:24:18] Set mass of Zaphire! to 19000.000
+[NONE ][15:27:09] >m 16 19000
+[NONE ][15:27:09] Set mass of Zaphire! to 19000.000
+[NONE ][15:28:52] >m 16 19000
+[NONE ][15:28:52] Set mass of Zaphire! to 19000.000
+[NONE ][15:30:08] >m 16 19000
+[NONE ][15:30:08] Set mass of Zaphire! to 19000.000
+[NONE ][15:32:34] DISCONNECTED 127.0.0.1:50046, code: 1001, reason: "", name: " Zaphire!"
+[NONE ][15:33:13] CONNECTED 127.0.0.1:50181, origin: "http://localhost"
+[NONE ][15:33:28] >pl
+[NONE ][15:33:28] 
+Current players: 26
+[NONE ][15:33:28] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:33:28]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][15:33:28] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:33:28]       1 | [BOT]           | ? |     4 |    140 |  1417,  1120 | ๖ۣۜUriel㊗西蒙一㊣❥               
+[NONE ][15:33:28]       2 | [BOT]           | ? |     3 |   1002 |  -555,   930 | patriarchy                    
+[NONE ][15:33:28]       3 | [BOT]           | ? |     2 |   3566 |   -24, -3046 | 鿅derpy potato鿆                
+[NONE ][15:33:28]       4 | [BOT]           | ? |    10 |   1364 |   392,   -13 | ⚔ƁᙈββŁΣßΛĻŽ༻PRO               
+[NONE ][15:33:28]       5 | [BOT]           | ? |     1 |    439 | -3360,  2686 | ๖ۣۜDxxxxx爱情舌椹                 
+[NONE ][15:33:28]       6 | [BOT]           | ? |     6 |   7494 |  -836,  -573 | ༺㊑𝕊𝐓𝐄𝐀𝕃㊑༻                
+[NONE ][15:33:28]       7 | [BOT]           | ? |     1 |    345 | -5709, -6643 | +18 ༆✬ɲͥḭɲͣɛͫ✞ץ               
+[NONE ][15:33:28]       8 | [BOT]           | ? |     8 |    527 |   667,  -250 | 【฿Ⱡ₳₵₭】💀₲₭💀爱情               
+[NONE ][15:33:28]       9 | [BOT]           | ? |     1 |     79 |   516, -7026 | 【฿Ⱡ₳₵₭】💀₲₭💀爱情               
+[NONE ][15:33:28]      10 | [BOT]           | ? |     1 |    644 | -1786,  4795 | SυρƖєxƳт💋一❥ᙈĻ                
+[NONE ][15:33:28]      11 | [BOT]           | ? |     1 |    621 | -6719,  -754 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][15:33:28]      12 | [BOT]           | ? |     1 |    138 |  2203,  6884 | 乡𝓙ო★Ş€๒คŞŤเคภ                
+[NONE ][15:33:28]      13 | [BOT]           | ? |    10 |    673 |  -180,  -161 | [SACK] JRED                   
+[NONE ][15:33:28]      14 | [BOT]           | ? |     1 |    546 |  2006, -3568 | CHRIS ON WEED                 
+[NONE ][15:33:28]      15 | [BOT]           | ? |    10 |   2534 |   313,     3 | 🐲ŁŁ€ᎶØ🔥ƤΔƤΔ                 
+[NONE ][15:33:28]      27 | 127.0.0.1       | 6 |     1 |    604 |  6316,  6384 | Zaphire!                      
+[NONE ][15:33:31] >m 27 10000
+[NONE ][15:33:31] Set mass of Zaphire! to 10000.000
+[NONE ][15:34:57] >m 27 10000
+[NONE ][15:34:57] Set mass of Zaphire! to 10000.000
+[NONE ][15:35:18] >m 27 10000
+[NONE ][15:35:18] Set mass of Zaphire! to 10000.000
+[NONE ][15:35:52] >m 27 14000
+[NONE ][15:35:52] Set mass of Zaphire! to 14000.000

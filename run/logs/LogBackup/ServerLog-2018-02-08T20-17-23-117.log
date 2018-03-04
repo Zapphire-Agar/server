@@ -1,0 +1,85 @@
+=== Started 2018-02-08T19-52-21-602 ===
+[INFO ][19:52:21] 419 bad words loaded
+[WARN ][19:52:21] User account "Local Administrator" disabled
+[WARN ][19:52:21] User account "Local Moderator" disabled
+[WARN ][19:52:21] User account "Local User" disabled
+[INFO ][19:52:21] 0 user records loaded.
+[INFO ][19:52:21] 0 IP ban records loaded.
+[INFO ][19:52:21] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:52:21] WebSocket: ws
+[INFO ][19:52:21] Started stats server on port 9090
+[INFO ][19:52:21] Listening on port 8888
+[INFO ][19:52:21] Current game mode is Free For All
+[INFO ][19:52:21] Added 15 player bots
+[NONE ][19:52:21]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][19:52:22] CONNECTED 127.0.0.1:54072, origin: "http://localhost"
+[NONE ][19:53:52] DISCONNECTED 127.0.0.1:54072, code: 1006, reason: "", name: "Zapphire"
+[NONE ][19:53:55] CONNECTED 127.0.0.1:54115, origin: "http://localhost"
+[NONE ][19:54:31] DISCONNECTED 127.0.0.1:54115, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][19:54:52] CONNECTED 127.0.0.1:54207, origin: "http://localhost"
+[NONE ][19:54:54] DISCONNECTED 127.0.0.1:54207, code: 1000, reason: "", name: "Zapphire"
+[NONE ][19:54:54] CONNECTED 127.0.0.1:54211, origin: "http://localhost"
+[NONE ][19:55:41] DISCONNECTED 127.0.0.1:54211, code: 1006, reason: "", name: "Zapphire"
+[NONE ][19:55:44] CONNECTED 127.0.0.1:54237, origin: "http://localhost"
+[NONE ][19:55:44] DISCONNECTED 127.0.0.1:54237, code: 1000, reason: "", name: ""
+[NONE ][19:55:44] CONNECTED 127.0.0.1:54239, origin: "http://localhost"
+[NONE ][19:56:44] DISCONNECTED 127.0.0.1:54239, code: 1001, reason: "", name: "Zapphire"
+[NONE ][19:56:46] CONNECTED 127.0.0.1:54259, origin: "http://localhost"
+[NONE ][19:57:03] DISCONNECTED 127.0.0.1:54259, code: 1001, reason: "", name: "Zapphire"
+[NONE ][19:57:06] CONNECTED 127.0.0.1:54275, origin: "http://localhost"
+[NONE ][19:59:08] DISCONNECTED 127.0.0.1:54275, code: 1001, reason: "", name: "Zapphire"
+[NONE ][19:59:11] CONNECTED 127.0.0.1:54290, origin: "http://localhost"
+[NONE ][19:59:11] DISCONNECTED 127.0.0.1:54290, code: 1000, reason: "", name: ""
+[NONE ][19:59:11] CONNECTED 127.0.0.1:54292, origin: "http://localhost"
+[NONE ][20:07:22] >rec
+[WARN ][20:07:22] Please specify a valid player ID!
+[NONE ][20:07:24] >l
+[WARN ][20:07:24] Invalid Command!
+[NONE ][20:07:25] >pl
+[NONE ][20:07:25] 
+Current players: 31
+[NONE ][20:07:25] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][20:07:25]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][20:07:25] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][20:07:25]       1 | [BOT]           | ? |     1 |   8256 | -3813, -4476 | 😈ϾṒṆṆΣϾṪḭṆḠ🐉                
+[NONE ][20:07:25]       2 | [BOT]           | ? |     1 |   1201 |   646,  3245 | SQUIR                         
+[NONE ][20:07:25]       3 | [BOT]           | ? |     2 |    743 |  -208,  2361 | Left Nut                      
+[NONE ][20:07:25]       4 | [BOT]           | ? |     4 |    122 |  1174,   363 | 𝐃𝐔𝐊𝐄                      
+[NONE ][20:07:25]       5 | [BOT]           | ? |     1 |     25 | -1818, -4527 | Kiingzeys :v Ϻฝ               
+[NONE ][20:07:25]       6 | [BOT]           | ? |     3 |   3112 |  2004, -2170 | crystal                       
+[NONE ][20:07:25]       7 | [BOT]           | ? |     3 |     78 |  -688, -1889 | gVX                           
+[NONE ][20:07:25]       8 | [BOT]           | ? |     6 |   1359 |  -140,  -939 | 夔Ɠℳ ERICK                     
+[NONE ][20:07:25]       9 | [BOT]           | ? |     5 |    107 |  -196,   391 | Vicious ♡                     
+[NONE ][20:07:25]      10 | [BOT]           | ? |     1 |   9575 | -5099, -1088 | PuppuLovur64                  
+[NONE ][20:07:25]      11 | [BOT]           | ? |    15 |   1085 |  -389,   345 | 【ĤãřđŁiиë】                    
+[NONE ][20:07:25]      12 | [BOT]           | ? |     9 |    341 |   184,  -388 | reykiavik                     
+[NONE ][20:07:25]      13 | [BOT]           | ? |     2 |    159 |  1692,  3103 | 🎧ƬɌĄƤ-𝓒σĐz✨                 
+[NONE ][20:07:25]      14 | [BOT]           | ? |    15 |   4671 |   442,   229 | PRO TEAM                      
+[NONE ][20:07:25]      15 | [BOT]           | ? |    16 |   2997 |   -19,  -309 | Team?                         
+[NONE ][20:07:25]     160 | 127.0.0.1       | 5 |     1 |  15744 | -2048, -1225 | Zapphire                      
+[NONE ][20:07:27] >rec 160
+[NONE ][20:07:27] Zapphire is now in rec mode!
+[NONE ][20:10:07] >m 160 70000
+[NONE ][20:10:07] Set mass of Zapphire to 70000.000
+[NONE ][20:11:12] >m 160 70000
+[NONE ][20:11:12] Set mass of Zapphire to 70000.000
+[NONE ][20:11:20] >m 160 70000
+[NONE ][20:11:20] Set mass of Zapphire to 70000.000
+[NONE ][20:11:50] >m 160 700
+[NONE ][20:11:50] Set mass of Zapphire to 700.000
+[NONE ][20:13:25] DISCONNECTED 127.0.0.1:54292, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][20:13:28] CONNECTED 127.0.0.1:54318, origin: "http://localhost"
+[NONE ][20:15:30] DISCONNECTED 127.0.0.1:54318, code: 1006, reason: "undefined", name: "Zapphire"
+[NONE ][20:15:32] CONNECTED 127.0.0.1:54334, origin: "http://localhost"
+[NONE ][20:15:42] DISCONNECTED 127.0.0.1:54334, code: 1006, reason: "", name: "Zapphire"
+[NONE ][20:15:45] CONNECTED 127.0.0.1:54350, origin: "http://zapphy.epizy.com"
+[NONE ][20:15:45] DISCONNECTED 127.0.0.1:54350, code: 1000, reason: "", name: ""
+[NONE ][20:15:45] CONNECTED 127.0.0.1:54352, origin: "http://zapphy.epizy.com"
+[DEBUG][20:17:21] process.exit(1)
+=== Shutdown 2018-02-08T20-17-21-824 ===

@@ -1,0 +1,115 @@
+=== Started 2018-02-24T12-05-21-229 ===
+[INFO ][12:05:21] 0 bad words loaded
+[WARN ][12:05:21] User account "Local Moderator" disabled
+[WARN ][12:05:21] User account "Local User" disabled
+[INFO ][12:05:21] 1 user records loaded.
+[INFO ][12:05:21] 1 IP ban records loaded.
+[INFO ][12:05:21] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][12:05:21] WebSocket: ws
+[INFO ][12:05:21] Started stats server on port 88
+[INFO ][12:05:21] Listening on port 25565
+[INFO ][12:05:21] Current game mode is Free For All
+[INFO ][12:05:21] Added 5 player bots
+[NONE ][12:05:21]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][12:05:21] CONNECTED 127.0.0.1:54292, origin: "file://"
+[NONE ][12:06:50] >reloads
+[WARN ][12:06:50] Invalid Command!
+[NONE ][12:06:52] >reload
+[INFO ][12:06:52] 0 bad words loaded
+[WARN ][12:06:52] User account "Local Moderator" disabled
+[WARN ][12:06:52] User account "Local User" disabled
+[INFO ][12:06:52] 1 user records loaded.
+[INFO ][12:06:52] 1 IP ban records loaded.
+[NONE ][12:06:52] Reloaded files successfully
+[NONE ][12:07:16] >pl
+[NONE ][12:07:16] 
+Current players: 21
+[NONE ][12:07:16] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][12:07:16]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][12:07:16] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][12:07:16]       1 | [BOT]           | ? |     3 |   3352 |  -504,  -185 | 𝐃𝐔𝐊𝐄                      
+[NONE ][12:07:16]       2 | [BOT]           | ? |     2 |   2651 |  3283,  2627 | ERIK                          
+[NONE ][12:07:16]       3 | [BOT]           | ? |     2 |   2400 | -2663,  3299 | pickle                        
+[NONE ][12:07:16]       4 | [BOT]           | ? |     1 |   2337 |  2443, -1583 | cabbage                       
+[NONE ][12:07:16]       5 | [BOT]           | ? |     4 |   2532 |  1230,  1520 | FAME ACEMİLERİ                
+[NONE ][12:07:16]       6 | 127.0.0.1       | 4 |     1 |    908 | -4532, -5826 | An unnamed cell               
+[NONE ][12:07:19] >m 6 10000
+[NONE ][12:07:19] Set mass of An unnamed cell to 10000.000
+[NONE ][12:10:05] DISCONNECTED 127.0.0.1:54292, code: 1001, reason: "", name: ""
+[NONE ][12:10:07] CONNECTED 127.0.0.1:54300, origin: "file://"
+[NONE ][12:11:00] >pl
+[NONE ][12:11:00] 
+Current players: 21
+[NONE ][12:11:00] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][12:11:00]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][12:11:00] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][12:11:00]       1 | [BOT]           | ? |     1 |   5271 | -4960,  4402 | 𝐃𝐔𝐊𝐄                      
+[NONE ][12:11:00]       2 | [BOT]           | ? |     4 |   6124 | -1588,   696 | ERIK                          
+[NONE ][12:11:00]       3 | [BOT]           | ? |     2 |    140 |   591, -2173 | pickle                        
+[NONE ][12:11:00]       4 | [BOT]           | ? |     6 |   2623 |   556,  -779 | cabbage                       
+[NONE ][12:11:00]       5 | [BOT]           | ? |     4 |    728 |  1126,   267 | FAME ACEMİLERİ                
+[NONE ][12:11:00]      22 | 127.0.0.1       | 4 |     1 |   1273 | -1351, -3122 | An unnamed cell               
+[NONE ][12:11:04] >m 22 12000
+[NONE ][12:11:04] Set mass of An unnamed cell to 12000.000
+[NONE ][12:12:28] >m 22 19000
+[NONE ][12:12:28] Set mass of An unnamed cell to 19000.000
+[NONE ][12:13:57] DISCONNECTED 127.0.0.1:54300, code: 1001, reason: "", name: ""
+[NONE ][12:13:58] CONNECTED 127.0.0.1:54305, origin: "file://"
+[NONE ][12:14:19] DISCONNECTED 127.0.0.1:54305, code: 1001, reason: "", name: ""
+[NONE ][12:14:20] CONNECTED 127.0.0.1:54308, origin: "file://"
+[NONE ][12:15:58] DISCONNECTED 127.0.0.1:54308, code: 1001, reason: "", name: ""
+[NONE ][12:15:59] CONNECTED 127.0.0.1:54310, origin: "file://"
+[NONE ][12:16:28] DISCONNECTED 127.0.0.1:54310, code: 1001, reason: "", name: ""
+[NONE ][12:16:29] CONNECTED 127.0.0.1:54313, origin: "file://"
+[NONE ][12:17:17] >PL
+[NONE ][12:17:17] 
+Current players: 21
+[NONE ][12:17:17] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][12:17:17]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][12:17:17] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][12:17:17]       1 | [BOT]           | ? |     1 |   3639 |  2548,  1572 | 𝐃𝐔𝐊𝐄                      
+[NONE ][12:17:17]       2 | [BOT]           | ? |     1 |   3149 | -6320,  1648 | ERIK                          
+[NONE ][12:17:17]       3 | [BOT]           | ? |    14 |    752 |  -116,  -309 | pickle                        
+[NONE ][12:17:17]       4 | [BOT]           | ? |     1 |   2508 |  1668, -5874 | cabbage                       
+[NONE ][12:17:17]       5 | [BOT]           | ? |     3 |   1017 |   526,  1956 | FAME ACEMİLERİ                
+[NONE ][12:17:17]      86 | 127.0.0.1       | 4 |     1 |    201 | -4965, -5798 | An unnamed cell               
+[NONE ][12:17:20] >M 86 10000
+[NONE ][12:17:20] Set mass of An unnamed cell to 10000.000
+[NONE ][12:18:32] DISCONNECTED 127.0.0.1:54313, code: 1001, reason: "", name: ""
+[NONE ][12:18:34] CONNECTED 127.0.0.1:54403, origin: "file://"
+[NONE ][12:19:27] DISCONNECTED 127.0.0.1:54403, code: 1001, reason: "", name: ""
+[NONE ][12:19:29] CONNECTED 127.0.0.1:54479, origin: "file://"
+[NONE ][12:19:43] DISCONNECTED 127.0.0.1:54479, code: 1001, reason: "", name: ""
+[NONE ][12:19:44] CONNECTED 127.0.0.1:54500, origin: "file://"
+[NONE ][12:20:49] DISCONNECTED 127.0.0.1:54500, code: 1006, reason: "", name: ""
+[NONE ][12:20:50] CONNECTED 127.0.0.1:54591, origin: "file://"
+[NONE ][12:21:04] >pl
+[NONE ][12:21:04] 
+Current players: 21
+[NONE ][12:21:04] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][12:21:04]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][12:21:04] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][12:21:04]       1 | [BOT]           | ? |    16 |   6258 |   172,   -65 | 𝐃𝐔𝐊𝐄                      
+[NONE ][12:21:04]       2 | [BOT]           | ? |     1 |   3406 | -5260,  -434 | ERIK                          
+[NONE ][12:21:04]       3 | [BOT]           | ? |     7 |    220 |  -816,  -662 | pickle                        
+[NONE ][12:21:04]       4 | [BOT]           | ? |     1 |   3393 | -4499, -2964 | cabbage                       
+[NONE ][12:21:04]       5 | [BOT]           | ? |     1 |    497 | -4107,  6116 | FAME ACEMİLERİ                
+[NONE ][12:21:04]     150 | 127.0.0.1       | 4 |     1 |    180 | -2955, -1936 | An unnamed cell               
+[NONE ][12:21:06] >m 150 6000
+[NONE ][12:21:06] Set mass of An unnamed cell to 6000.000
+[NONE ][12:22:44] >m 150 16000
+[NONE ][12:22:44] Set mass of An unnamed cell to 16000.000
+[NONE ][12:25:01] >m 150 16000
+[NONE ][12:25:01] Set mass of An unnamed cell to 16000.000
+[NONE ][12:25:20] DISCONNECTED 127.0.0.1:54591, code: 1006, reason: "", name: ""
+[DEBUG][12:35:21] process.exit(1)
+=== Shutdown 2018-02-24T12-35-21-461 ===

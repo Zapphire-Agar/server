@@ -1,0 +1,47 @@
+=== Started 2018-03-02T22-55-18-336 ===
+[INFO ][22:55:18] 0 bad words loaded
+[WARN ][22:55:18] User account "Local Moderator" disabled
+[WARN ][22:55:18] User account "Local User" disabled
+[INFO ][22:55:18] 1 user records loaded.
+[INFO ][22:55:18] 1 IP ban records loaded.
+[INFO ][22:55:18] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][22:55:18] WebSocket: ws
+[INFO ][22:55:19] Started stats server on port 88
+[INFO ][22:55:19] Listening on port 25565
+[INFO ][22:55:19] Current game mode is Free For All
+[INFO ][22:55:19] Added 5 player bots
+[NONE ][22:55:19]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][22:55:45] CONNECTED 127.0.0.1:28186, origin: "http://agar.io"
+[NONE ][22:55:56] >pl
+[NONE ][22:55:56] 
+Current players: 21
+[NONE ][22:55:56] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][22:55:56]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][22:55:56] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][22:55:56]       1 | [BOT]           | ? |     4 |   2453 | -1315, -1561 | NthC@$c@de:D                  
+[NONE ][22:55:56]       2 | [BOT]           | ? |     1 |   2457 |   852,  5978 | RoYaL                         
+[NONE ][22:55:56]       3 | [BOT]           | ? |     1 |   2420 | -5058, -1438 | PrO TeaM ?:)                  
+[NONE ][22:55:56]       4 | [BOT]           | ? |     1 |   2420 |  1086,  3519 | senpiaFUCKyou                 
+[NONE ][22:55:56]       5 | [BOT]           | ? |     2 |   2474 | -2511,  2975 | 乡𝓙ო★⇝乡Ƥʳᵉᶻᵘʳᵉx               
+[NONE ][22:55:57]       6 | 127.0.0.1       | 17 |     1 |   2608 | -1141, -5088 | WARRA GOD                     
+[NONE ][22:55:59] >m 6 10000
+[NONE ][22:55:59] Set mass of WARRA GOD to 10000.000
+[NONE ][22:56:17] >m 6 10000
+[NONE ][22:56:17] Set mass of WARRA GOD to 10000.000
+[NONE ][22:57:09] >m 6 20000
+[NONE ][22:57:09] Set mass of WARRA GOD to 20000.000
+[NONE ][22:59:24] >m 6 20000
+[NONE ][22:59:24] Set mass of WARRA GOD to 20000.000
+[NONE ][23:05:09] >m 6 20000
+[NONE ][23:05:09] Set mass of WARRA GOD to 20000.000
+[NONE ][23:10:00] DISCONNECTED 127.0.0.1:28186, code: 1001, reason: "", name: "WARRA GOD"
+[NONE ][23:10:02] >exit
+[WARN ][23:10:02] Closing server...
+[DEBUG][23:10:02] process.exit(1)
+=== Shutdown 2018-03-02T23-10-02-614 ===

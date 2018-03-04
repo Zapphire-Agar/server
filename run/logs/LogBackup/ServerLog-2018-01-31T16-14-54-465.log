@@ -1,0 +1,64 @@
+=== Started 2018-01-30T20-58-28-315 ===
+[INFO ][20:58:28] 419 bad words loaded
+[WARN ][20:58:28] User account "Local Administrator" disabled
+[WARN ][20:58:28] User account "Local Moderator" disabled
+[WARN ][20:58:28] User account "Local User" disabled
+[INFO ][20:58:28] 0 user records loaded.
+[INFO ][20:58:28] 0 IP ban records loaded.
+[INFO ][20:58:28] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:58:28] WebSocket: ws
+[INFO ][20:58:28] Started stats server on port 9090
+[INFO ][20:58:28] Listening on port 8888
+[INFO ][20:58:28] Current game mode is Free For All
+[INFO ][20:58:28] Added 15 player bots
+[NONE ][20:58:28]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][20:58:29] CONNECTED 127.0.0.1:51247, origin: "http://localhost"
+[NONE ][20:59:50] DISCONNECTED 127.0.0.1:51247, code: 1006, reason: "undefined", name: ""
+[NONE ][20:59:52] CONNECTED 127.0.0.1:51315, origin: "http://localhost"
+[NONE ][20:59:53] DISCONNECTED 127.0.0.1:51315, code: 1000, reason: "", name: ""
+[NONE ][20:59:53] CONNECTED 127.0.0.1:51317, origin: "http://localhost"
+[NONE ][21:01:11] DISCONNECTED 127.0.0.1:51317, code: 1006, reason: "", name: ""
+[NONE ][21:01:16] CONNECTED 127.0.0.1:51453, origin: "http://localhost"
+[NONE ][21:01:17] DISCONNECTED 127.0.0.1:51453, code: 1000, reason: "", name: ""
+[NONE ][21:01:17] CONNECTED 127.0.0.1:51454, origin: "http://localhost"
+[NONE ][21:03:02] DISCONNECTED 127.0.0.1:51454, code: 1006, reason: "", name: "doge"
+[NONE ][21:03:02] CONNECTED 127.0.0.1:51606, origin: "http://localhost"
+[NONE ][21:04:32] >m 16 12000
+[WARN ][21:04:32] That player ID is non-existant!
+[NONE ][21:04:33] >pl
+[NONE ][21:04:33] 
+Current players: 26
+[NONE ][21:04:33] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][21:04:33]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][21:04:33] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][21:04:33]       1 | [BOT]           | ? |     8 |   3452 |   860,   851 | ❥Ꭺฝ ᙴᖺeก₦₡กᴳᵒᵈ                
+[NONE ][21:04:33]       2 | [BOT]           | ? |     2 |    698 | -3011,  1859 | яαη∂σм тєαм一❥🉐               
+[NONE ][21:04:33]       3 | [BOT]           | ? |     2 |     58 | -1493,  2164 | PRESS W FOR ME                
+[NONE ][21:04:33]       4 | [BOT]           | ? |     2 |    605 | -1885, -3206 | I AM Dragon                   
+[NONE ][21:04:33]       5 | [BOT]           | ? |     1 |    337 |   713, -4750 | POͥPIͣSͫ💩﻿𝕏𝔻               
+[NONE ][21:04:33]       6 | [BOT]           | ? |     4 |    112 |   250,  1717 | Brian Rojas                   
+[NONE ][21:04:33]       7 | [BOT]           | ? |     1 |     17 |  1726,  6160 | [SACK] Yum                    
+[NONE ][21:04:33]       8 | [BOT]           | ? |     1 |    264 | -2108, -6988 | crystal                       
+[NONE ][21:04:33]       9 | [BOT]           | ? |    16 |    882 |   390,  -219 | ꧁♛ᕼ𐌆𐌃𐍂𐌀♛꧁                 
+[NONE ][21:04:33]      10 | [BOT]           | ? |     2 |    210 |  2077,  2893 | nestor0076                    
+[NONE ][21:04:33]      11 | [BOT]           | ? |    16 |   6560 |    -9,  -409 | ₆₂₀ツ ƵluiqYT                  
+[NONE ][21:04:33]      12 | [BOT]           | ? |    11 |   2955 |  -148,   629 | Help4Help                     
+[NONE ][21:04:33]      13 | [BOT]           | ? |     8 |    353 |  -201,  -299 | ĴꜲȻKAⱢ                        
+[NONE ][21:04:33]      14 | [BOT]           | ? |     1 |    628 |  4372,  1068 | 𝓑𝓼т🐉✖Ҝяιs⚔                 
+[NONE ][21:04:33]      15 | [BOT]           | ? |     2 |     81 |  3352,   342 | +18𝓕๏гєรt一ут㴀                
+[NONE ][21:04:33]      71 | 127.0.0.1       | 5 |     1 |    446 |  3754,  1981 | doge                          
+[NONE ][21:04:43] >m 17 2000
+[WARN ][21:04:43] That player ID is non-existant!
+[NONE ][21:04:52] >m 71 12000
+[NONE ][21:04:52] Set mass of doge to 12000.000
+[NONE ][21:05:34] >m 71 72000
+[NONE ][21:05:34] Set mass of doge to 72000.000
+[NONE ][21:06:08] DISCONNECTED 127.0.0.1:51606, code: 1006, reason: "", name: "doge"
+[NONE ][21:06:10] CONNECTED 127.0.0.1:51863, origin: "http://localhost"
+[NONE ][21:07:40] DISCONNECTED 127.0.0.1:51863, code: 1006, reason: "", name: ""

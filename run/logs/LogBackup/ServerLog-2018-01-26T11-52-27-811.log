@@ -1,0 +1,145 @@
+=== Started 2018-01-26T11-27-27-117 ===
+[INFO ][11:27:27] 419 bad words loaded
+[WARN ][11:27:27] User account "Local Administrator" disabled
+[WARN ][11:27:27] User account "Local Moderator" disabled
+[WARN ][11:27:27] User account "Local User" disabled
+[INFO ][11:27:27] 0 user records loaded.
+[INFO ][11:27:27] 0 IP ban records loaded.
+[INFO ][11:27:27] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][11:27:27] WebSocket: ws
+[INFO ][11:27:27] Started stats server on port 9090
+[INFO ][11:27:27] Listening on port 8888
+[INFO ][11:27:27] Current game mode is Free For All
+[INFO ][11:27:27] Added 15 player bots
+[NONE ][11:27:27]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][11:28:59] CONNECTED 127.0.0.1:49874, origin: "http://localhost"
+[NONE ][11:29:09] DISCONNECTED 127.0.0.1:49874, code: 1006, reason: "", name: "An unnamed cell"
+[NONE ][11:29:35] CONNECTED 127.0.0.1:49987, origin: "http://localhost"
+[NONE ][11:30:46] >pl
+[NONE ][11:30:46] 
+Current players: 26
+[NONE ][11:30:46] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][11:30:46]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][11:30:46] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][11:30:46]       1 | [BOT]           | ? |     1 |    663 |  2067, -2686 | 𐌊𐌀𐌋𐌃𐍈♛ṗɱқ                
+[NONE ][11:30:46]       2 | [BOT]           | ? |     1 |    278 |  5068,  1006 | ☢优𝓒ℓαssy雅☢                   
+[NONE ][11:30:46]       3 | [BOT]           | ? |     8 |    347 |   154,   585 | SUPER RISky$#<3               
+[NONE ][11:30:46]       4 | [BOT]           | ? |     1 |    410 | -3106, -6416 | Buy a Banana $5               
+[NONE ][11:30:46]       5 | [BOT]           | ? |     1 |    666 |  2563, -4313 | Alen                          
+[NONE ][11:30:46]       6 | [BOT]           | ? |     1 |    771 | -5240, -4532 | ⌜мℓg⌟♚SΣβY⚠️                  
+[NONE ][11:30:46]       7 | [BOT]           | ? |     1 |    123 |  6817,  5808 | ⒷƳᗝภᎥＣ                        
+[NONE ][11:30:46]       8 | [BOT]           | ? |     2 |    394 | -3427, -1478 | ɨℜɛᾀŁ一℣Ʀ:快 :V                 
+[NONE ][11:30:46]       9 | [BOT]           | ? |     6 |   2467 |   450,   554 | calvin                        
+[NONE ][11:30:46]      10 | [BOT]           | ? |    11 |    487 |  -133,  -203 | ≡(▔﹏▔)≡αgαя.เ๏                
+[NONE ][11:30:46]      11 | [BOT]           | ? |     1 |    603 | -2691,  6317 | Lightning                     
+[NONE ][11:30:46]      12 | [BOT]           | ? |    10 |   1456 |  -245,  -131 | GFM ...........               
+[NONE ][11:30:46]      13 | [BOT]           | ? |     2 |    192 | -2895,  -186 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][11:30:46]      14 | [BOT]           | ? |     2 |    630 |   685,  1230 | Maybe Zeast                   
+[NONE ][11:30:46]      15 | [BOT]           | ? |     3 |     82 |   102,  -222 | 𝓙𝓚⚡Queen🔫❤                
+[NONE ][11:30:46]      27 | 127.0.0.1       | 6 |     1 |    233 | -4009, -2865 | An unnamed cell               
+[NONE ][11:30:47] >pl
+[NONE ][11:30:47] 
+Current players: 26
+[NONE ][11:30:47] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][11:30:47]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][11:30:47] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][11:30:47]       1 | [BOT]           | ? |     1 |    664 |  1893, -2718 | 𐌊𐌀𐌋𐌃𐍈♛ṗɱқ                
+[NONE ][11:30:47]       2 | [BOT]           | ? |     1 |    276 |  5060,  1002 | ☢优𝓒ℓαssy雅☢                   
+[NONE ][11:30:47]       3 | [BOT]           | ? |     8 |    346 |   164,   602 | SUPER RISky$#<3               
+[NONE ][11:30:47]       4 | [BOT]           | ? |     1 |    409 | -3104, -6412 | Buy a Banana $5               
+[NONE ][11:30:47]       5 | [BOT]           | ? |     1 |    666 |  2583, -4161 | Alen                          
+[NONE ][11:30:47]       6 | [BOT]           | ? |     1 |    776 | -5127, -4405 | ⌜мℓg⌟♚SΣβY⚠️                  
+[NONE ][11:30:47]       7 | [BOT]           | ? |     1 |    124 |  6900,  5951 | ⒷƳᗝภᎥＣ                        
+[NONE ][11:30:47]       8 | [BOT]           | ? |     2 |    392 | -3383, -1429 | ɨℜɛᾀŁ一℣Ʀ:快 :V                 
+[NONE ][11:30:47]       9 | [BOT]           | ? |     6 |   2462 |   420,   563 | calvin                        
+[NONE ][11:30:47]      10 | [BOT]           | ? |    11 |    485 |  -110,  -211 | ≡(▔﹏▔)≡αgαя.เ๏                
+[NONE ][11:30:47]      11 | [BOT]           | ? |     1 |    601 | -2505,  6333 | Lightning                     
+[NONE ][11:30:47]      12 | [BOT]           | ? |    10 |   1457 |  -225,  -129 | GFM ...........               
+[NONE ][11:30:47]      13 | [BOT]           | ? |     2 |    192 | -2849,  -253 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][11:30:47]      14 | [BOT]           | ? |     2 |    627 |   666,  1241 | Maybe Zeast                   
+[NONE ][11:30:47]      15 | [BOT]           | ? |     3 |     81 |   177,  -127 | 𝓙𝓚⚡Queen🔫❤                
+[NONE ][11:30:47]      27 | 127.0.0.1       | 6 |     1 |    232 | -4231, -2880 | An unnamed cell               
+[NONE ][11:30:50] >m 27 12000
+[NONE ][11:30:50] Set mass of An unnamed cell to 12000.000
+[NONE ][11:32:14] >m 27 12000
+[NONE ][11:32:14] Set mass of An unnamed cell to 12000.000
+[NONE ][11:33:14] >m 27 16000
+[NONE ][11:33:14] Set mass of An unnamed cell to 16000.000
+[NONE ][11:34:13] DISCONNECTED 127.0.0.1:49987, code: 1006, reason: "undefined", name: "An unnamed cell"
+[NONE ][11:34:21] CONNECTED 127.0.0.1:61835, origin: "http://localhost"
+[NONE ][11:35:45] >m 27 10000
+[WARN ][11:35:45] That player ID is non-existant!
+[NONE ][11:35:47] >pl
+[NONE ][11:35:47] 
+Current players: 26
+[NONE ][11:35:47] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][11:35:47]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][11:35:47] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][11:35:47]       1 | [BOT]           | ? |     4 |     78 | -1358,   678 | 𐌊𐌀𐌋𐌃𐍈♛ṗɱқ                
+[NONE ][11:35:47]       2 | [BOT]           | ? |     1 |    610 |  5490,  3484 | ☢优𝓒ℓαssy雅☢                   
+[NONE ][11:35:47]       3 | [BOT]           | ? |     1 |    191 | -3689, -5357 | SUPER RISky$#<3               
+[NONE ][11:35:47]       4 | [BOT]           | ? |     6 |    342 | -1168,  1168 | Buy a Banana $5               
+[NONE ][11:35:47]       5 | [BOT]           | ? |     1 |   6978 |  6349,  5328 | Alen                          
+[NONE ][11:35:47]       6 | [BOT]           | ? |     2 |    615 |  2048, -3273 | ⌜мℓg⌟♚SΣβY⚠️                  
+[NONE ][11:35:47]       7 | [BOT]           | ? |     4 |    191 |  -257, -1673 | ⒷƳᗝภᎥＣ                        
+[NONE ][11:35:47]       8 | [BOT]           | ? |    14 |   2350 |    85,   -23 | ɨℜɛᾀŁ一℣Ʀ:快 :V                 
+[NONE ][11:35:47]       9 | [BOT]           | ? |     7 |    169 |   250,  -122 | calvin                        
+[NONE ][11:35:47]      10 | [BOT]           | ? |    11 |   3301 |    20,  -486 | ≡(▔﹏▔)≡αgαя.เ๏                
+[NONE ][11:35:47]      11 | [BOT]           | ? |     1 |    158 |   -90,  5196 | Lightning                     
+[NONE ][11:35:47]      12 | [BOT]           | ? |     8 |    780 |   736,   223 | GFM ...........               
+[NONE ][11:35:47]      13 | [BOT]           | ? |     1 |    389 |  3685,  3734 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][11:35:47]      14 | [BOT]           | ? |     1 |     39 | -5366, -5843 | Maybe Zeast                   
+[NONE ][11:35:47]      15 | [BOT]           | ? |     8 |    346 |  -291,  -820 | 𝓙𝓚⚡Queen🔫❤                
+[NONE ][11:35:47]      38 | 127.0.0.1       | 6 |     1 |    405 | -6970,  6302 | An unnamed cell               
+[NONE ][11:35:51] >m 38 6000
+[NONE ][11:35:51] Set mass of An unnamed cell to 6000.000
+[NONE ][11:36:48] >m 38 6000
+[NONE ][11:36:48] Set mass of An unnamed cell to 6000.000
+[NONE ][11:37:56] DISCONNECTED 127.0.0.1:61835, code: 1006, reason: "", name: "An unnamed cell"
+[NONE ][11:38:05] CONNECTED 127.0.0.1:61918, origin: "http://localhost"
+[NONE ][11:39:23] DISCONNECTED 127.0.0.1:61918, code: 1006, reason: "undefined", name: "An unnamed cell"
+[NONE ][11:39:29] CONNECTED 127.0.0.1:59402, origin: "http://localhost"
+[NONE ][11:39:35] >pl
+[NONE ][11:39:35] 
+Current players: 26
+[NONE ][11:39:35] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][11:39:36]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][11:39:36] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][11:39:36]       1 | [BOT]           | ? |     3 |   1001 |   740,  -408 | 𐌊𐌀𐌋𐌃𐍈♛ṗɱқ                
+[NONE ][11:39:36]       2 | [BOT]           | ? |     5 |   2931 |  -887,  1132 | ☢优𝓒ℓαssy雅☢                   
+[NONE ][11:39:36]       3 | [BOT]           | ? |     8 |   6070 |   472,  -491 | SUPER RISky$#<3               
+[NONE ][11:39:36]       4 | [BOT]           | ? |     2 |     64 |   758, -1059 | Buy a Banana $5               
+[NONE ][11:39:36]       5 | [BOT]           | ? |     1 |  10475 | -3452, -1339 | Alen                          
+[NONE ][11:39:36]       6 | [BOT]           | ? |     1 |     64 |  3415,   380 | ⌜мℓg⌟♚SΣβY⚠️                  
+[NONE ][11:39:36]       7 | [BOT]           | ? |    14 |    814 |   135,  -419 | ⒷƳᗝภᎥＣ                        
+[NONE ][11:39:36]       8 | [BOT]           | ? |     9 |    395 |  -101,   718 | ɨℜɛᾀŁ一℣Ʀ:快 :V                 
+[NONE ][11:39:36]       9 | [BOT]           | ? |     1 |    222 | -6957,  6974 | calvin                        
+[NONE ][11:39:36]      10 | [BOT]           | ? |     1 |   3386 | -1559, -5747 | ≡(▔﹏▔)≡αgαя.เ๏                
+[NONE ][11:39:36]      11 | [BOT]           | ? |     3 |     87 |   -64,  2347 | Lightning                     
+[NONE ][11:39:36]      12 | [BOT]           | ? |     1 |    125 | -6892,  1857 | GFM ...........               
+[NONE ][11:39:36]      13 | [BOT]           | ? |     4 |    438 |   112,  1355 | ƬψƬ𝒿𝓊𝓂𝒷𝑜                 
+[NONE ][11:39:36]      14 | [BOT]           | ? |     1 |    606 |  -946, -6947 | Maybe Zeast                   
+[NONE ][11:39:36]      15 | [BOT]           | ? |     2 |     49 | -1374,  2328 | 𝓙𝓚⚡Queen🔫❤                
+[NONE ][11:39:36]      60 | 127.0.0.1       | 6 |     1 |    300 |   665,  2752 | An unnamed cell               
+[NONE ][11:39:41] >m 60 22000
+[NONE ][11:39:41] Set mass of An unnamed cell to 22000.000
+[NONE ][11:41:16] >m 60 22000
+[NONE ][11:41:16] Set mass of An unnamed cell to 22000.000
+[NONE ][11:44:24] >m 38 18000
+[WARN ][11:44:24] That player ID is non-existant!
+[NONE ][11:44:29] >m 60 18000
+[NONE ][11:44:29] Set mass of An unnamed cell to 18000.000
+[NONE ][11:44:54] DISCONNECTED 127.0.0.1:59402, code: 1006, reason: "", name: "An unnamed cell"
+[NONE ][11:47:34] CONNECTED 127.0.0.1:59488, origin: "http://localhost"
+[NONE ][11:51:19] DISCONNECTED 127.0.0.1:59488, code: 1006, reason: "", name: "◓Zapphire◒"
+[DEBUG][11:52:27] process.exit(1)
+=== Shutdown 2018-01-26T11-52-27-252 ===

@@ -1,0 +1,99 @@
+=== Started 2018-02-24T11-05-19-807 ===
+[INFO ][11:05:19] 0 bad words loaded
+[WARN ][11:05:19] User account "Local Moderator" disabled
+[WARN ][11:05:19] User account "Local User" disabled
+[INFO ][11:05:19] 1 user records loaded.
+[INFO ][11:05:19] 1 IP ban records loaded.
+[INFO ][11:05:19] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][11:05:19] WebSocket: ws
+[INFO ][11:05:20] Started stats server on port 88
+[INFO ][11:05:20] Listening on port 25565
+[INFO ][11:05:20] Current game mode is Free For All
+[INFO ][11:05:20] Added 5 player bots
+[NONE ][11:05:20]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][11:05:20] CONNECTED 191.88.73.76:52767, origin: "http://zapphy.epizy.com"
+[NONE ][11:05:28] DISCONNECTED 191.88.73.76:52767, code: 1001, reason: "", name: "Zapphire"
+[NONE ][11:05:33] CONNECTED 191.88.73.76:52782, origin: "http://localhost"
+[NONE ][11:07:04] DISCONNECTED 191.88.73.76:52782, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][11:07:07] CONNECTED 191.88.73.76:52799, origin: "http://localhost"
+[NONE ][11:07:22] DISCONNECTED 191.88.73.76:52799, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][11:07:25] CONNECTED 191.88.73.76:52810, origin: "http://localhost"
+[NONE ][11:08:00] >pl
+[NONE ][11:08:00] 
+Current players: 21
+[NONE ][11:08:00] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][11:08:00]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][11:08:00] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][11:08:00]       1 | [BOT]           | ? |     8 |   4790 |  -742,  -360 | LEͥGEͣNͫD                     
+[NONE ][11:08:00]       2 | [BOT]           | ? |     1 |    263 |  2626, -6741 | 𝐒𝓟✗ΜΞƬΔLLICΔ☠               
+[NONE ][11:08:00]       3 | [BOT]           | ? |     1 |   7955 | -4807, -2793 | Merry Christmas               
+[NONE ][11:08:00]       4 | [BOT]           | ? |     7 |   1988 |   167,  -945 | w=pro team                    
+[NONE ][11:08:00]       5 | [BOT]           | ? |     1 |   2440 |  4834, -5926 | 𐌅𐌋𐌀𐌑𐌄༻▬タ鿆                
+[NONE ][11:08:00]      54 | 191.88.73.76    | 6 |     1 |    447 | -5269,  1559 | ZAPPHIRE!                     
+[NONE ][11:08:04] >m 54 12000
+[NONE ][11:08:04] Set mass of ZAPPHIRE! to 12000.000
+[NONE ][11:08:33] >m 54 12000
+[NONE ][11:08:33] Set mass of ZAPPHIRE! to 12000.000
+[NONE ][11:12:02] DISCONNECTED 191.88.73.76:52810, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][11:13:33] CONNECTED 191.88.73.76:52844, origin: "http://localhost"
+[NONE ][11:13:50] DISCONNECTED 191.88.73.76:52844, code: 1001, reason: "", name: ""
+[NONE ][11:13:52] CONNECTED 191.88.73.76:52857, origin: "http://localhost"
+[NONE ][11:16:02] DISCONNECTED 191.88.73.76:52857, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][11:16:04] CONNECTED 191.88.73.76:52869, origin: "http://localhost"
+[NONE ][11:16:46] DISCONNECTED 191.88.73.76:52869, code: 1001, reason: "", name: "ZAPPHIRE!"
+[NONE ][11:16:49] CONNECTED 191.88.73.76:52881, origin: "http://localhost"
+[NONE ][11:18:36] >pl
+[NONE ][11:18:36] 
+Current players: 21
+[NONE ][11:18:36] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][11:18:36]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][11:18:36] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][11:18:36]       1 | [BOT]           | ? |     1 |   2929 |  5788, -5785 | LEͥGEͣNͫD                     
+[NONE ][11:18:36]       2 | [BOT]           | ? |     2 |   2511 |  1371,   574 | 𝐒𝓟✗ΜΞƬΔLLICΔ☠               
+[NONE ][11:18:36]       3 | [BOT]           | ? |     1 |  17043 | -3136,  1358 | Merry Christmas               
+[NONE ][11:18:36]       4 | [BOT]           | ? |     9 |   2591 |  -769,   528 | w=pro team                    
+[NONE ][11:18:36]       5 | [BOT]           | ? |     1 |   4039 | -6309,  4598 | 𐌅𐌋𐌀𐌑𐌄༻▬タ鿆                
+[NONE ][11:18:36]     118 | 191.88.73.76    | 6 |    16 |   2576 |  -242,   289 | An unnamed cell               
+[NONE ][11:18:37] >rec 118
+[NONE ][11:18:37] An unnamed cell is now in rec mode!
+[NONE ][11:19:12] >pl
+[NONE ][11:19:12] 
+Current players: 21
+[NONE ][11:19:12] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][11:19:12]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][11:19:12] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][11:19:12]       1 | [BOT]           | ? |     1 |   2796 |  2057, -5808 | LEͥGEͣNͫD                     
+[NONE ][11:19:12]       2 | [BOT]           | ? |    14 |   2995 |   280,   -64 | 𝐒𝓟✗ΜΞƬΔLLICΔ☠               
+[NONE ][11:19:12]       3 | [BOT]           | ? |     5 |  30575 |   116,  -228 | Merry Christmas               
+[NONE ][11:19:12]       4 | [BOT]           | ? |     4 |    474 | -1511,   -11 | w=pro team                    
+[NONE ][11:19:12]       5 | [BOT]           | ? |     1 |   5992 | -4759,  5137 | 𐌅𐌋𐌀𐌑𐌄༻▬タ鿆                
+[NONE ][11:19:12]     118 | 191.88.73.76    | 6 |     1 |   2568 |  1308,  1847 | An unnamed cell               
+[NONE ][11:19:21] >m 118 14000
+[NONE ][11:19:21] Set mass of An unnamed cell to 14000.000
+[NONE ][11:19:23] >m 118 14000
+[NONE ][11:19:23] Set mass of An unnamed cell to 14000.000
+[NONE ][11:19:29] >rec 118
+[NONE ][11:19:29] An unnamed cell is no longer in rec mode
+[NONE ][11:20:55] >m 118 22000
+[NONE ][11:20:55] Set mass of An unnamed cell to 22000.000
+[NONE ][11:21:25] >m 118 22000
+[NONE ][11:21:25] Set mass of An unnamed cell to 22000.000
+[NONE ][11:23:18] >m 118 22000
+[NONE ][11:23:18] Set mass of An unnamed cell to 22000.000
+[NONE ][11:23:21] >m 118 22000
+[NONE ][11:23:21] Set mass of An unnamed cell to 22000.000
+[NONE ][11:23:22] >ka
+[NONE ][11:24:41] DISCONNECTED 191.88.73.76:52881, code: 1001, reason: "", name: ""
+[NONE ][11:24:43] CONNECTED 191.88.73.76:52904, origin: "http://localhost"
+[NONE ][11:30:10] DISCONNECTED 191.88.73.76:52904, code: 1001, reason: "", name: "0ff"
+[NONE ][11:30:27] CONNECTED 191.88.73.76:53395, origin: "http://localhost"
+[DEBUG][11:35:20] process.exit(1)
+=== Shutdown 2018-02-24T11-35-20-009 ===

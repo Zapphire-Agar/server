@@ -1,0 +1,136 @@
+=== Started 2018-02-19T15-12-35-485 ===
+[INFO ][15:12:35] 419 bad words loaded
+[WARN ][15:12:35] User account "Local Administrator" disabled
+[WARN ][15:12:35] User account "Local Moderator" disabled
+[WARN ][15:12:35] User account "Local User" disabled
+[INFO ][15:12:35] 0 user records loaded.
+[INFO ][15:12:35] 0 IP ban records loaded.
+[INFO ][15:12:35] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:12:35] WebSocket: ws
+[INFO ][15:12:35] Started stats server on port 9090
+[INFO ][15:12:35] Listening on port 8888
+[INFO ][15:12:35] Current game mode is Free For All
+[INFO ][15:12:35] Added 5 player bots
+[NONE ][15:12:35]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:16:12] CONNECTED 191.88.73.76:49985, origin: "http://localhost"
+[NONE ][15:16:39] >pl
+[NONE ][15:16:39] 
+Current players: 21
+[NONE ][15:16:39] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:16:39]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][15:16:39] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:16:39]       1 | [BOT]           | ? |     4 |    623 |  -363, -1440 | PuppuLovur64                  
+[NONE ][15:16:39]       2 | [BOT]           | ? |     8 |    916 |  -108,   876 | ȺƉSΔ₱ ㊢ 娜哦饿伊                  
+[NONE ][15:16:39]       3 | [BOT]           | ? |     1 |    738 |  2451,  5237 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][15:16:39]       4 | [BOT]           | ? |     4 |    793 |   816,  -368 | ΔĐŘƗΔη 诶 𝔼𝓛                 
+[NONE ][15:16:39]       5 | [BOT]           | ? |     2 |    689 |  1822, -2950 | Destructor-漢語🔥               
+[NONE ][15:16:39]       6 | 191.88.73.76    | 6 |     1 |     63 | -3543,  1571 | xddd                          
+[NONE ][15:16:44] >m 6 5000
+[NONE ][15:16:44] Set mass of xddd to 5000.000
+[NONE ][15:16:56] >m 6 14000
+[NONE ][15:16:56] Set mass of xddd to 14000.000
+[NONE ][15:18:08] >m 6 14000
+[NONE ][15:18:08] Set mass of xddd to 14000.000
+[NONE ][15:18:32] DISCONNECTED 191.88.73.76:49985, code: 1001, reason: "", name: "xddd"
+[NONE ][15:18:35] CONNECTED 191.88.73.76:50000, origin: "http://localhost"
+[NONE ][15:18:44] DISCONNECTED 191.88.73.76:50000, code: 1006, reason: "", name: "xddd"
+[NONE ][15:18:47] CONNECTED 191.88.73.76:50009, origin: "http://localhost"
+[NONE ][15:19:47] DISCONNECTED 191.88.73.76:50009, code: 1001, reason: "", name: "xddd"
+[NONE ][15:19:50] CONNECTED 191.88.73.76:50020, origin: "http://localhost"
+[NONE ][15:19:59] DISCONNECTED 191.88.73.76:50020, code: 1001, reason: "", name: "xddd"
+[NONE ][15:20:11] CONNECTED 191.88.73.76:50033, origin: "http://localhost"
+[NONE ][15:21:03] DISCONNECTED 191.88.73.76:50033, code: 1001, reason: "", name: "xddd"
+[NONE ][15:21:06] CONNECTED 191.88.73.76:50043, origin: "http://localhost"
+[NONE ][15:21:52] DISCONNECTED 191.88.73.76:50043, code: 1001, reason: "", name: "xddd"
+[NONE ][15:21:54] CONNECTED 191.88.73.76:50052, origin: "http://localhost"
+[NONE ][15:22:11] DISCONNECTED 191.88.73.76:50052, code: 1001, reason: "", name: "xddd"
+[NONE ][15:22:14] CONNECTED 191.88.73.76:50066, origin: "http://localhost"
+[NONE ][15:22:26] CONNECTED 191.88.73.76:50074, origin: "http://zapphy.epizy.com"
+[NONE ][15:22:31] DISCONNECTED 191.88.73.76:50074, code: 1001, reason: "", name: "Zap"
+[NONE ][15:23:03] DISCONNECTED 191.88.73.76:50066, code: 1001, reason: "", name: "xddd"
+[NONE ][15:23:06] CONNECTED 191.88.73.76:50093, origin: "http://localhost"
+[NONE ][15:23:45] DISCONNECTED 191.88.73.76:50093, code: 1001, reason: "", name: "xddd"
+[NONE ][15:23:48] CONNECTED 191.88.73.76:50103, origin: "http://localhost"
+[NONE ][15:24:33] DISCONNECTED 191.88.73.76:50103, code: 1001, reason: "", name: "xddd"
+[NONE ][15:24:36] CONNECTED 191.88.73.76:50160, origin: "http://localhost"
+[NONE ][15:26:21] DISCONNECTED 191.88.73.76:50160, code: 1001, reason: "", name: "xddd"
+[NONE ][15:26:28] CONNECTED 191.88.73.76:50321, origin: "http://localhost"
+[NONE ][15:27:25] DISCONNECTED 191.88.73.76:50321, code: 1001, reason: "", name: "xddd"
+[NONE ][15:27:31] CONNECTED 191.88.73.76:50413, origin: "http://localhost"
+[NONE ][15:28:04] DISCONNECTED 191.88.73.76:50413, code: 1001, reason: "", name: "xddd"
+[NONE ][15:28:07] CONNECTED 191.88.73.76:50470, origin: "http://localhost"
+[NONE ][15:28:51] DISCONNECTED 191.88.73.76:50470, code: 1001, reason: "", name: "xddd"
+[NONE ][15:28:54] CONNECTED 191.88.73.76:50540, origin: "http://localhost"
+[NONE ][15:29:08] DISCONNECTED 191.88.73.76:50540, code: 1001, reason: "", name: "xddd"
+[NONE ][15:29:10] CONNECTED 191.88.73.76:50559, origin: "http://localhost"
+[NONE ][15:29:49] DISCONNECTED 191.88.73.76:50559, code: 1001, reason: "", name: "xddd"
+[NONE ][15:29:51] CONNECTED 191.88.73.76:50573, origin: "http://localhost"
+[NONE ][15:31:01] DISCONNECTED 191.88.73.76:50573, code: 1001, reason: "", name: "xddd"
+[NONE ][15:31:08] CONNECTED 191.88.73.76:50587, origin: "http://localhost"
+[NONE ][15:31:36] DISCONNECTED 191.88.73.76:50587, code: 1001, reason: "", name: "xddd"
+[NONE ][15:31:38] CONNECTED 191.88.73.76:50598, origin: "http://localhost"
+[NONE ][15:32:07] DISCONNECTED 191.88.73.76:50598, code: 1001, reason: "", name: "xddd"
+[NONE ][15:32:09] CONNECTED 191.88.73.76:50608, origin: "http://localhost"
+[NONE ][15:32:21] >ok
+[WARN ][15:32:21] Invalid Command!
+[NONE ][15:32:21] >pl
+[NONE ][15:32:21] 
+Current players: 21
+[NONE ][15:32:21] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:32:21]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][15:32:21] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:32:21]       1 | [BOT]           | ? |     4 |    816 |  1448,  -662 | PuppuLovur64                  
+[NONE ][15:32:21]       2 | [BOT]           | ? |     2 |   2061 | -2492,  3027 | ȺƉSΔ₱ ㊢ 娜哦饿伊                  
+[NONE ][15:32:21]       3 | [BOT]           | ? |    12 |    786 |  -312,  -460 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][15:32:21]       4 | [BOT]           | ? |     3 |   8162 |  -305,   602 | ΔĐŘƗΔη 诶 𝔼𝓛                 
+[NONE ][15:32:21]       5 | [BOT]           | ? |     4 |    192 |  1589,  -298 | Destructor-漢語🔥               
+[NONE ][15:32:21]     326 | 191.88.73.76    | 6 |     1 |    759 | -2849, -2117 | xddd                          
+[NONE ][15:32:25] >m 326 5000
+[NONE ][15:32:25] Set mass of xddd to 5000.000
+[NONE ][15:33:34] DISCONNECTED 191.88.73.76:50608, code: 1001, reason: "", name: "xddd"
+[NONE ][15:33:36] CONNECTED 191.88.73.76:50618, origin: "http://localhost"
+[NONE ][15:33:49] >pl
+[NONE ][15:33:49] 
+Current players: 21
+[NONE ][15:33:49] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:33:49]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][15:33:49] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:33:49]       1 | [BOT]           | ? |     1 |    108 |  6716,  3187 | PuppuLovur64                  
+[NONE ][15:33:49]       2 | [BOT]           | ? |    15 |   2914 |  -326,   360 | ȺƉSΔ₱ ㊢ 娜哦饿伊                  
+[NONE ][15:33:49]       3 | [BOT]           | ? |     2 |    137 |  -910,  -413 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][15:33:49]       4 | [BOT]           | ? |     9 |  10646 |  -311,  -257 | ΔĐŘƗΔη 诶 𝔼𝓛                 
+[NONE ][15:33:49]       5 | [BOT]           | ? |     2 |     81 | -3455,  3079 | Destructor-漢語🔥               
+[NONE ][15:33:49]     342 | 191.88.73.76    | 6 |     1 |   2047 |  5652,  4486 | xddd                          
+[NONE ][15:33:53] >m 342 10000
+[NONE ][15:33:53] Set mass of xddd to 10000.000
+[NONE ][15:34:06] DISCONNECTED 191.88.73.76:50618, code: 1001, reason: "", name: "xddd"
+[NONE ][15:34:09] CONNECTED 191.88.73.76:50628, origin: "http://localhost"
+[NONE ][15:36:03] >m 342 10000
+[WARN ][15:36:03] That player ID is non-existant!
+[NONE ][15:36:04] >pl
+[NONE ][15:36:04] 
+Current players: 21
+[NONE ][15:36:04] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:36:04]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][15:36:04] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:36:04]       1 | [BOT]           | ? |     1 |    320 |  5090,  6765 | PuppuLovur64                  
+[NONE ][15:36:04]       2 | [BOT]           | ? |     1 |   2068 | -6843,  6233 | ȺƉSΔ₱ ㊢ 娜哦饿伊                  
+[NONE ][15:36:04]       3 | [BOT]           | ? |     1 |    400 | -6787,  1077 | ❤🎅ÇÓŞMłŢÖ🎅❤               
+[NONE ][15:36:04]       4 | [BOT]           | ? |     2 |   8286 |  1572,   503 | ΔĐŘƗΔη 诶 𝔼𝓛                 
+[NONE ][15:36:04]       5 | [BOT]           | ? |     1 |     48 | -7036,  7036 | Destructor-漢語🔥               
+[NONE ][15:36:04]     358 | 191.88.73.76    | 6 |     1 |    112 |  4563, -3907 | xddd                          
+[NONE ][15:36:09] >m 358 4500
+[NONE ][15:36:09] Set mass of xddd to 4500.000
+[NONE ][15:37:05] DISCONNECTED 191.88.73.76:50628, code: 1001, reason: "", name: "xddqd"
+[NONE ][15:37:08] CONNECTED 191.88.73.76:50835, origin: "http://localhost"
+[DEBUG][15:37:35] process.exit(1)
+=== Shutdown 2018-02-19T15-37-35-647 ===

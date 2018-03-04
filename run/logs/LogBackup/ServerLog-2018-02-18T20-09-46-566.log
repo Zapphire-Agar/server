@@ -1,0 +1,123 @@
+=== Started 2018-02-18T19-44-45-907 ===
+[INFO ][19:44:45] 419 bad words loaded
+[WARN ][19:44:45] User account "Local Administrator" disabled
+[WARN ][19:44:45] User account "Local Moderator" disabled
+[WARN ][19:44:45] User account "Local User" disabled
+[INFO ][19:44:45] 0 user records loaded.
+[INFO ][19:44:45] 0 IP ban records loaded.
+[INFO ][19:44:45] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:44:45] WebSocket: ws
+[INFO ][19:44:46] Started stats server on port 9090
+[INFO ][19:44:46] Listening on port 8888
+[INFO ][19:44:46] Current game mode is Free For All
+[INFO ][19:44:46] Added 5 player bots
+[NONE ][19:44:46]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][19:44:46] CONNECTED 191.88.73.76:63615, origin: "http://localhost"
+[NONE ][19:44:47] DISCONNECTED 191.88.73.76:63615, code: 1001, reason: "", name: ""
+[NONE ][19:44:49] CONNECTED 191.88.73.76:63625, origin: "http://localhost"
+[NONE ][19:45:12] DISCONNECTED 191.88.73.76:63625, code: 1001, reason: "", name: ""
+[NONE ][19:45:14] CONNECTED 191.88.73.76:63635, origin: "http://localhost"
+[NONE ][19:46:38] DISCONNECTED 191.88.73.76:63635, code: 1001, reason: "", name: ""
+[NONE ][19:46:45] CONNECTED 191.88.73.76:63653, origin: "http://localhost"
+[NONE ][19:47:08] DISCONNECTED 191.88.73.76:63653, code: 1001, reason: "", name: ""
+[NONE ][19:47:11] CONNECTED 191.88.73.76:63662, origin: "http://localhost"
+[NONE ][19:47:50] DISCONNECTED 191.88.73.76:63662, code: 1001, reason: "", name: ""
+[NONE ][19:47:53] CONNECTED 191.88.73.76:63672, origin: "http://localhost"
+[NONE ][19:48:04] >ka
+[NONE ][19:50:38] DISCONNECTED 191.88.73.76:63672, code: 1001, reason: "", name: ""
+[NONE ][19:50:40] CONNECTED 191.88.73.76:63699, origin: "http://localhost"
+[NONE ][19:51:20] DISCONNECTED 191.88.73.76:63699, code: 1001, reason: "", name: ""
+[NONE ][19:51:22] CONNECTED 191.88.73.76:63708, origin: "http://localhost"
+[NONE ][19:52:10] DISCONNECTED 191.88.73.76:63708, code: 1001, reason: "", name: ""
+[NONE ][19:53:00] CONNECTED 191.88.73.76:63737, origin: "http://localhost"
+[NONE ][19:53:14] DISCONNECTED 191.88.73.76:63737, code: 1001, reason: "", name: ""
+[NONE ][19:53:16] CONNECTED 191.88.73.76:63745, origin: "http://localhost"
+[NONE ][19:53:37] DISCONNECTED 191.88.73.76:63745, code: 1001, reason: "", name: ""
+[NONE ][19:53:39] CONNECTED 191.88.73.76:63753, origin: "http://localhost"
+[NONE ][19:54:17] DISCONNECTED 191.88.73.76:63753, code: 1001, reason: "", name: ""
+[NONE ][19:54:19] CONNECTED 191.88.73.76:63761, origin: "http://localhost"
+[NONE ][19:54:38] DISCONNECTED 191.88.73.76:63761, code: 1001, reason: "", name: ""
+[NONE ][19:56:01] CONNECTED 191.88.73.76:63924, origin: "http://localhost"
+[NONE ][19:56:12] DISCONNECTED 191.88.73.76:63924, code: 1001, reason: "", name: ""
+[NONE ][19:56:15] CONNECTED 191.88.73.76:63950, origin: "http://localhost"
+[NONE ][19:57:01] DISCONNECTED 191.88.73.76:63950, code: 1001, reason: "", name: ""
+[NONE ][19:57:03] CONNECTED 191.88.73.76:64024, origin: "http://localhost"
+[NONE ][19:57:11] DISCONNECTED 191.88.73.76:64024, code: 1001, reason: "", name: ""
+[NONE ][19:57:13] CONNECTED 191.88.73.76:64046, origin: "http://localhost"
+[NONE ][19:57:20] DISCONNECTED 191.88.73.76:64046, code: 1001, reason: "", name: ""
+[NONE ][19:57:22] CONNECTED 191.88.73.76:64061, origin: "http://localhost"
+[NONE ][19:57:41] DISCONNECTED 191.88.73.76:64061, code: 1001, reason: "", name: ""
+[NONE ][19:57:44] CONNECTED 191.88.73.76:64099, origin: "http://localhost"
+[NONE ][19:57:49] DISCONNECTED 191.88.73.76:64099, code: 1001, reason: "", name: ""
+[NONE ][19:57:52] CONNECTED 191.88.73.76:64117, origin: "http://localhost"
+[NONE ][19:58:16] DISCONNECTED 191.88.73.76:64117, code: 1001, reason: "", name: ""
+[NONE ][19:58:18] CONNECTED 191.88.73.76:64151, origin: "http://localhost"
+[NONE ][19:58:30] >pl
+[NONE ][19:58:30] 
+Current players: 21
+[NONE ][19:58:30] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][19:58:30]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][19:58:30] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][19:58:30]       1 | [BOT]           | ? |     1 |    130 | -6461,  -871 | [!!!]- xZCaNaD!               
+[NONE ][19:58:30]       2 | [BOT]           | ? |    11 |    275 |   154,   481 | Timah                         
+[NONE ][19:58:30]       3 | [BOT]           | ? |    12 |   7768 |   -60,     3 | •○☼9898☼○•                    
+[NONE ][19:58:30]       4 | [BOT]           | ? |     1 |    371 |  6409,  -392 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][19:58:30]       5 | [BOT]           | ? |     4 |    115 |   281,  -408 | ItzBlueDragonz                
+[NONE ][19:58:30]     310 | 191.88.73.76    | 6 |     1 |    127 | -2602,  5230 | An unnamed cell               
+[NONE ][19:58:34] >m 310 10000
+[NONE ][19:58:34] Set mass of An unnamed cell to 10000.000
+[NONE ][19:58:50] >m 310 10000
+[NONE ][19:58:50] Set mass of An unnamed cell to 10000.000
+[NONE ][19:59:22] DISCONNECTED 191.88.73.76:64151, code: 1001, reason: "", name: ""
+[NONE ][19:59:23] CONNECTED 191.88.73.76:64165, origin: "http://localhost"
+[NONE ][19:59:35] DISCONNECTED 191.88.73.76:64165, code: 1001, reason: "", name: ""
+[NONE ][19:59:37] CONNECTED 191.88.73.76:64178, origin: "http://localhost"
+[NONE ][20:00:42] DISCONNECTED 191.88.73.76:64178, code: 1001, reason: "", name: ""
+[NONE ][20:00:45] CONNECTED 191.88.73.76:64191, origin: "http://localhost"
+[NONE ][20:00:55] DISCONNECTED 191.88.73.76:64191, code: 1001, reason: "", name: ""
+[NONE ][20:00:57] CONNECTED 191.88.73.76:64203, origin: "http://localhost"
+[NONE ][20:01:44] DISCONNECTED 191.88.73.76:64203, code: 1001, reason: "", name: ""
+[NONE ][20:02:48] CONNECTED 191.88.73.76:64239, origin: "http://localhost"
+[NONE ][20:03:25] DISCONNECTED 191.88.73.76:64239, code: 1001, reason: "", name: ""
+[NONE ][20:03:28] CONNECTED 191.88.73.76:64248, origin: "http://localhost"
+[NONE ][20:03:41] DISCONNECTED 191.88.73.76:64248, code: 1001, reason: "", name: ""
+[NONE ][20:04:16] CONNECTED 191.88.73.76:64276, origin: "http://localhost"
+[NONE ][20:04:26] DISCONNECTED 191.88.73.76:64276, code: 1001, reason: "", name: ""
+[NONE ][20:04:27] CONNECTED 191.88.73.76:64285, origin: "http://localhost"
+[NONE ][20:04:42] DISCONNECTED 191.88.73.76:64285, code: 1001, reason: "", name: ""
+[NONE ][20:04:44] CONNECTED 191.88.73.76:64294, origin: "http://localhost"
+[NONE ][20:04:55] DISCONNECTED 191.88.73.76:64294, code: 1001, reason: "", name: ""
+[NONE ][20:04:57] CONNECTED 191.88.73.76:64303, origin: "http://localhost"
+[NONE ][20:05:08] DISCONNECTED 191.88.73.76:64303, code: 1001, reason: "", name: ""
+[NONE ][20:05:11] CONNECTED 191.88.73.76:64312, origin: "http://localhost"
+[NONE ][20:05:34] DISCONNECTED 191.88.73.76:64312, code: 1001, reason: "", name: ""
+[NONE ][20:05:36] CONNECTED 191.88.73.76:64321, origin: "http://localhost"
+[NONE ][20:05:53] DISCONNECTED 191.88.73.76:64321, code: 1006, reason: "", name: ""
+[NONE ][20:05:54] CONNECTED 191.88.73.76:64329, origin: "http://zapphy.epizy.com"
+[NONE ][20:06:07] DISCONNECTED 191.88.73.76:64329, code: 1001, reason: "", name: "Crystal"
+[NONE ][20:06:09] CONNECTED 191.88.73.76:64338, origin: "http://zapphy.epizy.com"
+[NONE ][20:08:32] >m 310 10000
+[WARN ][20:08:32] That player ID is non-existant!
+[NONE ][20:08:34] >pl
+[NONE ][20:08:34] 
+Current players: 21
+[NONE ][20:08:34] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][20:08:34]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][20:08:34] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][20:08:34]       1 | [BOT]           | ? |     2 |    264 | -1213,  3506 | [!!!]- xZCaNaD!               
+[NONE ][20:08:34]       2 | [BOT]           | ? |    14 |   2976 |   110,   332 | Timah                         
+[NONE ][20:08:34]       3 | [BOT]           | ? |     1 |   3319 |  5144, -5135 | •○☼9898☼○•                    
+[NONE ][20:08:34]       4 | [BOT]           | ? |     1 |    125 | -2207,  6757 | 𝓐𝓡𝐀𝐁𝐈𝐎✌                 
+[NONE ][20:08:34]       5 | [BOT]           | ? |     3 |    188 |  -751, -1004 | ItzBlueDragonz                
+[NONE ][20:08:34]     534 | 191.88.73.76    | 6 |     1 |    172 |  1283,   746 | Crystal                       
+[NONE ][20:08:56] >m 534 10000
+[NONE ][20:08:56] Set mass of Crystal to 10000.000
+[DEBUG][20:09:46] process.exit(1)
+=== Shutdown 2018-02-18T20-09-46-114 ===

@@ -1,0 +1,61 @@
+=== Started 2018-01-22T14-28-02-512 ===
+[INFO ][14:28:02] 419 bad words loaded
+[WARN ][14:28:02] User account "Local Administrator" disabled
+[WARN ][14:28:02] User account "Local Moderator" disabled
+[WARN ][14:28:02] User account "Local User" disabled
+[INFO ][14:28:02] 0 user records loaded.
+[INFO ][14:28:02] 0 IP ban records loaded.
+[INFO ][14:28:02] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:28:02] WebSocket: ws
+[INFO ][14:28:02] Started stats server on port 9090
+[INFO ][14:28:02] Listening on port 8888
+[INFO ][14:28:02] Current game mode is Free For All
+[INFO ][14:28:02] Added 15 player bots
+[NONE ][14:28:02]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:28:56] CONNECTED 127.0.0.1:49945, origin: "http://localhost"
+[NONE ][14:30:41] >pl
+[NONE ][14:30:41] 
+Current players: 26
+[NONE ][14:30:41] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][14:30:41]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][14:30:41] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][14:30:41]       1 | [BOT]           | ? |     3 |     93 |  -504, -1512 | DANDY                         
+[NONE ][14:30:41]       2 | [BOT]           | ? |     1 |    121 |  -457,    68 | Řußïηh⊕🎅🎄                  
+[NONE ][14:30:41]       3 | [BOT]           | ? |     8 |    694 |   618,  -249 | CY|RatZ 㟼                     
+[NONE ][14:30:41]       4 | [BOT]           | ? |     1 |    178 | -5792, -5098 | ๖ۣۜＭᶤʳᵃʸ✈━ƳƬ                  
+[NONE ][14:30:41]       5 | [BOT]           | ? |     9 |   1300 |   558,  -260 | Hypnotic                      
+[NONE ][14:30:41]       6 | [BOT]           | ? |     1 |    575 | -5299,  5483 | †ĤЏИÐ∑Ŕ♚ට🌀                   
+[NONE ][14:30:41]       7 | [BOT]           | ? |     4 |   1621 |   -90,  -818 | Destructor-漢語🔥               
+[NONE ][14:30:41]       8 | [BOT]           | ? |     3 |   1406 | -1338,  1735 | Hi there!                     
+[NONE ][14:30:41]       9 | [BOT]           | ? |    11 |   2657 |  -216,  -150 | solo                          
+[NONE ][14:30:41]      10 | [BOT]           | ? |     1 |     33 |  4382, -1623 | Jumbo                         
+[NONE ][14:30:41]      11 | [BOT]           | ? |     1 |     53 | -3035,  -708 | cabbage                       
+[NONE ][14:30:41]      12 | [BOT]           | ? |     1 |    570 |  5181, -6950 | TrickzYT👊                    
+[NONE ][14:30:41]      13 | [BOT]           | ? |     2 |    111 | -2644,   265 | ev0zzz                        
+[NONE ][14:30:41]      14 | [BOT]           | ? |     2 |    104 | -3368,  -987 | ß¥ຮ༻一xXƁreaƘ∞                 
+[NONE ][14:30:41]      15 | [BOT]           | ? |    12 |    833 |   322,   355 | sirius                        
+[NONE ][14:30:41]      16 | 127.0.0.1       | 6 |     1 |    139 |  2459,   145 | Zaphire!                      
+[NONE ][14:30:46] >m 16 10000
+[NONE ][14:30:46] Set mass of Zaphire! to 10000.000
+[NONE ][14:31:49] >m 16 17000
+[NONE ][14:31:49] Set mass of Zaphire! to 17000.000
+[NONE ][14:32:25] >m 16 22000
+[NONE ][14:32:25] Set mass of Zaphire! to 22000.000
+[NONE ][14:35:10] >m 16 22000
+[NONE ][14:35:10] Set mass of Zaphire! to 22000.000
+[NONE ][14:35:57] >m 16 17000
+[NONE ][14:35:57] Set mass of Zaphire! to 17000.000
+[NONE ][14:39:09] >m 16 22000
+[NONE ][14:39:09] Set mass of Zaphire! to 22000.000
+[NONE ][14:40:28] >m 16 17000
+[NONE ][14:40:28] Set mass of Zaphire! to 17000.000
+[NONE ][14:41:19] >m 16 22000
+[NONE ][14:41:19] Set mass of Zaphire! to 22000.000
+[NONE ][14:44:07] >m 16 17000
+[NONE ][14:44:07] Set mass of Zaphire! to 17000.000

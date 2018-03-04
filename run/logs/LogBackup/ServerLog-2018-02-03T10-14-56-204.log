@@ -1,0 +1,112 @@
+=== Started 2018-02-03T09-49-55-453 ===
+[INFO ][09:49:55] 419 bad words loaded
+[WARN ][09:49:55] User account "Local Administrator" disabled
+[WARN ][09:49:55] User account "Local Moderator" disabled
+[WARN ][09:49:55] User account "Local User" disabled
+[INFO ][09:49:55] 0 user records loaded.
+[INFO ][09:49:55] 0 IP ban records loaded.
+[INFO ][09:49:55] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][09:49:55] WebSocket: ws
+[INFO ][09:49:55] Started stats server on port 9090
+[INFO ][09:49:55] Listening on port 8888
+[INFO ][09:49:55] Current game mode is Free For All
+[INFO ][09:49:55] Added 15 player bots
+[NONE ][09:49:55]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][09:49:56] CONNECTED 127.0.0.1:54478, origin: "http://localhost"
+[NONE ][09:49:59] >pl
+[NONE ][09:49:59] 
+Current players: 31
+[NONE ][09:49:59] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][09:49:59]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][09:49:59] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][09:49:59]       1 | [BOT]           | ? |     1 |    895 |   701, -2037 | Vidsus                        
+[NONE ][09:49:59]       2 | [BOT]           | ? |     1 |    897 | -4171,  2905 | Crystal                       
+[NONE ][09:49:59]       3 | [BOT]           | ? |     1 |    889 |  5741, -5699 | TYT☢️SIRIUS♔kin               
+[NONE ][09:49:59]       4 | [BOT]           | ? |     1 |    893 | -2897,  5504 | 「米」❥๖₡σℓєαÐєя⇀                
+[NONE ][09:49:59]       5 | [BOT]           | ? |     2 |    889 |  2208,  2186 | 楤✈一๖ۣۜǤнσsτ⌁ᴳᵒᵈ               
+[NONE ][09:49:59]       6 | [BOT]           | ? |     1 |    892 |  4141, -4708 | Ŝȶ༻෴Ł€ØŇ                      
+[NONE ][09:49:59]       7 | [BOT]           | ? |     1 |    889 |  5380,   981 | ǤᕼOᔕ丅ℱŦ☣👿                    
+[NONE ][09:49:59]       8 | [BOT]           | ? |     1 |    889 |  5538,  2747 | Hi there!                     
+[NONE ][09:49:59]       9 | [BOT]           | ? |     2 |    924 |   -46,  2211 | GHT                           
+[NONE ][09:49:59]      10 | [BOT]           | ? |     2 |    930 |  3480, -2843 | 【⋨Ểฬṧ⋩】คժﻨረﻨծɪͥ               
+[NONE ][09:49:59]      11 | [BOT]           | ? |     1 |    892 | -4420, -1165 | ȺƉSΔ₱ ㊢ 娜哦饿伊                  
+[NONE ][09:49:59]      12 | [BOT]           | ? |     1 |    891 | -5170, -2188 | 100% Luck                     
+[NONE ][09:49:59]      13 | [BOT]           | ? |     1 |    890 | -4614,  5897 | EmmettIsPro:YT                
+[NONE ][09:49:59]      14 | [BOT]           | ? |     1 |    892 | -5910,  1855 | mexico                        
+[NONE ][09:49:59]      15 | [BOT]           | ? |     2 |    929 |  1051,  -570 | BUBBELBALZ                    
+[NONE ][09:49:59]      16 | 127.0.0.1       | 5 |     1 |    891 |  2920, -6921 | doge                          
+[NONE ][09:50:03] >m 16 15000
+[NONE ][09:50:03] Set mass of doge to 15000.000
+[NONE ][09:50:29] >m 16 15000
+[NONE ][09:50:29] Set mass of doge to 15000.000
+[NONE ][09:51:16] >m 16 15000
+[NONE ][09:51:16] Set mass of doge to 15000.000
+[NONE ][09:51:20] >m 16 22000
+[NONE ][09:51:20] Set mass of doge to 22000.000
+[NONE ][09:57:31] DISCONNECTED 127.0.0.1:54478, code: 1006, reason: "undefined", name: "{doge} "
+[NONE ][09:57:34] CONNECTED 127.0.0.1:55117, origin: "http://localhost"
+[NONE ][09:57:34] DISCONNECTED 127.0.0.1:55117, code: 1000, reason: "", name: ""
+[NONE ][09:57:34] CONNECTED 127.0.0.1:55120, origin: "http://localhost"
+[NONE ][09:59:50] >ka
+[NONE ][10:00:08] DISCONNECTED 127.0.0.1:55120, code: 1006, reason: "undefined", name: "{doge}"
+[NONE ][10:00:10] CONNECTED 127.0.0.1:55334, origin: "http://localhost"
+[NONE ][10:00:10] DISCONNECTED 127.0.0.1:55334, code: 1000, reason: "", name: ""
+[NONE ][10:00:10] CONNECTED 127.0.0.1:55335, origin: "http://localhost"
+[NONE ][10:00:45] DISCONNECTED 127.0.0.1:55335, code: 1006, reason: "undefined", name: "{doge}"
+[NONE ][10:00:49] CONNECTED 127.0.0.1:55395, origin: "http://localhost"
+[NONE ][10:00:49] DISCONNECTED 127.0.0.1:55395, code: 1000, reason: "", name: ""
+[NONE ][10:00:49] CONNECTED 127.0.0.1:55396, origin: "http://localhost"
+[NONE ][10:00:57] >j 16
+[WARN ][10:00:57] Invalid Command!
+[NONE ][10:00:59] >k 16
+[WARN ][10:00:59] That player ID is non-existant!
+[NONE ][10:01:00] >ka
+[NONE ][10:06:00] >m 16 22000
+[WARN ][10:06:00] That player ID is non-existant!
+[NONE ][10:06:02] >pl
+[NONE ][10:06:02] 
+Current players: 31
+[NONE ][10:06:02] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][10:06:02]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK                           
+[NONE ][10:06:02] ───────────────────────────────────────────────────────────────────────────────────────────────
+[NONE ][10:06:02]       1 | [BOT]           | ? |    14 |   8070 |   -85,   -28 | Vidsus                        
+[NONE ][10:06:02]       2 | [BOT]           | ? |     1 |   1801 | -4110, -5428 | Crystal                       
+[NONE ][10:06:02]       3 | [BOT]           | ? |     2 |    259 |  3496, -3496 | TYT☢️SIRIUS♔kin               
+[NONE ][10:06:02]       4 | [BOT]           | ? |     2 |     74 |  2185,  2118 | 「米」❥๖₡σℓєαÐєя⇀                
+[NONE ][10:06:02]       5 | [BOT]           | ? |     7 |    300 |   712,   458 | 楤✈一๖ۣۜǤнσsτ⌁ᴳᵒᵈ               
+[NONE ][10:06:02]       6 | [BOT]           | ? |     1 |     58 |  1767, -6808 | Ŝȶ༻෴Ł€ØŇ                      
+[NONE ][10:06:02]       7 | [BOT]           | ? |     4 |   8127 |  1419, -1490 | ǤᕼOᔕ丅ℱŦ☣👿                    
+[NONE ][10:06:02]       8 | [BOT]           | ? |     5 |    367 |  -367,  -509 | Hi there!                     
+[NONE ][10:06:02]       9 | [BOT]           | ? |     8 |   1032 |  -274,  -134 | GHT                           
+[NONE ][10:06:02]      10 | [BOT]           | ? |     1 |    203 | -1493, -6691 | 【⋨Ểฬṧ⋩】คժﻨረﻨծɪͥ               
+[NONE ][10:06:02]      11 | [BOT]           | ? |    16 |   1343 |   150,   287 | ȺƉSΔ₱ ㊢ 娜哦饿伊                  
+[NONE ][10:06:02]      12 | [BOT]           | ? |    11 |   5610 |  -303,  -313 | 100% Luck                     
+[NONE ][10:06:02]      13 | [BOT]           | ? |     8 |    407 |  -673,   385 | EmmettIsPro:YT                
+[NONE ][10:06:02]      14 | [BOT]           | ? |     4 |    531 |  -483, -1055 | mexico                        
+[NONE ][10:06:02]      15 | [BOT]           | ? |    10 |    904 |  -701,  -337 | BUBBELBALZ                    
+[NONE ][10:06:02]     112 | 127.0.0.1       | 5 |     1 |    317 | -4170,  4861 | doge                          
+[NONE ][10:06:05] >m 112 10000
+[NONE ][10:06:05] Set mass of doge to 10000.000
+[NONE ][10:06:31] >m 112 10000
+[NONE ][10:06:31] Set mass of doge to 10000.000
+[NONE ][10:06:35] >m 112 12000
+[NONE ][10:06:35] Set mass of doge to 12000.000
+[NONE ][10:06:40] >m 112 13000
+[NONE ][10:06:40] Set mass of doge to 13000.000
+[NONE ][10:07:22] >m 112 22000
+[NONE ][10:07:22] Set mass of doge to 22000.000
+[NONE ][10:10:31] >m 112 22000
+[NONE ][10:10:31] Set mass of doge to 22000.000
+[NONE ][10:11:59] >m 112 13000
+[NONE ][10:11:59] Set mass of doge to 13000.000
+[NONE ][10:12:28] >m 112 22000
+[NONE ][10:12:28] Set mass of doge to 22000.000
+[DEBUG][10:14:55] process.exit(1)
+=== Shutdown 2018-02-03T10-14-55-637 ===

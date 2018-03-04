@@ -1,0 +1,27 @@
+=== Started 2018-01-27T15-31-58-767 ===
+[INFO ][15:31:58] 419 bad words loaded
+[WARN ][15:31:58] User account "Local Administrator" disabled
+[WARN ][15:31:58] User account "Local Moderator" disabled
+[WARN ][15:31:58] User account "Local User" disabled
+[INFO ][15:31:58] 0 user records loaded.
+[INFO ][15:31:58] 0 IP ban records loaded.
+[INFO ][15:31:58] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:31:58] WebSocket: ws
+[INFO ][15:31:59] Started stats server on port 9090
+[INFO ][15:31:59] Listening on port 8888
+[INFO ][15:31:59] Current game mode is Free For All
+[INFO ][15:31:59] Added 15 player bots
+[NONE ][15:31:59]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:32:15] CONNECTED 127.0.0.1:50998, origin: "http://agar.io"
+[NONE ][15:33:39] >m 16 9000
+[NONE ][15:33:39] Set mass of Zapphire to 9000.000
+[NONE ][15:34:08] >m 16 14000
+[NONE ][15:34:08] Set mass of Zapphire to 14000.000
+[NONE ][15:34:43] >addbot 30
+[NONE ][15:34:43] Added 30 player bots
+[NONE ][15:44:52] DISCONNECTED 127.0.0.1:50998, code: 1006, reason: "undefined", name: "Zapphire"
